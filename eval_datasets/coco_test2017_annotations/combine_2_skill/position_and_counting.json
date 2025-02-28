@@ -1,0 +1,2030 @@
+[
+    {
+        "question_id": "1.1",
+        "question": "How many buses are visible behind the railing?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1"
+        }
+    },
+    {
+        "question_id": "2.1",
+        "question": "From the bartender's perspective, how many people are farther than the countertop?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69"
+        }
+    },
+    {
+        "question_id": "2.2",
+        "question": "From the bartender's perspective, how many people are closer than the countertop?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69"
+        }
+    },
+    {
+        "question_id": "2.3",
+        "question": "How many people are in front of the bartender?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69"
+        }
+    },
+    {
+        "question_id": "2.4",
+        "question": "How many people are standing in front of the counter?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69"
+        }
+    },
+    {
+        "question_id": "3.1",
+        "question": "How many trees are to the right of the cow?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "90"
+        }
+    },
+    {
+        "question_id": "4.1",
+        "question": "How many displays are to the right of the keyboard?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "509"
+        }
+    },
+    {
+        "question_id": "5.1",
+        "question": "How many skateboards are below the man?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1367"
+        }
+    },
+    {
+        "question_id": "5.2",
+        "question": "How many skateboards are to the left of the man?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1367"
+        }
+    },
+    {
+        "question_id": "6.1",
+        "question": "From the perspective of the viewer, how many laptops are on the left side of the man?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1459"
+        }
+    },
+    {
+        "question_id": "6.2",
+        "question": "If you are the man in the image, how many laptops are on your left?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1459"
+        }
+    },
+    {
+        "question_id": "7.1",
+        "question": "How many people are standing between those wearing red?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1671"
+        }
+    },
+    {
+        "question_id": "8.1",
+        "question": "How many trains are to the right of the sign numbered \"2\"?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2233"
+        }
+    },
+    {
+        "question_id": "8.2",
+        "question": "How many trains are to the left of the sign numbered \"2\"?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2233"
+        }
+    },
+    {
+        "question_id": "9.1",
+        "question": "From the perspective of the man, how many tennis balls are behind him?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3081"
+        }
+    },
+    {
+        "question_id": "9.2",
+        "question": "From the perspective of the man, how many tennis balls are in front of him?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3081"
+        }
+    },
+    {
+        "question_id": "10.1",
+        "question": "How many forks are to the left of the cake?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3407"
+        }
+    },
+    {
+        "question_id": "10.2",
+        "question": "How many forks are to the right of the cake?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3407"
+        }
+    },
+    {
+        "question_id": "11.1",
+        "question": "From the giraffe's perspective, how many blue buckets are to its right?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3581"
+        }
+    },
+    {
+        "question_id": "11.2",
+        "question": "From the giraffe's perspective, how many blue buckets are to its left?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3581"
+        }
+    },
+    {
+        "question_id": "12.1",
+        "question": "How many zebras are to the left of the duck?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3805"
+        }
+    },
+    {
+        "question_id": "13.1",
+        "question": "How many buses are in front of the white car closest to the camera?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4505"
+        }
+    },
+    {
+        "question_id": "13.2",
+        "question": "How many buses are behind the white car closest to the camera?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4505"
+        }
+    },
+    {
+        "question_id": "14.1",
+        "question": "How many umbrellas are to the right of the woman in red?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4790"
+        }
+    },
+    {
+        "question_id": "14.2",
+        "question": "From the perspective of the women in a red dress, how many umbrellas are directly above her?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4790"
+        }
+    },
+    {
+        "question_id": "15.1",
+        "question": "From the perspective of the man wearing an orange shirt, how many bikes are to his right?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "7640"
+        }
+    },
+    {
+        "question_id": "15.2",
+        "question": "How many bikes are on the left of the man wearing an orange shirt?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "7640"
+        }
+    },
+    {
+        "question_id": "16.1",
+        "question": "How many bowls are to the right of the bowl containing tomatoes?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "9232"
+        }
+    },
+    {
+        "question_id": "17.1",
+        "question": "How many sheep are to the right of the dog?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21200"
+        }
+    },
+    {
+        "question_id": "17.2",
+        "question": "How many sheep are to the left of the dog?",
+        "option": null,
+        "answer": "9",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21200"
+        }
+    },
+    {
+        "question_id": "18.1",
+        "question": "How many people are to the right of the bench?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27312"
+        }
+    },
+    {
+        "question_id": "19.1",
+        "question": "How many plates are on the right of the cup?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "67701"
+        }
+    },
+    {
+        "question_id": "19.2",
+        "question": "How many plates are above the cup?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "67701"
+        }
+    },
+    {
+        "question_id": "20.1",
+        "question": "How many plates are to the top of the magazine?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71650"
+        }
+    },
+    {
+        "question_id": "20.2",
+        "question": "How many plates are to the left of the magazine?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71650"
+        }
+    },
+    {
+        "question_id": "21.1",
+        "question": "From the horse's perspective, how many dogs are behind it?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72806"
+        }
+    },
+    {
+        "question_id": "21.2",
+        "question": "How many dogs are to the left of the horse?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72806"
+        }
+    },
+    {
+        "question_id": "22.1",
+        "question": "How many cups are above the orange toothbrush?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "76552"
+        }
+    },
+    {
+        "question_id": "22.2",
+        "question": "How many cups are on the right side of the orange toothbrush?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "76552"
+        }
+    },
+    {
+        "question_id": "22.3",
+        "question": "How many cups are to the left of the yellow toothbrush?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "76552"
+        }
+    },
+    {
+        "question_id": "23.1",
+        "question": "From the perspective of the man, how many laptops are behind him?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "78847"
+        }
+    },
+    {
+        "question_id": "23.2",
+        "question": "From the perspective of the man, how many laptops are in front of him?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "78847"
+        }
+    },
+    {
+        "question_id": "24.1",
+        "question": "How many pastries are on the left of the coffee mug?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "83203"
+        }
+    },
+    {
+        "question_id": "24.2",
+        "question": "How many pastries are below the coffee mug in the top-down view, along the vertical axis?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "83203"
+        }
+    },
+    {
+        "question_id": "25.1",
+        "question": "How many forks are to the left of the knife?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "85654"
+        }
+    },
+    {
+        "question_id": "25.2",
+        "question": "How many forks are to the right of the knife?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "85654"
+        }
+    },
+    {
+        "question_id": "26.1",
+        "question": "How many buses are driving behind the taxi?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "86038"
+        }
+    },
+    {
+        "question_id": "27.1",
+        "question": "From the perspective of the doll in red, how many dolls are on its right side?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "90063"
+        }
+    },
+    {
+        "question_id": "28.1",
+        "question": "From the perspective of the white horse, how many men are in front of it?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "101422"
+        }
+    },
+    {
+        "question_id": "29.1",
+        "question": "How many bicycles are to the right of the fire hydrant?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "109413"
+        }
+    },
+    {
+        "question_id": "29.2",
+        "question": "How many bicycles are to the left of the fire hydrant?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "109413"
+        }
+    },
+    {
+        "question_id": "30.1",
+        "question": "From the perspective of the giraffe, how many animals are behind it?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "116671"
+        }
+    },
+    {
+        "question_id": "30.2",
+        "question": "From the perspective of the giraffe, how many animals are in front of it?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "116671"
+        }
+    },
+    {
+        "question_id": "30.3",
+        "question": "How many animals are to the left of the elephant?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "116671"
+        }
+    },
+    {
+        "question_id": "30.4",
+        "question": "How many animals are to the right of the elephant?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "116671"
+        }
+    },
+    {
+        "question_id": "31.1",
+        "question": "How many people are to the right of the soccer ball?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "123592"
+        }
+    },
+    {
+        "question_id": "31.2",
+        "question": "How many people are to the left of the soccer ball in this photo?",
+        "option": null,
+        "answer": "6",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "123592"
+        }
+    },
+    {
+        "question_id": "32.1",
+        "question": "From the perspective of the driver of the green bus, how many buses are behind?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "129691"
+        }
+    },
+    {
+        "question_id": "32.2",
+        "question": "From the perspective of the driver of the green bus, how many buses are in front?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "129691"
+        }
+    },
+    {
+        "question_id": "33.1",
+        "question": "From the perspective of the black cow, how many chickens are behind it?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "129884"
+        }
+    },
+    {
+        "question_id": "33.2",
+        "question": "From the perspective of the black cow, how many chickens are in front of it?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "129884"
+        }
+    },
+    {
+        "question_id": "34.1",
+        "question": "How many people are to the left of the sofa?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "152735"
+        }
+    },
+    {
+        "question_id": "35.1",
+        "question": "How many plates are to the left of the bag of chips?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "156091"
+        }
+    },
+    {
+        "question_id": "36.1",
+        "question": "How many water tanks are to the left of the standing fan?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "170047"
+        }
+    },
+    {
+        "question_id": "36.2",
+        "question": "How many water tanks are to the right of the television?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "170047"
+        }
+    },
+    {
+        "question_id": "37.1",
+        "question": "How many strawberries are to the left of the green mug?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "170386"
+        }
+    },
+    {
+        "question_id": "37.2",
+        "question": "How many strawberries are below the plate?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "170386"
+        }
+    },
+    {
+        "question_id": "38.1",
+        "question": "How many keyboards are to the right of the cat?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "175577"
+        }
+    },
+    {
+        "question_id": "39.1",
+        "question": "How many tennis rackets are to the left of the tennis ball?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "183583"
+        }
+    },
+    {
+        "question_id": "39.2",
+        "question": "How many tennis rackets are to the right of the tennis ball?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "183583"
+        }
+    },
+    {
+        "question_id": "40.1",
+        "question": "How many signboards are below the wooden signboard?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "184083"
+        }
+    },
+    {
+        "question_id": "40.2",
+        "question": "How many signboards are above the wooden signboard?",
+        "option": null,
+        "answer": "6",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "184083"
+        }
+    },
+    {
+        "question_id": "41.1",
+        "question": "From the perspective of the man in a blue shirt, how many people are on his right?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "188190"
+        }
+    },
+    {
+        "question_id": "41.2",
+        "question": "From the perspective of the man in a blue shirt, how many people are on his left?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "188190"
+        }
+    },
+    {
+        "question_id": "42.1",
+        "question": "From the perspective of the horse, how many people are on its right?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "189271"
+        }
+    },
+    {
+        "question_id": "42.2",
+        "question": "From the perspective of the horse, how many people are on its left?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "189271"
+        }
+    },
+    {
+        "question_id": "43.1",
+        "question": "How many people are to the left of the surfboard?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "199684"
+        }
+    },
+    {
+        "question_id": "43.2",
+        "question": "How many people are to the right of the surfboard?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "199684"
+        }
+    },
+    {
+        "question_id": "44.1",
+        "question": "From the perspective of the black bear, how many bears are behind it?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "219131"
+        }
+    },
+    {
+        "question_id": "44.2",
+        "question": "From the perspective of the black bear, how many bears are in front of it?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "219131"
+        }
+    },
+    {
+        "question_id": "45.1",
+        "question": "How many computer screens are to the left of the mug?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "233511"
+        }
+    },
+    {
+        "question_id": "46.1",
+        "question": "How many plant pots are to the left of the bed?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "239822"
+        }
+    },
+    {
+        "question_id": "46.2",
+        "question": "How many plant pots are to the right of the bed?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "239822"
+        }
+    },
+    {
+        "question_id": "47.1",
+        "question": "How many red apples are to the right of the green apple?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "247334"
+        }
+    },
+    {
+        "question_id": "47.2",
+        "question": "How many red apples are to the left of the green apple?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "247334"
+        }
+    },
+    {
+        "question_id": "48.1",
+        "question": "How many bikes are above the building?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "248915"
+        }
+    },
+    {
+        "question_id": "49.1",
+        "question": "From the perspective of the person, how many rackets are behind them?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "259607"
+        }
+    },
+    {
+        "question_id": "49.2",
+        "question": "From the perspective of the person, how many rackets are in front of them?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "259607"
+        }
+    },
+    {
+        "question_id": "50.1",
+        "question": "From the perspective of the rightmost sheep, how many sheep are to its left?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "272427"
+        }
+    },
+    {
+        "question_id": "51.1",
+        "question": "How many apples are to the left of the banana?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "274355"
+        }
+    },
+    {
+        "question_id": "51.2",
+        "question": "How many apples are above the banana?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "274355"
+        }
+    },
+    {
+        "question_id": "52.1",
+        "question": "From the cat's perspective, how many luggages are on its left?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "277920"
+        }
+    },
+    {
+        "question_id": "52.2",
+        "question": "From the cat's perspective, how many luggages are on its right?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "277920"
+        }
+    },
+    {
+        "question_id": "53.1",
+        "question": "How many cows are below the white cow in the top-down view, along the vertical axis?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "288572"
+        }
+    },
+    {
+        "question_id": "54.1",
+        "question": "How many people are to the right of the ball?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "317140"
+        }
+    },
+    {
+        "question_id": "54.2",
+        "question": "How many people are to the left of the ball?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "317140"
+        }
+    },
+    {
+        "question_id": "55.1",
+        "question": "How many white plates are to the left of the straw?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "317667"
+        }
+    },
+    {
+        "question_id": "55.2",
+        "question": "How many white plates are below the straw in the top-down view, along the vertical axis?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "317667"
+        }
+    },
+    {
+        "question_id": "56.1",
+        "question": "How many penguins are to the left of the red flag?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "319826"
+        }
+    },
+    {
+        "question_id": "57.1",
+        "question": "How many people are above the elephant?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "326194"
+        }
+    },
+    {
+        "question_id": "58.1",
+        "question": "How many people are above the bench?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "327402"
+        }
+    },
+    {
+        "question_id": "59.1",
+        "question": "How many children are to the right of the slide?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "332323"
+        }
+    },
+    {
+        "question_id": "59.2",
+        "question": "How many children are to the left of the slide?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "332323"
+        }
+    },
+    {
+        "question_id": "60.1",
+        "question": "From the perspective of the man, how many frisbees are behind him?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "333576"
+        }
+    },
+    {
+        "question_id": "60.2",
+        "question": "From the perspective of the man, how many frisbees are in front of him?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "333576"
+        }
+    },
+    {
+        "question_id": "61.1",
+        "question": "From the perspective of the man wearing a black blazer, how many tennis rackets are on his right?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "347337"
+        }
+    },
+    {
+        "question_id": "62.1",
+        "question": "From the perspective of the child, how many teddy bears are behind her?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "347540"
+        }
+    },
+    {
+        "question_id": "62.2",
+        "question": "From the perspective of the child, how many teddy bears are in front of her?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "347540"
+        }
+    },
+    {
+        "question_id": "63.1",
+        "question": "From the perspective of the rightmost panda, how many carrots are in front of it?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "354015"
+        }
+    },
+    {
+        "question_id": "64.1",
+        "question": "How many pens are to the right of the keys?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "365680"
+        }
+    },
+    {
+        "question_id": "64.2",
+        "question": "How many pens are to the left of the keys?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "365680"
+        }
+    },
+    {
+        "question_id": "65.1",
+        "question": "How many animals are to the right of the zebra?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "371625"
+        }
+    },
+    {
+        "question_id": "66.1",
+        "question": "From the perspective of the man in yellow, how many people are to his right?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "372918"
+        }
+    },
+    {
+        "question_id": "66.2",
+        "question": "How many people are to the right of the man in yellow?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "372918"
+        }
+    },
+    {
+        "question_id": "67.1",
+        "question": "How many wine glasses are to the right of the man?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "381872"
+        }
+    },
+    {
+        "question_id": "68.1",
+        "question": "How many cats are to the right of the laptop?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "387053"
+        }
+    },
+    {
+        "question_id": "69.1",
+        "question": "From the woman's perspective, how many dogs are to her right?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "389802"
+        }
+    },
+    {
+        "question_id": "69.2",
+        "question": "From the woman's perspective, how many dogs are in front of her?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "389802"
+        }
+    },
+    {
+        "question_id": "70.1",
+        "question": "How many people are below the elephant in the photo?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "394386"
+        }
+    },
+    {
+        "question_id": "70.2",
+        "question": "How many people are above the elephant in the photo?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "394386"
+        }
+    },
+    {
+        "question_id": "71.1",
+        "question": "How many cats are to the right of the orange cat?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "400946"
+        }
+    },
+    {
+        "question_id": "71.2",
+        "question": "How many cats are to the left of the orange cat?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "400946"
+        }
+    },
+    {
+        "question_id": "72.1",
+        "question": "How many giraffes are to the left of the middle fence?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "407014"
+        }
+    },
+    {
+        "question_id": "72.2",
+        "question": "How many giraffes are to the right of the middle fence?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "407014"
+        }
+    },
+    {
+        "question_id": "73.1",
+        "question": "How many lamps are in front of the bookshelf?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "418025"
+        }
+    },
+    {
+        "question_id": "74.1",
+        "question": "How many people are to the right of the tennis racket?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "431483"
+        }
+    },
+    {
+        "question_id": "75.1",
+        "question": "From the perspective of the man in red, how many skateboards are to his left?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "432960"
+        }
+    },
+    {
+        "question_id": "75.2",
+        "question": "How many skateboards are to the left of the man in red?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "432960"
+        }
+    },
+    {
+        "question_id": "76.1",
+        "question": "From the perspective of the shortest giraffe, how many giraffes are in front of it?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "437730"
+        }
+    },
+    {
+        "question_id": "77.1",
+        "question": "From the perspective of the person wearing a red shirt, how many people are on his right?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "441143"
+        }
+    },
+    {
+        "question_id": "78.1",
+        "question": "How many surfboards are to the left of the yellow surfboard?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "442700"
+        }
+    },
+    {
+        "question_id": "79.1",
+        "question": "From the perspective of the fully brown horse, how many horses are behind it?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "443487"
+        }
+    },
+    {
+        "question_id": "79.2",
+        "question": "From the perspective of the fully brown horse, how many horses are in front of it?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "443487"
+        }
+    },
+    {
+        "question_id": "80.1",
+        "question": "How many balls are behind the child wearing black shorts?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "444819"
+        }
+    },
+    {
+        "question_id": "80.2",
+        "question": "How many balls are in front of the child wearing black shorts?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "444819"
+        }
+    },
+    {
+        "question_id": "81.1",
+        "question": "From the perspective of the woman, how many tennis balls are moving directly in front of her?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "448281"
+        }
+    },
+    {
+        "question_id": "82.1",
+        "question": "How many shrimps are below the piece of corn in the top-down view, along the vertical axis?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "453730"
+        }
+    },
+    {
+        "question_id": "83.1",
+        "question": "From the perspective of the boy in orange, how many people are behind him?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "454635"
+        }
+    },
+    {
+        "question_id": "83.2",
+        "question": "From the perspective of the boy in orange, how many people are in front of him?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "454635"
+        }
+    },
+    {
+        "question_id": "84.1",
+        "question": "From the perspective of the man, how many plates are to his right?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "486270"
+        }
+    },
+    {
+        "question_id": "85.1",
+        "question": "How many people are to the right of the lamp?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "488899"
+        }
+    },
+    {
+        "question_id": "86.1",
+        "question": "From the perspective of the lady in blue, how many people are in front of her?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "490901"
+        }
+    },
+    {
+        "question_id": "86.2",
+        "question": "From the perspective of the lady in blue, how many people are to her left?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "490901"
+        }
+    },
+    {
+        "question_id": "87.1",
+        "question": "How many forks are to the left of the knife?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "498048"
+        }
+    },
+    {
+        "question_id": "87.2",
+        "question": "How many forks are to the right of the knife?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "498048"
+        }
+    },
+    {
+        "question_id": "88.1",
+        "question": "How many tennis rackets are on the left of the tennis ball?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "507497"
+        }
+    },
+    {
+        "question_id": "89.1",
+        "question": "How many wine glasses are to the right of the vase?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "510370"
+        }
+    },
+    {
+        "question_id": "89.2",
+        "question": "How many wine glasses are to the left of the vase?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "510370"
+        }
+    },
+    {
+        "question_id": "90.1",
+        "question": "From the perspective of the woman, how many candles are to the left of the blue knife?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "510978"
+        }
+    },
+    {
+        "question_id": "90.2",
+        "question": "How many candles are to the left of the blue knife?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "510978"
+        }
+    },
+    {
+        "question_id": "91.1",
+        "question": "How many oranges are to the right of the banana?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "518035"
+        }
+    },
+    {
+        "question_id": "91.2",
+        "question": "How many oranges are to the left of the banana?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "518035"
+        }
+    },
+    {
+        "question_id": "92.1",
+        "question": "How many horses are on the right of the woman?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "527117"
+        }
+    },
+    {
+        "question_id": "93.1",
+        "question": "From the perspective of the man in white, how many tennis balls are behind him?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "538866"
+        }
+    },
+    {
+        "question_id": "93.2",
+        "question": "From the perspective of the man in white, how many tennis balls are in front of him?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "538866"
+        }
+    },
+    {
+        "question_id": "94.1",
+        "question": "From the perspective of the man, how many chairs are to his right?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "543593"
+        }
+    },
+    {
+        "question_id": "94.2",
+        "question": "From the perspective of the man, how many chairs are to his left?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "543593"
+        }
+    },
+    {
+        "question_id": "95.1",
+        "question": "How many cases are placed on top of the green basket?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "545810"
+        }
+    },
+    {
+        "question_id": "96.1",
+        "question": "From the perspective of the adult duck, how many ducks are behind it?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "547151"
+        }
+    },
+    {
+        "question_id": "96.2",
+        "question": "From the perspective of the adult duck, how many ducks are in front of it?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "547151"
+        }
+    },
+    {
+        "question_id": "97.1",
+        "question": "How many tomatoes are to the left of the bananas?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "557489"
+        }
+    },
+    {
+        "question_id": "97.2",
+        "question": "How many tomatoes are to the right of the bananas?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "557489"
+        }
+    },
+    {
+        "question_id": "98.1",
+        "question": "How many people are to the left of the frisbee?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "561719"
+        }
+    },
+    {
+        "question_id": "99.1",
+        "question": "From the giraffe's perspective, how many zebras are behind it?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "573506"
+        }
+    },
+    {
+        "question_id": "99.2",
+        "question": "How many zebras are to the left of the giraffe?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "573506"
+        }
+    },
+    {
+        "question_id": "100.1",
+        "question": "How many forks are to the right of the mug?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "573673"
+        }
+    },
+    {
+        "question_id": "100.2",
+        "question": "How many forks are to the left of the mug?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "573673"
+        }
+    },
+    {
+        "question_id": "101.1",
+        "question": "How many frisbees are to the left of the dog?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "581644"
+        }
+    },
+    {
+        "question_id": "101.2",
+        "question": "How many frisbees are to the right of the dog?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "581644"
+        }
+    }
+]

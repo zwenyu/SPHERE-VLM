@@ -1,0 +1,3032 @@
+[
+    {
+        "question_id": "1",
+        "question": "Which person is closer to the bartender?",
+        "option": [
+            "man in glasses",
+            "woman in pink"
+        ],
+        "answer": "man in glasses",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69"
+        }
+    },
+    {
+        "question_id": "2",
+        "question": "Which item has a shorter distance to the plate of food?",
+        "option": [
+            "drink glass",
+            "ketchup bottle"
+        ],
+        "answer": "ketchup bottle",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "183"
+        }
+    },
+    {
+        "question_id": "3",
+        "question": "Which object is more distant from the plant?",
+        "option": [
+            "chair",
+            "table"
+        ],
+        "answer": "chair",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "275"
+        }
+    },
+    {
+        "question_id": "4",
+        "question": "Which group of people is farther away from the motorcycle?",
+        "option": [
+            "people sitting on the left",
+            "people standing on the right"
+        ],
+        "answer": "people sitting on the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "318"
+        }
+    },
+    {
+        "question_id": "5",
+        "question": "Which child is closer to the book shelf?",
+        "option": [
+            "child in white shirt and black shorts",
+            "child with black hair in pink shirt"
+        ],
+        "answer": "child in white shirt and black shorts",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "345"
+        }
+    },
+    {
+        "question_id": "6",
+        "question": "Which person is sitting closer to the juice?",
+        "option": [
+            "woman in the gray jacket",
+            "woman in the colorful dress"
+        ],
+        "answer": "woman in the colorful dress",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "448"
+        }
+    },
+    {
+        "question_id": "7",
+        "question": "Who is closer to the green backpack?",
+        "option": [
+            "the girl with black backpack",
+            "the lady with orange dress"
+        ],
+        "answer": "the lady with orange dress",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "453"
+        }
+    },
+    {
+        "question_id": "8",
+        "question": "Which person is closer to the football?",
+        "option": [
+            "boy wearing a red shirt and sitting on the sofa",
+            "person wearing a gray shirt and sitting on the sofa"
+        ],
+        "answer": "boy wearing a red shirt and sitting on the sofa",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "456"
+        }
+    },
+    {
+        "question_id": "9",
+        "question": "Which object is nearer to the child?",
+        "option": [
+            "open cabinet",
+            "oven"
+        ],
+        "answer": "oven",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "492"
+        }
+    },
+    {
+        "question_id": "10",
+        "question": "Which object is more distant from the tree in the middle of the picture?",
+        "option": [
+            "the car",
+            "the fire hydrant"
+        ],
+        "answer": "the car",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "549"
+        }
+    },
+    {
+        "question_id": "11",
+        "question": "Which person is farther away from the bananas?",
+        "option": [
+            "the person in blue shirt",
+            "woman in orange shirt"
+        ],
+        "answer": "woman in orange shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "619"
+        }
+    },
+    {
+        "question_id": "12",
+        "question": "Which person has a shorter distance to the cup?",
+        "option": [
+            "person in black jacket",
+            "person on the right"
+        ],
+        "answer": "person on the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "686"
+        }
+    },
+    {
+        "question_id": "13",
+        "question": "Which animal is closer to the tree?",
+        "option": [
+            "giraffe",
+            "ostrich"
+        ],
+        "answer": "giraffe",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "953"
+        }
+    },
+    {
+        "question_id": "14",
+        "question": "Which person is closer to the frisbee?",
+        "option": [
+            "boy throwing the frisbee",
+            "woman receiving the frisbee"
+        ],
+        "answer": "boy throwing the frisbee",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1076"
+        }
+    },
+    {
+        "question_id": "15",
+        "question": "Which item is more distant from the window?",
+        "option": [
+            "cactus",
+            "dish rack"
+        ],
+        "answer": "cactus",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1198"
+        }
+    },
+    {
+        "question_id": "16",
+        "question": "Which object is closer to the dog lying on the floor?",
+        "option": [
+            "crib",
+            "dog bed"
+        ],
+        "answer": "crib",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1257"
+        }
+    },
+    {
+        "question_id": "17",
+        "question": "Which section of the store is farther from the checkout area?",
+        "option": [
+            "produce table",
+            "seating area"
+        ],
+        "answer": "seating area",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1309"
+        }
+    },
+    {
+        "question_id": "18",
+        "question": "Which object is more distant from the sheep?",
+        "option": [
+            "dome structure",
+            "pipeline"
+        ],
+        "answer": "dome structure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1380"
+        }
+    },
+    {
+        "question_id": "19",
+        "question": "Which player is farther from first base?",
+        "option": [
+            "player in blue jersey",
+            "player in white jersey"
+        ],
+        "answer": "player in white jersey",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1730"
+        }
+    },
+    {
+        "question_id": "20",
+        "question": "Which object is nearer to the boy?",
+        "option": [
+            "bowl",
+            "cake"
+        ],
+        "answer": "cake",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1956"
+        }
+    },
+    {
+        "question_id": "21",
+        "question": "Which person is farther from the table?",
+        "option": [
+            "man in a gray shirt",
+            "woman in a beige jacket"
+        ],
+        "answer": "man in a gray shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2063"
+        }
+    },
+    {
+        "question_id": "22",
+        "question": "Which object is closer to the backpack?",
+        "option": [
+            "the sunglasses",
+            "the trekking poles"
+        ],
+        "answer": "the sunglasses",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2166"
+        }
+    },
+    {
+        "question_id": "23",
+        "question": "Which object has a shorter distance to the yellow chair?",
+        "option": [
+            "man in the kitchen",
+            "wooden shelf"
+        ],
+        "answer": "wooden shelf",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3750"
+        }
+    },
+    {
+        "question_id": "24",
+        "question": "Which food is closer to the turkey?",
+        "option": [
+            "corns",
+            "the roll"
+        ],
+        "answer": "corns",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3901"
+        }
+    },
+    {
+        "question_id": "25",
+        "question": "Which sink has a shorter distance to the hair dryer?",
+        "option": [
+            "left sink",
+            "right sink"
+        ],
+        "answer": "left sink",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4000"
+        }
+    },
+    {
+        "question_id": "26",
+        "question": "Which item is farther from the glass of wine?",
+        "option": [
+            "dessert plate",
+            "person's hand"
+        ],
+        "answer": "person's hand",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4446"
+        }
+    },
+    {
+        "question_id": "27",
+        "question": "Which person is closer to the woman in the red dress?",
+        "option": [
+            "woman in the black dress",
+            "woman in the white cardigan"
+        ],
+        "answer": "woman in the black dress",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4790"
+        }
+    },
+    {
+        "question_id": "28",
+        "question": "Which person is farther from the pizza?",
+        "option": [
+            "woman in the middle",
+            "woman on the left"
+        ],
+        "answer": "woman in the middle",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "5354"
+        }
+    },
+    {
+        "question_id": "29",
+        "question": "Which skier is more distant from the child skiing on the slope?",
+        "option": [
+            "skier in black",
+            "skier in blue"
+        ],
+        "answer": "skier in black",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6173"
+        }
+    },
+    {
+        "question_id": "30",
+        "question": "Which person has a shorter distance to the bowl of apples?",
+        "option": [
+            "woman in blue shirt with curly hair",
+            "woman in green shirt and orange scarf"
+        ],
+        "answer": "woman in green shirt and orange scarf",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6284"
+        }
+    },
+    {
+        "question_id": "31",
+        "question": "Which person is sitting closer to the girl with red hair?",
+        "option": [
+            "first person on the left",
+            "second person in the middle"
+        ],
+        "answer": "second person in the middle",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6504"
+        }
+    },
+    {
+        "question_id": "32",
+        "question": "Which container has a shorter distance to the woman peeling the carrots?",
+        "option": [
+            "bucket for scraps",
+            "metal container with carrots"
+        ],
+        "answer": "bucket for scraps",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6557"
+        }
+    },
+    {
+        "question_id": "33",
+        "question": "Which boat has a shorter distance to the bank?",
+        "option": [
+            "boat with a cleaning sign",
+            "boat with passengers"
+        ],
+        "answer": "boat with passengers",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6570"
+        }
+    },
+    {
+        "question_id": "34",
+        "question": "Which object is farther from the sign?",
+        "option": [
+            "beach umbrella",
+            "red chair"
+        ],
+        "answer": "red chair",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6609"
+        }
+    },
+    {
+        "question_id": "35",
+        "question": "Which person is more distant from the frisbee?",
+        "option": [
+            "man in blue shirt",
+            "man in red shirt"
+        ],
+        "answer": "man in red shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6775"
+        }
+    },
+    {
+        "question_id": "36",
+        "question": "Which object has a shorter distance to the printer?",
+        "option": [
+            "desk lamp",
+            "leftmost laptop"
+        ],
+        "answer": "leftmost laptop",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6804"
+        }
+    },
+    {
+        "question_id": "37",
+        "question": "Which object is farther from the vacuum cleaner?",
+        "option": [
+            "small cupboard box",
+            "pipe"
+        ],
+        "answer": "pipe",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "7388"
+        }
+    },
+    {
+        "question_id": "38",
+        "question": "Who is closest to the woman with the book?",
+        "option": [
+            "woman in green shirt",
+            "woman in floral shirt"
+        ],
+        "answer": "woman in green shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "7390"
+        }
+    },
+    {
+        "question_id": "39",
+        "question": "Which dog is closer to the man with the gray shirt?",
+        "option": [
+            "bernese mountain dog",
+            "papillon"
+        ],
+        "answer": "bernese mountain dog",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8322"
+        }
+    },
+    {
+        "question_id": "40",
+        "question": "Which player is nearer to the pitcher?",
+        "option": [
+            "batter",
+            "catcher"
+        ],
+        "answer": "batter",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8601"
+        }
+    },
+    {
+        "question_id": "41",
+        "question": "Which skier has a shorter distance to the skier in yellow jacket?",
+        "option": [
+            "skier in black jacket",
+            "skier in orange jacket"
+        ],
+        "answer": "skier in black jacket",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8808"
+        }
+    },
+    {
+        "question_id": "42",
+        "question": "Which elephant is closer to the grass on the left side of the road?",
+        "option": [
+            "the second smallest elephant in the picture",
+            "the smallest elephant in the picture"
+        ],
+        "answer": "the smallest elephant in the picture",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8904"
+        }
+    },
+    {
+        "question_id": "43",
+        "question": "Which child is closest to the screen?",
+        "option": [
+            "child in the blue shorts",
+            "child in the grey shorts"
+        ],
+        "answer": "child in the grey shorts",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8974"
+        }
+    },
+    {
+        "question_id": "44",
+        "question": "Which person is farther away from the car?",
+        "option": [
+            "person in blue jacket",
+            "person in brown jacket"
+        ],
+        "answer": "person in blue jacket",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8976"
+        }
+    },
+    {
+        "question_id": "45",
+        "question": "Which phone is farther away from the pink phone?",
+        "option": [
+            "gold phone",
+            "silver phone"
+        ],
+        "answer": "gold phone",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "9004"
+        }
+    },
+    {
+        "question_id": "46",
+        "question": "Which dessert has a shorter distance to the pastries on the top shelf?",
+        "option": [
+            "chocolate cake",
+            "large fruit tart"
+        ],
+        "answer": "large fruit tart",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "9264"
+        }
+    },
+    {
+        "question_id": "47",
+        "question": "Which player is more distant from the batter?",
+        "option": [
+            "the pitcher",
+            "the umpire"
+        ],
+        "answer": "the umpire",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10194"
+        }
+    },
+    {
+        "question_id": "48",
+        "question": "Which item is more distant from the large cutting board?",
+        "option": [
+            "knife",
+            "onion"
+        ],
+        "answer": "onion",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10302"
+        }
+    },
+    {
+        "question_id": "49",
+        "question": "Which item is closer to the pink cup?",
+        "option": [
+            "blue cup",
+            "the dessert"
+        ],
+        "answer": "the dessert",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11176"
+        }
+    },
+    {
+        "question_id": "50",
+        "question": "Who is more distant from the parked cars?",
+        "option": [
+            "the boy in a cap",
+            "the girl in a pink jacket"
+        ],
+        "answer": "the girl in a pink jacket",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11189"
+        }
+    },
+    {
+        "question_id": "51",
+        "question": "Which person is farther from the white frisbee?",
+        "option": [
+            "man wearing a green knitted hat",
+            "man wearing a black cap"
+        ],
+        "answer": "man wearing a green knitted hat",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11977"
+        }
+    },
+    {
+        "question_id": "52",
+        "question": "Which child is more distant from the man?",
+        "option": [
+            "boy in blue shirt",
+            "girl in pink shirt"
+        ],
+        "answer": "girl in pink shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "12142"
+        }
+    },
+    {
+        "question_id": "53",
+        "question": "Which player is closer to the pitcher with yellow gloves?",
+        "option": [
+            "player in black jacket",
+            "player with black gloves"
+        ],
+        "answer": "player with black gloves",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "14741"
+        }
+    },
+    {
+        "question_id": "54",
+        "question": "Which person is sitting more distant from the bottle on the table?",
+        "option": [
+            "man in white shirt",
+            "woman in red"
+        ],
+        "answer": "woman in red",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "14920"
+        }
+    },
+    {
+        "question_id": "55",
+        "question": "Which player is more distant from the soccer ball?",
+        "option": [
+            "player wearing number 6",
+            "player wearing number 9"
+        ],
+        "answer": "player wearing number 9",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "14994"
+        }
+    },
+    {
+        "question_id": "56",
+        "question": "Which skateboarder is sitting farther from the tree?",
+        "option": [
+            "skateboarder in hoodie",
+            "skateboarder in sunglasses"
+        ],
+        "answer": "skateboarder in sunglasses",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "15102"
+        }
+    },
+    {
+        "question_id": "57",
+        "question": "Which person is closer to the Coca-Cola cup?",
+        "option": [
+            "man with brown hair",
+            "woman with blonde hair"
+        ],
+        "answer": "woman with blonde hair",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "15701"
+        }
+    },
+    {
+        "question_id": "58",
+        "question": "Which dessert is more distant from the woman?",
+        "option": [
+            "donut holes",
+            "cupcakes"
+        ],
+        "answer": "cupcakes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "15929"
+        }
+    },
+    {
+        "question_id": "59",
+        "question": "Which player is nearer to the batter?",
+        "option": [
+            "the catcher",
+            "the umpire"
+        ],
+        "answer": "the catcher",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17141"
+        }
+    },
+    {
+        "question_id": "60",
+        "question": "Which object is more distant from the skater?",
+        "option": [
+            "crowd of people",
+            "orange cones"
+        ],
+        "answer": "crowd of people",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17190"
+        }
+    },
+    {
+        "question_id": "61",
+        "question": "Which child is seated closer to the wall?",
+        "option": [
+            "boy in brown shirt",
+            "girl with sunglasses"
+        ],
+        "answer": "boy in brown shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17211"
+        }
+    },
+    {
+        "question_id": "62",
+        "question": "Which player has a shorter distance to the soccer ball?",
+        "option": [
+            "player in orange jersey who is running",
+            "player no 15"
+        ],
+        "answer": "player no 15",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17256"
+        }
+    },
+    {
+        "question_id": "63",
+        "question": "Which item has a shorter distance to the coffee?",
+        "option": [
+            "orange juice",
+            "sausages"
+        ],
+        "answer": "orange juice",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17648"
+        }
+    },
+    {
+        "question_id": "64",
+        "question": "Which salad bowl is more distant from the carrot bowl?",
+        "option": [
+            "large bowl with cucumbers",
+            "small bowl with radish"
+        ],
+        "answer": "small bowl with radish",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17693"
+        }
+    },
+    {
+        "question_id": "65",
+        "question": "Which horse in the background is farther away from the horse closest to the camera?",
+        "option": [
+            "left horse",
+            "right horse"
+        ],
+        "answer": "right horse",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17750"
+        }
+    },
+    {
+        "question_id": "66",
+        "question": "Which is closer to the couch?",
+        "option": [
+            "large blue 'no'",
+            "pack of boxes"
+        ],
+        "answer": "pack of boxes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17757"
+        }
+    },
+    {
+        "question_id": "67",
+        "question": "Which horse is farther from the knight closest to the camera?",
+        "option": [
+            "black horse",
+            "white horse"
+        ],
+        "answer": "white horse",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17784"
+        }
+    },
+    {
+        "question_id": "68",
+        "question": "Which player is farther from the three-point line?",
+        "option": [
+            "player in black uniform",
+            "player in white uniform"
+        ],
+        "answer": "player in black uniform",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18165"
+        }
+    },
+    {
+        "question_id": "69",
+        "question": "Which person is more distant from the child holding the apple?",
+        "option": [
+            "girl in red",
+            "man in black jacket"
+        ],
+        "answer": "man in black jacket",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18528"
+        }
+    },
+    {
+        "question_id": "70",
+        "question": "Which object has a shorter distance to the computer monitor?",
+        "option": [
+            "chair",
+            "desk lamp"
+        ],
+        "answer": "desk lamp",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18863"
+        }
+    },
+    {
+        "question_id": "71",
+        "question": "Which plush toy has a shorter distance to the plate of popcorn?",
+        "option": [
+            "bear",
+            "turtle"
+        ],
+        "answer": "bear",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18947"
+        }
+    },
+    {
+        "question_id": "72",
+        "question": "Which player's foot is nearer to the soccer ball?",
+        "option": [
+            "player in green shirt",
+            "player in yellow shirt"
+        ],
+        "answer": "player in green shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "19280"
+        }
+    },
+    {
+        "question_id": "73",
+        "question": "Which is more distant from the wooden structure, the white dog or the sheep facing the white dog?",
+        "option": [
+            "sheep",
+            "white dog"
+        ],
+        "answer": "white dog",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "20607"
+        }
+    },
+    {
+        "question_id": "74",
+        "question": "Which piece of furniture is farther from the television?",
+        "option": [
+            "clock",
+            "red cushion"
+        ],
+        "answer": "red cushion",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "20699"
+        }
+    },
+    {
+        "question_id": "75",
+        "question": "Which person is more distant from the purple kite?",
+        "option": [
+            "person in red helmet",
+            "person in striped sweater"
+        ],
+        "answer": "person in striped sweater",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21189"
+        }
+    },
+    {
+        "question_id": "76",
+        "question": "Which skater is higher off the ground?",
+        "option": [
+            "skater in black shirt",
+            "skater in white shirt"
+        ],
+        "answer": "skater in white shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21295"
+        }
+    },
+    {
+        "question_id": "77",
+        "question": "Who is more distant from the laptop?",
+        "option": [
+            "girl in plaid",
+            "man in blue shirt"
+        ],
+        "answer": "girl in plaid",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21395"
+        }
+    },
+    {
+        "question_id": "78",
+        "question": "Which player is nearer to the ball?",
+        "option": [
+            "player in blue shirt",
+            "player in white shirt"
+        ],
+        "answer": "player in white shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21399"
+        }
+    },
+    {
+        "question_id": "79",
+        "question": "Which person is nearer to the person in grey jacket?",
+        "option": [
+            "person in the orange jacket",
+            "person sitting with the red snowboard"
+        ],
+        "answer": "person in the orange jacket",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21557"
+        }
+    },
+    {
+        "question_id": "80",
+        "question": "Which toy is nearer to the bear's right paw?",
+        "option": [
+            "dragon plush",
+            "elephant"
+        ],
+        "answer": "dragon plush",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "22248"
+        }
+    },
+    {
+        "question_id": "81",
+        "question": "Which item is positioned closer to the cup?",
+        "option": [
+            "toothbrushes",
+            "toothpaste"
+        ],
+        "answer": "toothbrushes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "22848"
+        }
+    },
+    {
+        "question_id": "82",
+        "question": "Which object has a shorter distance to the knife?",
+        "option": [
+            "pots",
+            "scissors"
+        ],
+        "answer": "scissors",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "24538"
+        }
+    },
+    {
+        "question_id": "83",
+        "question": "Which has a shorter distance to the sheep?",
+        "option": [
+            "dog",
+            "grass"
+        ],
+        "answer": "grass",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "24598"
+        }
+    },
+    {
+        "question_id": "84",
+        "question": "Which person is closest to the painting?",
+        "option": [
+            "man in plaid shirt",
+            "woman in striped shirt"
+        ],
+        "answer": "man in plaid shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25116"
+        }
+    },
+    {
+        "question_id": "85",
+        "question": "Which object has a shorter distance to the orange streetlight?",
+        "option": [
+            "bus",
+            "store signs"
+        ],
+        "answer": "store signs",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25197"
+        }
+    },
+    {
+        "question_id": "86",
+        "question": "Which person is sitting nearer to the bananas?",
+        "option": [
+            "man in gray shirt",
+            "woman with long hair"
+        ],
+        "answer": "man in gray shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25209"
+        }
+    },
+    {
+        "question_id": "87",
+        "question": "Which person is closer to the yellow ball?",
+        "option": [
+            "adult in white shirt",
+            "child in red shirt"
+        ],
+        "answer": "child in red shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25275"
+        }
+    },
+    {
+        "question_id": "88",
+        "question": "Which child is more distant from black dogs?",
+        "option": [
+            "the girl in pink shirt",
+            "the girl in red"
+        ],
+        "answer": "the girl in red",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25321"
+        }
+    },
+    {
+        "question_id": "89",
+        "question": "Which vehicle is more distant from the man standing on the road?",
+        "option": [
+            "motorcycle",
+            "truck"
+        ],
+        "answer": "motorcycle",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25928"
+        }
+    },
+    {
+        "question_id": "90",
+        "question": "Which person is more distant from the motorcycle?",
+        "option": [
+            "lady in blue jacket",
+            "person in black jacket"
+        ],
+        "answer": "lady in blue jacket",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26022"
+        }
+    },
+    {
+        "question_id": "91",
+        "question": "Which object is farther from the sink?",
+        "option": [
+            "shower curtain",
+            "toilet"
+        ],
+        "answer": "shower curtain",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26096"
+        }
+    },
+    {
+        "question_id": "92",
+        "question": "Which skier is more distant from the ski lodge?",
+        "option": [
+            "skier in white sweater",
+            "skier with red gloves"
+        ],
+        "answer": "skier with red gloves",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26568"
+        }
+    },
+    {
+        "question_id": "93",
+        "question": "Which bowl of soup is more distant from the Vess grape juice?",
+        "option": [
+            "the bowl on the left",
+            "the bowl on the right"
+        ],
+        "answer": "the bowl on the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26637"
+        }
+    },
+    {
+        "question_id": "94",
+        "question": "Which person is closer to the skateboarder who's playing?",
+        "option": [
+            "man in grey shirt",
+            "man in red shirt"
+        ],
+        "answer": "man in red shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26887"
+        }
+    },
+    {
+        "question_id": "95",
+        "question": "Which fruit is more distant from the bananas?",
+        "option": [
+            "apple",
+            "pear"
+        ],
+        "answer": "pear",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27592"
+        }
+    },
+    {
+        "question_id": "96",
+        "question": "Which object is nearer to the stack of CDs",
+        "option": [
+            "black cat",
+            "cleaning product bottle"
+        ],
+        "answer": "black cat",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27600"
+        }
+    },
+    {
+        "question_id": "97",
+        "question": "Which person has a shorter distance to the window?",
+        "option": [
+            "person in the pink scarf",
+            "person in the striped shirt"
+        ],
+        "answer": "person in the striped shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27630"
+        }
+    },
+    {
+        "question_id": "98",
+        "question": "Who is standing nearer to the wall?",
+        "option": [
+            "man in black shirt",
+            "person in red coat"
+        ],
+        "answer": "man in black shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "29111"
+        }
+    },
+    {
+        "question_id": "99",
+        "question": "Which person has a shorter distance to the stove?",
+        "option": [
+            "woman in apron",
+            "woman in grey shirt"
+        ],
+        "answer": "woman in apron",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "30415"
+        }
+    },
+    {
+        "question_id": "100",
+        "question": "Which of the following is closer to the girl kicking the ball right in front of the camera?",
+        "option": [
+            "black dog",
+            "the guy in an orange t-shirt who is holding a ball"
+        ],
+        "answer": "black dog",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "30435"
+        }
+    },
+    {
+        "question_id": "101",
+        "question": "Which player is farther from the pitcher?",
+        "option": [
+            "batter",
+            "catcher"
+        ],
+        "answer": "catcher",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "31008"
+        }
+    },
+    {
+        "question_id": "102",
+        "question": "Who is more distant from the man in the tuxedo?",
+        "option": [
+            "the lady holding a purple bag",
+            "the woman in the white dress"
+        ],
+        "answer": "the lady holding a purple bag",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "31949"
+        }
+    },
+    {
+        "question_id": "103",
+        "question": "Whose hands are closer to the white laptop?",
+        "option": [
+            "person with orange scarf",
+            "person in black singlet"
+        ],
+        "answer": "person in black singlet",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32062"
+        }
+    },
+    {
+        "question_id": "104",
+        "question": "Which child is more distant from the water?",
+        "option": [
+            "child carrying a blue surfboard",
+            "child on the sand"
+        ],
+        "answer": "child on the sand",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32241"
+        }
+    },
+    {
+        "question_id": "105",
+        "question": "Which person has a shorter distance to the bald man?",
+        "option": [
+            "man with glasses",
+            "woman in red sweater"
+        ],
+        "answer": "man with glasses",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32895"
+        }
+    },
+    {
+        "question_id": "106",
+        "question": "Who is standing closer to the player approximately facing the camera?",
+        "option": [
+            "boy with a bat",
+            "player no 22"
+        ],
+        "answer": "boy with a bat",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33502"
+        }
+    },
+    {
+        "question_id": "107",
+        "question": "Which player is nearer to the man in black?",
+        "option": [
+            "batter in white",
+            "catcher in red"
+        ],
+        "answer": "catcher in red",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33865"
+        }
+    },
+    {
+        "question_id": "108",
+        "question": "Who has a shorter distance to the food truck window?",
+        "option": [
+            "man in a black jacket",
+            "woman in a orange dress"
+        ],
+        "answer": "woman in a orange dress",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33929"
+        }
+    },
+    {
+        "question_id": "109",
+        "question": "Which group has a shorter distance to the skateboard ramp?",
+        "option": [
+            "man on the skateboard",
+            "man with a orange backpack"
+        ],
+        "answer": "man on the skateboard",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33977"
+        }
+    },
+    {
+        "question_id": "110",
+        "question": "Which person is more distant from the beach towel?",
+        "option": [
+            "man",
+            "woman"
+        ],
+        "answer": "man",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33980"
+        }
+    },
+    {
+        "question_id": "111",
+        "question": "Which person is farther from the counter?",
+        "option": [
+            "person in black shirt",
+            "person in green shirt"
+        ],
+        "answer": "person in green shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "34032"
+        }
+    },
+    {
+        "question_id": "112",
+        "question": "Which person is nearer to the painting?",
+        "option": [
+            "man in the black shirt",
+            "woman in the blue outfit"
+        ],
+        "answer": "man in the black shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "34977"
+        }
+    },
+    {
+        "question_id": "113",
+        "question": "Who is sitting closer to the window?",
+        "option": [
+            "girl in the blue shirt",
+            "girl with glasses"
+        ],
+        "answer": "girl with glasses",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "35203"
+        }
+    },
+    {
+        "question_id": "114",
+        "question": "Which object is more distant from the couch?",
+        "option": [
+            "coffee table",
+            "ironing board"
+        ],
+        "answer": "ironing board",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "36224"
+        }
+    },
+    {
+        "question_id": "115",
+        "question": "Which is nearer to the blender?",
+        "option": [
+            "bottle of wine",
+            "man in floral shirt"
+        ],
+        "answer": "bottle of wine",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "37274"
+        }
+    },
+    {
+        "question_id": "116",
+        "question": "Which is more distant from the man holding the stroller?",
+        "option": [
+            "comfort inn sign",
+            "tim hortons sign"
+        ],
+        "answer": "comfort inn sign",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "37471"
+        }
+    },
+    {
+        "question_id": "117",
+        "question": "Which person is farther from the luggage on the floor?",
+        "option": [
+            "man in the blue shirt",
+            "man in the denim jacket"
+        ],
+        "answer": "man in the denim jacket",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38377"
+        }
+    },
+    {
+        "question_id": "118",
+        "question": "Who is sitting closer to the back of the motorcycle?",
+        "option": [
+            "man in the sleeveless shirt",
+            "woman in the yellow top"
+        ],
+        "answer": "woman in the yellow top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38459"
+        }
+    },
+    {
+        "question_id": "119",
+        "question": "Which person has a shorter distance to the man in the white shirt?",
+        "option": [
+            "man in the blue shirt",
+            "woman in the orange shirt"
+        ],
+        "answer": "woman in the orange shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38717"
+        }
+    },
+    {
+        "question_id": "120",
+        "question": "Who is more distant from the football?",
+        "option": [
+            "player in the black shirt",
+            "player in the red and white striped shirt"
+        ],
+        "answer": "player in the black shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39461"
+        }
+    },
+    {
+        "question_id": "121",
+        "question": "Which player is nearer to the ball?",
+        "option": [
+            "player in blue shirt and facing the camera",
+            "player in red shirt and facing the camera"
+        ],
+        "answer": "player in red shirt and facing the camera",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39678"
+        }
+    },
+    {
+        "question_id": "122",
+        "question": "Which person is nearer to the wine wall?",
+        "option": [
+            "woman in green shirt",
+            "woman in yellow shirt"
+        ],
+        "answer": "woman in green shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39867"
+        }
+    },
+    {
+        "question_id": "124",
+        "question": "Who is more distant from the couch?",
+        "option": [
+            "child in striped shirt",
+            "man in black shirt"
+        ],
+        "answer": "child in striped shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "41144"
+        }
+    },
+    {
+        "question_id": "125",
+        "question": "Who is sitting nearer to the pizza?",
+        "option": [
+            "man in white shirt",
+            "woman with tiara"
+        ],
+        "answer": "woman with tiara",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "41917"
+        }
+    },
+    {
+        "question_id": "126",
+        "question": "Which person is closer to the door?",
+        "option": [
+            "man in gray shirt sitting in the first row",
+            "woman standing at the table"
+        ],
+        "answer": "woman standing at the table",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "45735"
+        }
+    },
+    {
+        "question_id": "127",
+        "question": "Who is sitting closer to the bottle of wine?",
+        "option": [
+            "man in orange shirt",
+            "woman in the middle"
+        ],
+        "answer": "woman in the middle",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "46498"
+        }
+    },
+    {
+        "question_id": "128",
+        "question": "Which dog is farther from the standing woman?",
+        "option": [
+            "the beagle",
+            "the black dog"
+        ],
+        "answer": "the beagle",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "47484"
+        }
+    },
+    {
+        "question_id": "129",
+        "question": "Which person is more distant from the man?",
+        "option": [
+            "woman in black dress",
+            "woman in white dress"
+        ],
+        "answer": "woman in white dress",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "47895"
+        }
+    },
+    {
+        "question_id": "130",
+        "question": "Which horse has a shorter distance to the person in gray?",
+        "option": [
+            "brown horse",
+            "white horse"
+        ],
+        "answer": "brown horse",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "48051"
+        }
+    },
+    {
+        "question_id": "131",
+        "question": "Which container is nearer to the fruit salad?",
+        "option": [
+            "red container",
+            "yellow container"
+        ],
+        "answer": "yellow container",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "48524"
+        }
+    },
+    {
+        "question_id": "132",
+        "question": "Who is farther away from the person jumping?",
+        "option": [
+            "the man in the green shirt",
+            "the man in a red cap"
+        ],
+        "answer": "the man in a red cap",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "50698"
+        }
+    },
+    {
+        "question_id": "133",
+        "question": "Which skater is farther away from the edge of the ramp?",
+        "option": [
+            "man in black shirt",
+            "woman in black tank top"
+        ],
+        "answer": "man in black shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51019"
+        }
+    },
+    {
+        "question_id": "134",
+        "question": "Which player is closer to the frisbee?",
+        "option": [
+            "player number 9",
+            "player with green top and red shoes"
+        ],
+        "answer": "player with green top and red shoes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51036"
+        }
+    },
+    {
+        "question_id": "135",
+        "question": "Which musician is farther away from the crowd?",
+        "option": [
+            "drummer",
+            "guitarist in white shirt"
+        ],
+        "answer": "drummer",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51069"
+        }
+    },
+    {
+        "question_id": "136",
+        "question": "Which item is more distant from the shot glass?",
+        "option": [
+            "blue vase",
+            "wallet"
+        ],
+        "answer": "blue vase",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51420"
+        }
+    },
+    {
+        "question_id": "137",
+        "question": "Which item is more distant from the frying pan?",
+        "option": [
+            "eggs on the left",
+            "pot on the right"
+        ],
+        "answer": "eggs on the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51433"
+        }
+    },
+    {
+        "question_id": "138",
+        "question": "Which fruit is nearer to the note on the desk?",
+        "option": [
+            "apple",
+            "banana"
+        ],
+        "answer": "apple",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51447"
+        }
+    },
+    {
+        "question_id": "139",
+        "question": "Which player has a shorter distance to the player in black shirt?",
+        "option": [
+            "player in blue shirt",
+            "player in white shirt with red details"
+        ],
+        "answer": "player in blue shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51491"
+        }
+    },
+    {
+        "question_id": "140",
+        "question": "Which person is closer to the black pot on the table?",
+        "option": [
+            "man wearing a yellow hat",
+            "woman with a headscarf on the left of the photo"
+        ],
+        "answer": "woman with a headscarf on the left of the photo",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51538"
+        }
+    },
+    {
+        "question_id": "141",
+        "question": "Which object is closer to the female worker?",
+        "option": [
+            "the chef in white",
+            "the food on the plate"
+        ],
+        "answer": "the food on the plate",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51665"
+        }
+    },
+    {
+        "question_id": "142",
+        "question": "Which umbrella is farther away from the sign of passengers?",
+        "option": [
+            "blue umbrella",
+            "yellow umbrella"
+        ],
+        "answer": "yellow umbrella",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "52097"
+        }
+    },
+    {
+        "question_id": "143",
+        "question": "Which horse is more distant from the man in the green shirt?",
+        "option": [
+            "the bay horse with the rider in brown hat",
+            "the chestnut horse with the rider in white hat"
+        ],
+        "answer": "the bay horse with the rider in brown hat",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "53333"
+        }
+    },
+    {
+        "question_id": "144",
+        "question": "Which object is farther from the window?",
+        "option": [
+            "laptop",
+            "pen"
+        ],
+        "answer": "pen",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "53784"
+        }
+    },
+    {
+        "question_id": "145",
+        "question": "Which player is more distant from the ball?",
+        "option": [
+            "batter",
+            "catcher"
+        ],
+        "answer": "catcher",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "53848"
+        }
+    },
+    {
+        "question_id": "146",
+        "question": "Which player is closer to the soccer ball?",
+        "option": [
+            "player in pink shirt",
+            "player in purple shirt with blonde hair"
+        ],
+        "answer": "player in pink shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54084"
+        }
+    },
+    {
+        "question_id": "147",
+        "question": "Which object is farther from the bed?",
+        "option": [
+            "chair",
+            "table"
+        ],
+        "answer": "chair",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54174"
+        }
+    },
+    {
+        "question_id": "148",
+        "question": "Which object is more distant from the woman?",
+        "option": [
+            "baskets of vegetables",
+            "eggs"
+        ],
+        "answer": "eggs",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54676"
+        }
+    },
+    {
+        "question_id": "149",
+        "question": "Which is farther away from the table?",
+        "option": [
+            "man",
+            "window"
+        ],
+        "answer": "window",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54707"
+        }
+    },
+    {
+        "question_id": "150",
+        "question": "Which food is closer to the water bottle?",
+        "option": [
+            "muffins",
+            "food in silver wrappers"
+        ],
+        "answer": "food in silver wrappers",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57206"
+        }
+    },
+    {
+        "question_id": "151",
+        "question": "Which player is farther away from the soccer ball?",
+        "option": [
+            "player 8 in blue shirt",
+            "player in red shirt"
+        ],
+        "answer": "player in red shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57263"
+        }
+    },
+    {
+        "question_id": "152",
+        "question": "Which object is more distant from the computer monitors?",
+        "option": [
+            "desk",
+            "speakers"
+        ],
+        "answer": "desk",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57549"
+        }
+    },
+    {
+        "question_id": "153",
+        "question": "Which item is nearer to the blue plate?",
+        "option": [
+            "bowl with sauce",
+            "platter with meat"
+        ],
+        "answer": "platter with meat",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57648"
+        }
+    },
+    {
+        "question_id": "154",
+        "question": "Which object is closer to the mouse?",
+        "option": [
+            "chairs in the background",
+            "monitor"
+        ],
+        "answer": "monitor",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57781"
+        }
+    },
+    {
+        "question_id": "155",
+        "question": "Which object is more distant from the tree?",
+        "option": [
+            "black car",
+            "fire hydrant"
+        ],
+        "answer": "black car",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57826"
+        }
+    },
+    {
+        "question_id": "156",
+        "question": "Which food item is farther from the meat?",
+        "option": [
+            "carrots",
+            "greens"
+        ],
+        "answer": "carrots",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "58154"
+        }
+    },
+    {
+        "question_id": "157",
+        "question": "Who is more distant from the cake?",
+        "option": [
+            "man in white suit",
+            "woman in red dress"
+        ],
+        "answer": "man in white suit",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "58228"
+        }
+    },
+    {
+        "question_id": "158",
+        "question": "Which item is nearer to the telephone?",
+        "option": [
+            "the glass of wine",
+            "the white flower"
+        ],
+        "answer": "the white flower",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "58274"
+        }
+    },
+    {
+        "question_id": "159",
+        "question": "Which item has a shorter distance to the sandwich?",
+        "option": [
+            "chips",
+            "drink"
+        ],
+        "answer": "chips",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "59246"
+        }
+    },
+    {
+        "question_id": "160",
+        "question": "Which stuffed animal is farther from the girl?",
+        "option": [
+            "brown bear",
+            "white teddy bear"
+        ],
+        "answer": "brown bear",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "59942"
+        }
+    },
+    {
+        "question_id": "161",
+        "question": "Whose eyes are closer to the cake?",
+        "option": [
+            "man with child",
+            "woman in green saree"
+        ],
+        "answer": "man with child",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60398"
+        }
+    },
+    {
+        "question_id": "162",
+        "question": "Which object is nearer to the woman in the yellow shirt?",
+        "option": [
+            "refrigerator",
+            "stove"
+        ],
+        "answer": "stove",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60495"
+        }
+    },
+    {
+        "question_id": "163",
+        "question": "Who is sitting closer to the platter of food on the table?",
+        "option": [
+            "man in the suit",
+            "woman with long hair"
+        ],
+        "answer": "man in the suit",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60621"
+        }
+    },
+    {
+        "question_id": "164",
+        "question": "Which object is farthest from the vase with flowers?",
+        "option": [
+            "blue jug",
+            "red-striped vase"
+        ],
+        "answer": "red-striped vase",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60869"
+        }
+    },
+    {
+        "question_id": "165",
+        "question": "Which object is farther from the sink?",
+        "option": [
+            "mirror",
+            "urinal"
+        ],
+        "answer": "urinal",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60956"
+        }
+    },
+    {
+        "question_id": "166",
+        "question": "Which object is more distant from the covered window?",
+        "option": [
+            "sink",
+            "toilet"
+        ],
+        "answer": "toilet",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "61245"
+        }
+    },
+    {
+        "question_id": "167",
+        "question": "Which item is nearer to the broccoli?",
+        "option": [
+            "potato tots",
+            "napkins"
+        ],
+        "answer": "potato tots",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "61688"
+        }
+    },
+    {
+        "question_id": "168",
+        "question": "Which child is sitting closer to the wall?",
+        "option": [
+            "boy in white shirt",
+            "girl in white dress"
+        ],
+        "answer": "boy in white shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "65313"
+        }
+    },
+    {
+        "question_id": "169",
+        "question": "Which is farther from the broccoli?",
+        "option": [
+            "carrots",
+            "celery"
+        ],
+        "answer": "celery",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "65393"
+        }
+    },
+    {
+        "question_id": "170",
+        "question": "Which person is nearer to the yellow taxi?",
+        "option": [
+            "person on the left under the umbrella",
+            "person on the right under the umbrella"
+        ],
+        "answer": "person on the left under the umbrella",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "66042"
+        }
+    },
+    {
+        "question_id": "171",
+        "question": "Which child is more distant from the birthday cake?",
+        "option": [
+            "child in blue sweater",
+            "child in green shirt"
+        ],
+        "answer": "child in blue sweater",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "67579"
+        }
+    },
+    {
+        "question_id": "172",
+        "question": "Which person is more distant from the sofa?",
+        "option": [
+            "man in blue shirt",
+            "man in gray shirt"
+        ],
+        "answer": "man in blue shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "68010"
+        }
+    },
+    {
+        "question_id": "173",
+        "question": "Which type of fruit has a shorter distance to the carrots?",
+        "option": [
+            "blackberries",
+            "strawberries"
+        ],
+        "answer": "blackberries",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "68505"
+        }
+    },
+    {
+        "question_id": "174",
+        "question": "Which musician has a shorter distance to the cake?",
+        "option": [
+            "man playing the guitar",
+            "man with the microphone"
+        ],
+        "answer": "man with the microphone",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69674"
+        }
+    },
+    {
+        "question_id": "175",
+        "question": "Which person is nearer to the cat scratching post?",
+        "option": [
+            "boy with the raised arms",
+            "girl with the game controller"
+        ],
+        "answer": "boy with the raised arms",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69769"
+        }
+    },
+    {
+        "question_id": "176",
+        "question": "Which surfer is nearer to the bridge?",
+        "option": [
+            "surfer in red",
+            "surfer who is bald"
+        ],
+        "answer": "surfer in red",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "70031"
+        }
+    },
+    {
+        "question_id": "177",
+        "question": "Who is located closer to the green backpack?",
+        "option": [
+            "person in a grey jacket and standing",
+            "person in a red shirt and sitting on the floor"
+        ],
+        "answer": "person in a grey jacket and standing",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "70345"
+        }
+    },
+    {
+        "question_id": "178",
+        "question": "Which person is farther from the person in dark blue shirt?",
+        "option": [
+            "person in blue shirt",
+            "person in pink apron"
+        ],
+        "answer": "person in pink apron",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71483"
+        }
+    },
+    {
+        "question_id": "179",
+        "question": "Which item is farther from the coffee cup?",
+        "option": [
+            "magazine",
+            "slice of cake"
+        ],
+        "answer": "slice of cake",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71650"
+        }
+    },
+    {
+        "question_id": "180",
+        "question": "Which guitar is more distant from the music stand?",
+        "option": [
+            "guitar on the ground",
+            "guitar on the wall"
+        ],
+        "answer": "guitar on the wall",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71692"
+        }
+    },
+    {
+        "question_id": "181",
+        "question": "Which person is closer to the glass in the woman's hand?",
+        "option": [
+            "the blonde woman",
+            "the man"
+        ],
+        "answer": "the blonde woman",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71729"
+        }
+    },
+    {
+        "question_id": "182",
+        "question": "Which is farther away from the man in red jacket?",
+        "option": [
+            "bicycle",
+            "scooter"
+        ],
+        "answer": "bicycle",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71812"
+        }
+    },
+    {
+        "question_id": "183",
+        "question": "Which teddy bear is more distant from the red teddy bear?",
+        "option": [
+            "pink teddy bear",
+            "white teddy bear"
+        ],
+        "answer": "pink teddy bear",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71859"
+        }
+    },
+    {
+        "question_id": "184",
+        "question": "Which object is farther away from the comb?",
+        "option": [
+            "nail clippers",
+            "hair scissors"
+        ],
+        "answer": "nail clippers",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71913"
+        }
+    },
+    {
+        "question_id": "185",
+        "question": "Which person is farther away from the radio on the table?",
+        "option": [
+            "man in black shirt",
+            "man in yellow shirt"
+        ],
+        "answer": "man in black shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71943"
+        }
+    },
+    {
+        "question_id": "186",
+        "question": "Which elephant is farther away from the man in the red hat?",
+        "option": [
+            "the elephant on the left",
+            "the elephant on the right"
+        ],
+        "answer": "the elephant on the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72078"
+        }
+    },
+    {
+        "question_id": "187",
+        "question": "Which is more distant from the red painting?",
+        "option": [
+            "black sofa",
+            "yellow chair"
+        ],
+        "answer": "yellow chair",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72231"
+        }
+    },
+    {
+        "question_id": "188",
+        "question": "Which player is more distant from the soccer ball?",
+        "option": [
+            "player in blue shirt (number 15)",
+            "player in white shirt (number 12)"
+        ],
+        "answer": "player in blue shirt (number 15)",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72464"
+        }
+    },
+    {
+        "question_id": "189",
+        "question": "Who has a shorter distance to the frisbee?",
+        "option": [
+            "player 5 in green shirt",
+            "player in blue shirt and white shoes"
+        ],
+        "answer": "player 5 in green shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72532"
+        }
+    },
+    {
+        "question_id": "190",
+        "question": "Which wolf is farther away from the bear?",
+        "option": [
+            "wolf on the rock",
+            "wolf on the ground"
+        ],
+        "answer": "wolf on the rock",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72578"
+        }
+    },
+    {
+        "question_id": "191",
+        "question": "Who is closer to the water?",
+        "option": [
+            "the girl sitting on the red picnic mat",
+            "the man eating snacks"
+        ],
+        "answer": "the man eating snacks",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72586"
+        }
+    },
+    {
+        "question_id": "192",
+        "question": "Who is sitting closer to the door?",
+        "option": [
+            "man on the left",
+            "man on the right"
+        ],
+        "answer": "man on the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72619"
+        }
+    },
+    {
+        "question_id": "193",
+        "question": "Which person is farther away from the bus?",
+        "option": [
+            "child reaching for the window",
+            "person standing by the tree"
+        ],
+        "answer": "person standing by the tree",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72711"
+        }
+    },
+    {
+        "question_id": "194",
+        "question": "Which sandwich is nearer to the worker?",
+        "option": [
+            "left sandwich",
+            "right sandwich"
+        ],
+        "answer": "left sandwich",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72725"
+        }
+    },
+    {
+        "question_id": "195",
+        "question": "Which umbrella has a shorter distance to the water?",
+        "option": [
+            "blue and green umbrella",
+            "yellow umbrella"
+        ],
+        "answer": "yellow umbrella",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73018"
+        }
+    },
+    {
+        "question_id": "196",
+        "question": "Which person is closer to the man in the suit?",
+        "option": [
+            "man crossing the street",
+            "woman sitting on the bench"
+        ],
+        "answer": "woman sitting on the bench",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73036"
+        }
+    },
+    {
+        "question_id": "197",
+        "question": "Which food item is more distant from the beer?",
+        "option": [
+            "chips",
+            "wine glass"
+        ],
+        "answer": "chips",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73115"
+        }
+    },
+    {
+        "question_id": "198",
+        "question": "Which half of the pizza is nearer to the hand topping the pizza?",
+        "option": [
+            "half with olives and cheese",
+            "half with pineapple and corn"
+        ],
+        "answer": "half with pineapple and corn",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73175"
+        }
+    },
+    {
+        "question_id": "199",
+        "question": "Which item is more distant from the man seated at the table?",
+        "option": [
+            "camera",
+            "water bottle"
+        ],
+        "answer": "water bottle",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73284"
+        }
+    },
+    {
+        "question_id": "200",
+        "question": "Which cat is farther away from the computer screen?",
+        "option": [
+            "cat on the chair",
+            "cat on the desk"
+        ],
+        "answer": "cat on the chair",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73294"
+        }
+    },
+    {
+        "question_id": "201",
+        "question": "Which person is closer to the yellow backpack?",
+        "option": [
+            "man in jeans and beige top",
+            "woman in pink coat"
+        ],
+        "answer": "woman in pink coat",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73762"
+        }
+    },
+    {
+        "question_id": "202",
+        "question": "Which kite is closer to the viewer?",
+        "option": [
+            "the kite held by a child in purple",
+            "the kite with letters H-c-r-r-y"
+        ],
+        "answer": "the kite with letters H-c-r-r-y",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73992"
+        }
+    },
+    {
+        "question_id": "203",
+        "question": "Which object is nearer to the man?",
+        "option": [
+            "bottle of water",
+            "magazine"
+        ],
+        "answer": "magazine",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "74056"
+        }
+    }
+]

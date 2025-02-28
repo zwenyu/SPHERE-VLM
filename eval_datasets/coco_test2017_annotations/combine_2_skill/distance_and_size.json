@@ -1,0 +1,3055 @@
+[
+    {
+        "question_id": "1",
+        "question": "Are the turquoise plates likely the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "106"
+        }
+    },
+    {
+        "question_id": "2",
+        "question": "The bicycles are of the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "535"
+        }
+    },
+    {
+        "question_id": "3",
+        "question": "The chairs on the top half of the picture are differently sized?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "718"
+        }
+    },
+    {
+        "question_id": "4",
+        "question": "Which computer screen is bigger for the person?",
+        "option": [
+            "the left one",
+            "the right one"
+        ],
+        "answer": "the left one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1459"
+        }
+    },
+    {
+        "question_id": "5",
+        "question": "Is the red truck smaller than the green truck?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1494"
+        }
+    },
+    {
+        "question_id": "6.1",
+        "question": "Which object in the image is larger?",
+        "option": [
+            "cake",
+            "pie"
+        ],
+        "answer": "cake",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1956"
+        }
+    },
+    {
+        "question_id": "6.2",
+        "question": "Which red bowl looks bigger?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1956"
+        }
+    },
+    {
+        "question_id": "7",
+        "question": "The man in the white shirt holding the bat is the tallest?",
+        "option": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2032"
+        }
+    },
+    {
+        "question_id": "8",
+        "question": "Which plate size is bigger, the red or the green?",
+        "option": [
+            "the red one",
+            "the green one",
+            "they have no size difference"
+        ],
+        "answer": "they have no size difference",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2063"
+        }
+    },
+    {
+        "question_id": "9",
+        "question": "Are the two purple and black balloons the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2343"
+        }
+    },
+    {
+        "question_id": "10.1",
+        "question": "The teddy bears in the left column are the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2925"
+        }
+    },
+    {
+        "question_id": "10.2",
+        "question": "The chairs in the left column are the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2925"
+        }
+    },
+    {
+        "question_id": "11.1",
+        "question": "Which cup size is bigger?",
+        "option": [
+            "the one with milky white liquid",
+            "the one with reddish-brown liquid"
+        ],
+        "answer": "the one with reddish-brown liquid",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3452"
+        }
+    },
+    {
+        "question_id": "11.2",
+        "question": "Are the two cocktail glasses of different sizes?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3452"
+        }
+    },
+    {
+        "question_id": "12",
+        "question": "Which is bigger, the football in the hands of the tall man or the football in the hands of the short man?",
+        "option": [
+            "the one in the tall man's hands",
+            "the one in the short man's hands",
+            "the footballs are of the same size"
+        ],
+        "answer": "the footballs are of the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3618"
+        }
+    },
+    {
+        "question_id": "13",
+        "question": "Which washbasin is bigger, the one on the left or the one on the right?",
+        "option": [
+            "the one on the left",
+            "the one on the right",
+            "they have equal size"
+        ],
+        "answer": "they have equal size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4000"
+        }
+    },
+    {
+        "question_id": "14",
+        "question": "Are the two planes the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4411"
+        }
+    },
+    {
+        "question_id": "15",
+        "question": "Which toilet seat cover is longer?",
+        "option": [
+            "the blue one",
+            "the green one"
+        ],
+        "answer": "the green one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4593"
+        }
+    },
+    {
+        "question_id": "16",
+        "question": "The man in the front is the tallest?",
+        "option": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4677"
+        }
+    },
+    {
+        "question_id": "17",
+        "question": "Which object in the image is larger?",
+        "option": [
+            "the paper cup with lid",
+            "the transparent plastic cup"
+        ],
+        "answer": "the paper cup with lid",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4777"
+        }
+    },
+    {
+        "question_id": "18",
+        "question": "The two chair have different sizes?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4819"
+        }
+    },
+    {
+        "question_id": "19",
+        "question": "Which tree is higher?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "5110"
+        }
+    },
+    {
+        "question_id": "20.1",
+        "question": "The two glasses have the same volume?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "5354"
+        }
+    },
+    {
+        "question_id": "20.2",
+        "question": "Which mug is taller?",
+        "option": [
+            "the one with the bear print",
+            "the one with the green print"
+        ],
+        "answer": "the one with the green print",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "5354"
+        }
+    },
+    {
+        "question_id": "21",
+        "question": "Which is the bigger cake, the one near or the one far away?",
+        "option": [
+            "the near one",
+            "the far one",
+            "they have similar size"
+        ],
+        "answer": "they have similar size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6175"
+        }
+    },
+    {
+        "question_id": "22",
+        "question": "The two pink bagels have different sizes?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "7609"
+        }
+    },
+    {
+        "question_id": "23",
+        "question": "Which of the two piggies at the bottom of the picture is bigger, the white one or the pink one?",
+        "option": [
+            "the white one",
+            "the pink one",
+            "they have no visible difference in size"
+        ],
+        "answer": "they have no visible difference in size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8125"
+        }
+    },
+    {
+        "question_id": "24",
+        "question": "Are all six yellow umbrellas likely the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8413"
+        }
+    },
+    {
+        "question_id": "25",
+        "question": "The parking meter right in front of the camera is as tall as the parking meter in the far distance?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8692"
+        }
+    },
+    {
+        "question_id": "26",
+        "question": "Which remote control on the red cushion is longer?",
+        "option": [
+            "the one on the left",
+            "the one on the right"
+        ],
+        "answer": "the one on the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "9459"
+        }
+    },
+    {
+        "question_id": "27",
+        "question": "The two computer screens in front of the man in white are the same size?",
+        "option": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10133"
+        }
+    },
+    {
+        "question_id": "28",
+        "question": "The three signal poles are of the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10700"
+        }
+    },
+    {
+        "question_id": "29",
+        "question": "The wooden stakes are of different lengths?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10835"
+        }
+    },
+    {
+        "question_id": "30",
+        "question": "The laptop screen is as big as the computer screen?",
+        "option": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10876"
+        }
+    },
+    {
+        "question_id": "31",
+        "question": "Are the two brushing cups the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11469"
+        }
+    },
+    {
+        "question_id": "32.1",
+        "question": "Is the leftmost boat the biggest of the three on shore?",
+        "option": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11482"
+        }
+    },
+    {
+        "question_id": "32.2",
+        "question": "Is the middle boat the smallest of the three on shore?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11482"
+        }
+    },
+    {
+        "question_id": "33",
+        "question": "Which cake in the image is larger?",
+        "option": [
+            "not sure",
+            "the left",
+            "the right"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "12046"
+        }
+    },
+    {
+        "question_id": "34",
+        "question": "Are the two plates for the pizza the same size??",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "12089"
+        }
+    },
+    {
+        "question_id": "35",
+        "question": "Is the streetlight on the left higher than the one on the right?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "12177"
+        }
+    },
+    {
+        "question_id": "36",
+        "question": "The two sinks are different sizes?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "12564"
+        }
+    },
+    {
+        "question_id": "37",
+        "question": "The metal dividers for bikes have different heights?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "13398"
+        }
+    },
+    {
+        "question_id": "37.1",
+        "question": "The two cakes are of different sizes?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "14295"
+        }
+    },
+    {
+        "question_id": "37.2",
+        "question": "Do the two plates have the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "14295"
+        }
+    },
+    {
+        "question_id": "38",
+        "question": "Which green bus is taller?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "15108"
+        }
+    },
+    {
+        "question_id": "39",
+        "question": "The motorbikes in the picture have the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "16096"
+        }
+    },
+    {
+        "question_id": "40",
+        "question": "Is the nearer plate bigger than the farther plate?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17048"
+        }
+    },
+    {
+        "question_id": "41",
+        "question": "Which object in the image is smaller?",
+        "option": [
+            "the bowl",
+            "the pancake"
+        ],
+        "answer": "the bowl",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17161"
+        }
+    },
+    {
+        "question_id": "42.1",
+        "question": "Are the red stools the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17731"
+        }
+    },
+    {
+        "question_id": "42.2",
+        "question": "Do the red stools have different size seats?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17731"
+        }
+    },
+    {
+        "question_id": "43",
+        "question": "The feeding troughs hanging on the wall are of different sizes?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17978"
+        }
+    },
+    {
+        "question_id": "44",
+        "question": "The two plates have different sizes?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "19216"
+        }
+    },
+    {
+        "question_id": "45",
+        "question": "The three tables on the right of the room are of the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21146"
+        }
+    },
+    {
+        "question_id": "46",
+        "question": "Is the pink and white plate hanging closest to the camera smaller than the blue plate next to it?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21352"
+        }
+    },
+    {
+        "question_id": "47.1",
+        "question": "Which round plate on the table is bigger?",
+        "option": [
+            "the blue one",
+            "the white one"
+        ],
+        "answer": "the blue one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21611"
+        }
+    },
+    {
+        "question_id": "47.2",
+        "question": "Are the two rolling pins on the table of different lengths?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21611"
+        }
+    },
+    {
+        "question_id": "48",
+        "question": "The three benches have different heights?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "22647"
+        }
+    },
+    {
+        "question_id": "49",
+        "question": "Which plane is bigger?",
+        "option": [
+            "not sure",
+            "the farther one",
+            "the nearer one"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "22906"
+        }
+    },
+    {
+        "question_id": "50",
+        "question": "The left sink is bigger than the right one?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "23628"
+        }
+    },
+    {
+        "question_id": "51",
+        "question": "The streetlight on the left is shorter than the one on the right?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "24211"
+        }
+    },
+    {
+        "question_id": "52.1",
+        "question": "Which table has more height, the one closer to the kid in green or the one farther away?",
+        "option": [
+            "the one closer to the kid in green",
+            "the one farther away from the kid in green",
+            "they have equal height"
+        ],
+        "answer": "they have equal height",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "24818"
+        }
+    },
+    {
+        "question_id": "52.2",
+        "question": "Are the table tops of both tables of different sizes?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "24818"
+        }
+    },
+    {
+        "question_id": "53",
+        "question": "Is the directional signal placed higher than the roundabout signal?",
+        "option": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25530"
+        }
+    },
+    {
+        "question_id": "54",
+        "question": "Are the gondolas of the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27034"
+        }
+    },
+    {
+        "question_id": "55",
+        "question": "Which bulb is bigger, the nearer one or the farther one?",
+        "option": [
+            "the nearer one",
+            "the farther one",
+            "they are equally sized"
+        ],
+        "answer": "they are equally sized",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27924"
+        }
+    },
+    {
+        "question_id": "56",
+        "question": "Are both skis the same length?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "28419"
+        }
+    },
+    {
+        "question_id": "57",
+        "question": "Which object in the image is larger?",
+        "option": [
+            "not sure",
+            "the picture",
+            "the TV"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "28519"
+        }
+    },
+    {
+        "question_id": "58",
+        "question": "Which object in the image is larger,the horse or the motorbike?",
+        "option": [
+            "the horse",
+            "the motorbike"
+        ],
+        "answer": "the horse",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "28945"
+        }
+    },
+    {
+        "question_id": "59",
+        "question": "Are both suitcases approximately the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "30292"
+        }
+    },
+    {
+        "question_id": "60",
+        "question": "Which laptop has a larger screen size?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "30648"
+        }
+    },
+    {
+        "question_id": "61",
+        "question": "Which urinal is bigger, the one nearer or the one farther away?",
+        "option": [
+            "the nearer one",
+            "the farther one",
+            "they have the same size"
+        ],
+        "answer": "they have the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32152"
+        }
+    },
+    {
+        "question_id": "62",
+        "question": "Do the two white tables have different widths?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32410"
+        }
+    },
+    {
+        "question_id": "63",
+        "question": "Which pillow is bigger, the left one or the right one?",
+        "option": [
+            "the left one",
+            "the right one",
+            "they are similar in size"
+        ],
+        "answer": "they are similar in size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33197"
+        }
+    },
+    {
+        "question_id": "64.1",
+        "question": "Do all three flagpoles have the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "34323"
+        }
+    },
+    {
+        "question_id": "64.2",
+        "question": "Which flagpole is the tallest?",
+        "option": [
+            "the left one",
+            "the middle one"
+        ],
+        "answer": "the middle one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "34323"
+        }
+    },
+    {
+        "question_id": "65",
+        "question": "Are the handles on both sides toilet of the same height",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "35495"
+        }
+    },
+    {
+        "question_id": "66",
+        "question": "Which sofa is bigger, the red one or the black one?",
+        "option": [
+            "the red one",
+            "the black one",
+            "they have the same size"
+        ],
+        "answer": "they have the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "35688"
+        }
+    },
+    {
+        "question_id": "67",
+        "question": "Are all four sinks the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "36199"
+        }
+    },
+    {
+        "question_id": "68",
+        "question": "Which object in the image is shorter?",
+        "option": [
+            "the toilet",
+            "the washstand"
+        ],
+        "answer": "the washstand",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "37892"
+        }
+    },
+    {
+        "question_id": "69",
+        "question": "Are the two beds of the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38731"
+        }
+    },
+    {
+        "question_id": "70",
+        "question": "Which object in the image is smaller?",
+        "option": [
+            "the biscuits",
+            "the cake"
+        ],
+        "answer": "the cake",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38737"
+        }
+    },
+    {
+        "question_id": "71",
+        "question": "Which computer screen is bigger?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39230"
+        }
+    },
+    {
+        "question_id": "72.1",
+        "question": "Which computer has a bigger screen?",
+        "option": [
+            "the computer with a person in front of it",
+            "the computer with no one in front of it"
+        ],
+        "answer": "the computer with a person in front of it",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39252"
+        }
+    },
+    {
+        "question_id": "72.2",
+        "question": "Which laptop has a bigger screen?",
+        "option": [
+            "the farther one",
+            "the nearer one"
+        ],
+        "answer": "the farther one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39252"
+        }
+    },
+    {
+        "question_id": "73.1",
+        "question": "Which yellow plate holding cakes is bigger, the one in front of the girl or the one in front of the boy?",
+        "option": [
+            "the one in front of the girl",
+            "the one in front of the boy",
+            "the plates are equally sized"
+        ],
+        "answer": "the plates are equally sized",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39294"
+        }
+    },
+    {
+        "question_id": "73.2",
+        "question": "Is the drink box in front of the girl shorter than the one in front of the boy??",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39294"
+        }
+    },
+    {
+        "question_id": "74.1",
+        "question": "Which fruit tray is bigger, the yellow one or the orange one?",
+        "option": [
+            "the yellow one",
+            "the orange one",
+            "they have the same size"
+        ],
+        "answer": "they have the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "40453"
+        }
+    },
+    {
+        "question_id": "74.2",
+        "question": "Which of the lemons on the table is bigger?",
+        "option": [
+            "not sure",
+            "the farthest one",
+            "the nearest one"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "40453"
+        }
+    },
+    {
+        "question_id": "75",
+        "question": "Which plate is bigger, the one with the pizza or the empty one?",
+        "option": [
+            "the one with the pizza",
+            "the empty one",
+            "they are of the same size"
+        ],
+        "answer": "they are of the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "41917"
+        }
+    },
+    {
+        "question_id": "76",
+        "question": "Which box is thicker?",
+        "option": [
+            "the one for the girl",
+            "the one for the man"
+        ],
+        "answer": "the one for the man",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "41921"
+        }
+    },
+    {
+        "question_id": "77",
+        "question": "Is the plate in front of the woman in black jacket bigger than the one in front of the woman in blue jacket?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "43121"
+        }
+    },
+    {
+        "question_id": "78.1",
+        "question": "Which bed is taller, the nearer one or the farther one?",
+        "option": [
+            "the nearer one",
+            "the farther one",
+            "they are similarly tall"
+        ],
+        "answer": "they are similarly tall",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "43252"
+        }
+    },
+    {
+        "question_id": "78.2",
+        "question": "Which object in the image is higher?",
+        "option": [
+            "the bed",
+            "the table"
+        ],
+        "answer": "the table",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "43252"
+        }
+    },
+    {
+        "question_id": "79",
+        "question": "Are both toilets of the same size?",
+        "option": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "44819"
+        }
+    },
+    {
+        "question_id": "80",
+        "question": "Are the cabinets on the left and right side of the fridge of the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "44940"
+        }
+    },
+    {
+        "question_id": "82.1",
+        "question": "Which cake in the image is larger?",
+        "option": [
+            "the brown one",
+            "the white one"
+        ],
+        "answer": "the white one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "45562"
+        }
+    },
+    {
+        "question_id": "82.2",
+        "question": "Which plate in the image is smaller?",
+        "option": [
+            "the blue one",
+            "the red one"
+        ],
+        "answer": "the blue one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "45562"
+        }
+    },
+    {
+        "question_id": "83",
+        "question": "Which sink is bigger, the one on the left or the one on the right?",
+        "option": [
+            "the left one",
+            "the right one",
+            "they have no difference in size"
+        ],
+        "answer": "they have no difference in size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "46234"
+        }
+    },
+    {
+        "question_id": "84",
+        "question": "Is the yellow sign on the ground taller than the white sign behind it?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "46645"
+        }
+    },
+    {
+        "question_id": "85",
+        "question": "Which is the bigger plate for pizza, the silver or the white one?",
+        "option": [
+            "the silver one",
+            "the white one"
+        ],
+        "answer": "the silver one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "47243"
+        }
+    },
+    {
+        "question_id": "86",
+        "question": "Are both sinks of different sizes?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "49036"
+        }
+    },
+    {
+        "question_id": "87",
+        "question": "Which bed is bigger, the left one or the right one?",
+        "option": [
+            "the left one",
+            "the right one",
+            "they have no obvious size difference"
+        ],
+        "answer": "they have no obvious size difference",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "49834"
+        }
+    },
+    {
+        "question_id": "88",
+        "question": "Which luggage rack is smaller, the one nearer to the viewer or the one farther from the viewer?",
+        "option": [
+            "the nearer one",
+            "the farther one",
+            "they have the same size"
+        ],
+        "answer": "they have the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "49870"
+        }
+    },
+    {
+        "question_id": "89",
+        "question": "Are all the rows of benches of the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "50022"
+        }
+    },
+    {
+        "question_id": "90",
+        "question": "Do the two buses have the same seating capacity?",
+        "option": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "50630"
+        }
+    },
+    {
+        "question_id": "91",
+        "question": "Are the three cupcakes of the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "52117"
+        }
+    },
+    {
+        "question_id": "92",
+        "question": "Are the two model aeroplanes of the same size?",
+        "option": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54945"
+        }
+    },
+    {
+        "question_id": "93.1",
+        "question": "Do the two benches have similar size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "55192"
+        }
+    },
+    {
+        "question_id": "93.2",
+        "question": "Are the streetlight poles of the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "55192"
+        }
+    },
+    {
+        "question_id": "94",
+        "question": "Which bed is wider, the nearer one or the farther one?",
+        "option": [
+            "the nearer one",
+            "the farther one",
+            "they are equally wide"
+        ],
+        "answer": "they are equally wide",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "56406"
+        }
+    },
+    {
+        "question_id": "95",
+        "question": "Which person is shorter?",
+        "option": [
+            "the one at the back",
+            "the one in front"
+        ],
+        "answer": "the one in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "56654"
+        }
+    },
+    {
+        "question_id": "96",
+        "question": "Which object is smaller?",
+        "option": [
+            "the laptop on the table",
+            "the monitor on the wall"
+        ],
+        "answer": "the laptop on the table",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "56745"
+        }
+    },
+    {
+        "question_id": "97",
+        "question": "Is red signal pole taller than streetlight pole?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "56835"
+        }
+    },
+    {
+        "question_id": "98.1",
+        "question": "Are the front ends of the two lorries of different heights?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "59209"
+        }
+    },
+    {
+        "question_id": "98.2",
+        "question": "Is the head of the truck shorter than the container the truck is carrying?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "59209"
+        }
+    },
+    {
+        "question_id": "99",
+        "question": "Are the three planes at the same altitude?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60323"
+        }
+    },
+    {
+        "question_id": "100",
+        "question": "Which sink is bigger, the one on the left or the one on the right?",
+        "option": [
+            "the left one",
+            "the right one",
+            "they have equal size"
+        ],
+        "answer": "they have equal size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60923"
+        }
+    },
+    {
+        "question_id": "101",
+        "question": "Are the boards on the left side of the urinal shorter than the boards on the right side?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60956"
+        }
+    },
+    {
+        "question_id": "102",
+        "question": "Which sofa is bigger, the one on the left or the one on the right?",
+        "option": [
+            "the left one",
+            "the right one",
+            "they are similarly sized"
+        ],
+        "answer": "they are similarly sized",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60969"
+        }
+    },
+    {
+        "question_id": "103",
+        "question": "Which sink is bigger, the one on the left or the one on the right?",
+        "option": [
+            "the one on the left",
+            "the one on the right",
+            "they have the same size"
+        ],
+        "answer": "they have the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "64477"
+        }
+    },
+    {
+        "question_id": "104",
+        "question": "Which fridge is taller?",
+        "option": [
+            "the first fridge from the left",
+            "the second fridge from the left"
+        ],
+        "answer": "the second fridge from the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "64901"
+        }
+    },
+    {
+        "question_id": "105.1",
+        "question": "The cabinets next to the window are similar in size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "64972"
+        }
+    },
+    {
+        "question_id": "105.2",
+        "question": "Are the two green chairs under the table of different heights?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "64972"
+        }
+    },
+    {
+        "question_id": "106",
+        "question": "Two goblets have different volume?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "66590"
+        }
+    },
+    {
+        "question_id": "107",
+        "question": "The screens of the TVs on the wall are the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "67039"
+        }
+    },
+    {
+        "question_id": "108",
+        "question": "Which person is taller, the little boy or the man in the plaid shirt behind him?",
+        "option": [
+            "the little boy",
+            "the man in the plaid shirt"
+        ],
+        "answer": "the man in the plaid shirt",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "67128"
+        }
+    },
+    {
+        "question_id": "109",
+        "question": "The right handle of the bench is taller than the left one?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "67275"
+        }
+    },
+    {
+        "question_id": "110",
+        "question": "Which person is shorter, the one in blue or the one in white?",
+        "option": [
+            "the one in blue",
+            "the one in white",
+            "not sure"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69446"
+        }
+    },
+    {
+        "question_id": "111",
+        "question": "Is the nearest tree higher than the traffic light stand?",
+        "option": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69455"
+        }
+    },
+    {
+        "question_id": "112.1",
+        "question": "Do the two red chairs have the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69982"
+        }
+    },
+    {
+        "question_id": "112.2",
+        "question": "Do the two red chairs have differently sized seats?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69982"
+        }
+    },
+    {
+        "question_id": "113",
+        "question": "Which sign post is taller?",
+        "option": [
+            "the left one",
+            "the right one"
+        ],
+        "answer": "the right one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "70144"
+        }
+    },
+    {
+        "question_id": "114",
+        "question": "Which sink is bigger, the one nearer to the viewer or the one farther from the viewer?",
+        "option": [
+            "the nearer one",
+            "the farther one",
+            "they are of the same size"
+        ],
+        "answer": "they are of the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "70151"
+        }
+    },
+    {
+        "question_id": "115",
+        "question": "Do the three circles on the ground have the same diameter?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "70419"
+        }
+    },
+    {
+        "question_id": "116",
+        "question": "Are the aircrafts of the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71287"
+        }
+    },
+    {
+        "question_id": "117.1",
+        "question": "Which tree is higher,the left one or the right one?",
+        "option": [
+            "the left one",
+            "the right one"
+        ],
+        "answer": "the right one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72301"
+        }
+    },
+    {
+        "question_id": "117.2",
+        "question": "Which object is higher, the tree on the right or the building?",
+        "option": [
+            "the tree on the right",
+            "the building"
+        ],
+        "answer": "the building",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72301"
+        }
+    },
+    {
+        "question_id": "118",
+        "question": "Which goblet is shorter, the empty one or the filled one?",
+        "option": [
+            "the empty one",
+            "the filled one",
+            "they have the same height"
+        ],
+        "answer": "they have the same height",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72425"
+        }
+    },
+    {
+        "question_id": "119",
+        "question": "Are the two handles of the bench at different heights from the ground?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72596"
+        }
+    },
+    {
+        "question_id": "120",
+        "question": "Which traffic light pole is taller, the left one or the right one?",
+        "option": [
+            "the left one",
+            "the right one",
+            "they are equally tall"
+        ],
+        "answer": "they are equally tall",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72864"
+        }
+    },
+    {
+        "question_id": "121",
+        "question": "Which object is higher?",
+        "option": [
+            "the bottle",
+            "the goblet",
+            "they have the same height"
+        ],
+        "answer": "they have the same height",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73115"
+        }
+    },
+    {
+        "question_id": "122",
+        "question": "Which person is taller, the one in red or the one in white?",
+        "option": [
+            "the one in red",
+            "the one in white",
+            "not sure"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73145"
+        }
+    },
+    {
+        "question_id": "123",
+        "question": "Are the two cups the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73279"
+        }
+    },
+    {
+        "question_id": "124.1",
+        "question": "Which pillow is bigger, the left one or the right one?",
+        "option": [
+            "the left one",
+            "the right one",
+            "they have the same size"
+        ],
+        "answer": "they have the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73297"
+        }
+    },
+    {
+        "question_id": "124.2",
+        "question": "Which cabinet is higher, the one on the left side of the bed or the one on the right side of the bed?",
+        "option": [
+            "the one on the left side",
+            "the one on the right side"
+        ],
+        "answer": "the one on the right side",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73297"
+        }
+    },
+    {
+        "question_id": "125",
+        "question": "Is the red sign higher than the yellow sign?",
+        "option": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73465"
+        }
+    },
+    {
+        "question_id": "126.1",
+        "question": "Which is the bigger plate on the right side of the table, the one nearer to the diner or the one farther from the diner?",
+        "option": [
+            "the near one",
+            "the far one",
+            "they have equal size"
+        ],
+        "answer": "they have equal size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73613"
+        }
+    },
+    {
+        "question_id": "126.2",
+        "question": "Which of the plates on the right side of the table holds a bigger slice of pizza?",
+        "option": [
+            "the one farther from the camera",
+            "the one nearer to the camera"
+        ],
+        "answer": "the one farther from the camera",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73613"
+        }
+    },
+    {
+        "question_id": "127.1",
+        "question": "Which aircraft is bigger, aircraft 12 or aircraft 24?",
+        "option": [
+            "aircraft 12",
+            "aircraft 24",
+            "they have the same size"
+        ],
+        "answer": "they have the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "74782"
+        }
+    },
+    {
+        "question_id": "127.2",
+        "question": "Which aircraft is larger, aircraft 22 or aircraft 12?",
+        "option": [
+            "aircraft 22",
+            "aircraft 12",
+            "they have the same size"
+        ],
+        "answer": "they have the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "74782"
+        }
+    },
+    {
+        "question_id": "128",
+        "question": "Which round table is placed at higher elevation, the near one or the far one?",
+        "option": [
+            "the near one",
+            "the far one",
+            "they are placed at the same elevation"
+        ],
+        "answer": "they are placed at the same elevation",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "74815"
+        }
+    },
+    {
+        "question_id": "129.1",
+        "question": "Which candlestick is longer, the near one or the far one",
+        "option": [
+            "the near one",
+            "the far one",
+            "they have the same length"
+        ],
+        "answer": "they have the same length",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "74954"
+        }
+    },
+    {
+        "question_id": "129.2",
+        "question": "Which blue bowl is larger, the left one or the right one?",
+        "option": [
+            "the left one",
+            "the right one",
+            "they have the same size"
+        ],
+        "answer": "they have the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "74954"
+        }
+    },
+    {
+        "question_id": "130",
+        "question": "Which bed is wider?",
+        "option": [
+            "the left one",
+            "the right one"
+        ],
+        "answer": "the right one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "76151"
+        }
+    },
+    {
+        "question_id": "131",
+        "question": "Which signal pole is taller, the red one or the yellow one?",
+        "option": [
+            "the red one",
+            "not sure",
+            "the yellow one"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "76241"
+        }
+    },
+    {
+        "question_id": "132",
+        "question": "Which toilet is taller, the left one or the right one?",
+        "option": [
+            "the left one",
+            "the right one",
+            "they have the same height"
+        ],
+        "answer": "they have the same height",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "77051"
+        }
+    },
+    {
+        "question_id": "133",
+        "question": "Do the row of streetlights on the left side of the photo have the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "78069"
+        }
+    },
+    {
+        "question_id": "134",
+        "question": "Which object is taller, the man or the doorframe?",
+        "option": [
+            "the man",
+            "the doorframe"
+        ],
+        "answer": "the doorframe",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "79086"
+        }
+    },
+    {
+        "question_id": "135",
+        "question": "Which beer glass has more volume, the near one or the far one?",
+        "option": [
+            "the near one",
+            "the far one",
+            "they have the same volume"
+        ],
+        "answer": "they have the same volume",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "79811"
+        }
+    },
+    {
+        "question_id": "136",
+        "question": "Are the glasses the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "79916"
+        }
+    },
+    {
+        "question_id": "137",
+        "question": "Are the two stools of different heights?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "80301"
+        }
+    },
+    {
+        "question_id": "138",
+        "question": "Which plate is bigger, the blue one or the black one?",
+        "option": [
+            "the blue one",
+            "the black one"
+        ],
+        "answer": "the blue one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "81250"
+        }
+    },
+    {
+        "question_id": "139",
+        "question": "Are the beds of different sizes?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "81565"
+        }
+    },
+    {
+        "question_id": "140",
+        "question": "Which object is taller, the man or the fence behind him?",
+        "option": [
+            "the man",
+            "the fence"
+        ],
+        "answer": "the fence",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "82978"
+        }
+    },
+    {
+        "question_id": "141",
+        "question": "Are the doors on the train similar in size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "83467"
+        }
+    },
+    {
+        "question_id": "142",
+        "question": "Which plate is bigger, the left one or the right one?",
+        "option": [
+            "the left one",
+            "the right one",
+            "they have the same size"
+        ],
+        "answer": "they have the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "85305"
+        }
+    },
+    {
+        "question_id": "143",
+        "question": "Which pillow is bigger, the near one or the far one?",
+        "option": [
+            "the near one",
+            "the far one",
+            "they have the same size"
+        ],
+        "answer": "they have the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "85357"
+        }
+    },
+    {
+        "question_id": "144",
+        "question": "Are the benches of the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "87297"
+        }
+    },
+    {
+        "question_id": "145",
+        "question": "Which clock face is bigger, the left one or the right one?",
+        "option": [
+            "the left one",
+            "the right one",
+            "they have the same size"       
+        ],
+        "answer": "they have the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "87300"
+        }
+    },
+    {
+        "question_id": "146",
+        "question": "Is the left urinal bigger than the right one?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "87412"
+        }
+    },
+    {
+        "question_id": "147.1",
+        "question": "Which of the two single-seater sofas is wider, the one on the left or the one on the right?",
+        "option": [
+            "the one on the left",
+            "the one on the right",
+            "they have the same width"
+        ],
+        "answer": "they have the same width",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "87659"
+        }
+    },
+    {
+        "question_id": "147.2",
+        "question": "Is the height of the three-seater sofa different from the height of the single-seater sofa?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "87659"
+        }
+    },
+    {
+        "question_id": "148",
+        "question": "Which bus is taller, the one on the left or the one on the right?",
+        "option": [
+            "the one on the left",
+            "the one on the right",
+            "they have the same height"
+        ],
+        "answer": "they have the same height",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "88968"
+        }
+    },
+    {
+        "question_id": "149",
+        "question": "Which green basin is bigger, the one nearer or farther from the camera?",
+        "option": [
+            "the nearer one",
+            "the farther one",
+            "they have the same size"
+        ],
+        "answer": "they have the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "89009"
+        }
+    },
+    {
+        "question_id": "150",
+        "question": "Which vase is taller, the one on the left or the one on the right?",
+        "option": [
+            "the one on the left",
+            "the one on the right",
+            "they have the same height"
+        ],
+        "answer": "they have the same height",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "89498"
+        }
+    },
+    {
+        "question_id": "151",
+        "question": "The sign is taller than the trees behind it?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "89653"
+        }
+    },
+    {
+        "question_id": "152",
+        "question": "The row of streetlights on the right side of the scene have the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "89979"
+        }
+    },
+    {
+        "question_id": "153",
+        "question": "The four poles by the bed are of equal length?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "90564"
+        }
+    },
+    {
+        "question_id": "154",
+        "question": "Which object is higher, the signal pole or the building next to it?",
+        "option": [
+            "the signal pole",
+            "the building"
+        ],
+        "answer": "the building",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "90770"
+        }
+    },
+    {
+        "question_id": "155",
+        "question": "Which plate is bigger, the one near the camera or the one far away from the camera?",
+        "option": [
+            "the near one",
+            "the far one",
+            "the plates are of the same size"
+        ],
+        "answer": "the plates are of the same size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "90779"
+        }
+    },
+    {
+        "question_id": "156",
+        "question": "The two disposable cups are equally sized?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "91832"
+        }
+    },
+    {
+        "question_id": "157.1",
+        "question": "Do the two skis have the same length?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "91922"
+        }
+    },
+    {
+        "question_id": "157.2",
+        "question": "The two skis have the same width?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "91922"
+        }
+    },
+    {
+        "question_id": "158",
+        "question": "Who is taller, the man or the woman?",
+        "option": [
+            "the man",
+            "not sure",
+            "the woman"
+        ],
+        "answer": "not sure",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "92281"
+        }
+    },
+    {
+        "question_id": "159",
+        "question": "The five sinks are equally sized?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "92540"
+        }
+    },
+    {
+        "question_id": "160",
+        "question": "Which object has greater height, the hydrant or the fence behind it?",
+        "option": [
+            "the hydrant",
+            "the fence"
+        ],
+        "answer": "the fence",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "93136"
+        }
+    },
+    {
+        "question_id": "161.1",
+        "question": "Which single-seater sofa is taller, the one on the left or the one on the right?",
+        "option": [
+            "the one on the left",
+            "the one on the right",
+            "they have the same height"
+        ],
+        "answer": "they have the same height",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "93513"
+        }
+    },
+    {
+        "question_id": "161.2",
+        "question": "Which window is larger in size, the one on the left side or the one on the right side of the scene?",
+        "option": [
+            "the left one",
+            "the right one",
+            "they are equally sized"
+        ],
+        "answer": "they are equally sized",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "93513"
+        }
+    },
+    {
+        "question_id": "162",
+        "question": "Which screen is bigger, the one near the viewer or the one far from the viewer?",
+        "option": [
+            "the near one",
+            "the far one",
+            "they are of equal size"
+        ],
+        "answer": "they are of equal size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "94855"
+        }
+    },
+    {
+        "question_id": "163",
+        "question": "Which green bus is taller, the nearer one or the farther one?",
+        "option": [
+            "the nearer one",
+            "the farther one",
+            "they are equally tall"
+        ],
+        "answer": "they are equally tall",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "96362"
+        }
+    },
+    {
+        "question_id": "164",
+        "question": "Which yellow rimmed plate is bigger, the one on the left or the one on the right?",
+        "option": [
+            "the one on the left",
+            "the one on the right",
+            "they have no difference in size"
+        ],
+        "answer": "they have no difference in size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "96688"
+        }
+    },
+    {
+        "question_id": "165",
+        "question": "Which yellow bowl is bigger, the one holding white packets or the one holding pink packets?",
+        "option": [
+            "the one holding white packets",
+            "the one holding pink packets",
+            "they have equal size"
+        ],
+        "answer": "they have equal size",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "96709"
+        }
+    },
+    {
+        "question_id": "166",
+        "question": "Are the three buses of the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "97033"
+        }
+    },
+    {
+        "question_id": "167",
+        "question": "Are the row of benches on the left side of the photo of the same length and width?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "98714"
+        }
+    },
+    {
+        "question_id": "168",
+        "question": "Are the three chairs of the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "99378"
+        }
+    },
+    {
+        "question_id": "169",
+        "question": "Which object in the image is larger?",
+        "option": [
+            "the bathroom sink",
+            "the bathtub"
+        ],
+        "answer": "the bathtub",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17552"
+        }
+    },
+    {
+        "question_id": "170",
+        "question": "Is the chair on the right larger than the one on the left?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25775"
+        }
+    },
+    {
+        "question_id": "171",
+        "question": "Which speaker is shorter, the one on the left or the one on the right?",
+        "option": [
+            "the left one",
+            "the right one",
+            "they have similar height"
+        ],
+        "answer": "they have similar height",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "74995"
+        }
+    },
+    {
+        "question_id": "172",
+        "question": "Which golden urn is taller?",
+        "option": [
+            "the one at the top of the slope",
+            "the one at the bottom of the slope"
+        ],
+        "answer": "the one at the bottom of the slope",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "75320"
+        }
+    }
+]

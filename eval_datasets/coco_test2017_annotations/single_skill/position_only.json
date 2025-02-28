@@ -1,0 +1,5357 @@
+[
+    {
+        "question_id": "1.a",
+        "question": "If you are the man in the image, where is the girl relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "63"
+        }
+    },
+    {
+        "question_id": "1.b",
+        "question": "From the perspective of the viewer, where is the girl relative to the man?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "63"
+        }
+    },
+    {
+        "question_id": "2.a",
+        "question": "If you are the man pouring wine, where is the man with glasses relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69"
+        }
+    },
+    {
+        "question_id": "2.b",
+        "question": "From the perspective of the viewer, where is the man pouring wine relative to the group of people?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69"
+        }
+    },
+    {
+        "question_id": "3",
+        "question": "What is the relative position of the horse to the tree?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "90"
+        }
+    },
+    {
+        "question_id": "4",
+        "question": "Where is the flag relative to the men?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "202"
+        }
+    },
+    {
+        "question_id": "4.a",
+        "question": "If you are the speaker in the photo, where is the podium relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "202"
+        }
+    },
+    {
+        "question_id": "4.b",
+        "question": "From the point-of-view of the viewer, where is the podium relative to the speaker?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "202"
+        }
+    },
+    {
+        "question_id": "5.a",
+        "question": "If you are the wardrobe, where is the teddy bear relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "275"
+        }
+    },
+    {
+        "question_id": "5.b",
+        "question": "From the perspective of the viewer, where is the wardrobe relative to the teddy bear?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "275"
+        }
+    },
+    {
+        "question_id": "6.a",
+        "question": "If you are the person on the motocycle in the image, where is the lady sitting in the blue chair relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "318"
+        }
+    },
+    {
+        "question_id": "6.b",
+        "question": "From the perspective of the viewer, where is the lady sitting in the blue chair relative to the motorcycle?",
+        "option": [
+            "left and behind",
+            "right and in front"
+        ],
+        "answer": "right and in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "318"
+        }
+    },
+    {
+        "question_id": "7.a",
+        "question": "If you are the boy in the white shirt on the right, where is the boy with black hair and pink shirt relative to you?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "345"
+        }
+    },
+    {
+        "question_id": "7.b",
+        "question": "From the perspective of the viewer, where is the boy in the white shirt and black shorts relative to the group of boys in pink?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "345"
+        }
+    },
+    {
+        "question_id": "8.a",
+        "question": "If you are the woman wearing glasses, where is the woman in the middle of the photo relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "448"
+        }
+    },
+    {
+        "question_id": "8.b",
+        "question": "From the perspective of the viewer, where is the woman wearing glasses relative to the woman in the middle of the photo?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "448"
+        }
+    },
+    {
+        "question_id": "9.a",
+        "question": "If you are the man wearing sunglasses, where is the man with the green shirt relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "453"
+        }
+    },
+    {
+        "question_id": "9.b",
+        "question": "From the perspective of the viewer, where is the man with green shirt relative to the bus?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "453"
+        }
+    },
+    {
+        "question_id": "10.a",
+        "question": "If you are the man standing in the image, where is the child sitting relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "456"
+        }
+    },
+    {
+        "question_id": "10.b",
+        "question": "From the perspective of the viewer, where is the man relative to the child sitting on the couch?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "456"
+        }
+    },
+    {
+        "question_id": "11.a",
+        "question": "If you are the child in the image, where is the oven relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "492"
+        }
+    },
+    {
+        "question_id": "11.b",
+        "question": "From the perspective of the viewer, where is the child relative to the oven?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "492"
+        }
+    },
+    {
+        "question_id": "12",
+        "question": "If you are the car driving away in the image, where is the fire hydrant relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "549"
+        }
+    },
+    {
+        "question_id": "13.a",
+        "question": "If you are the child at the table, where are the bananas relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "619"
+        }
+    },
+    {
+        "question_id": "13.b",
+        "question": "From the perspective of the viewer, where is the child playing with bananas relative to the table?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "619"
+        }
+    },
+    {
+        "question_id": "14.a",
+        "question": "If you are the person on the left in the image, where is the person in the middle relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "686"
+        }
+    },
+    {
+        "question_id": "14.b",
+        "question": "From the perspective of the viewer, where is the person in the middle relative to the person with black jacket?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "686"
+        }
+    },
+    {
+        "question_id": "15",
+        "question": "If you are the giraffe in the image, where is the ostrich relative to your position?",
+        "option": [
+            "in front",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "953"
+        }
+    },
+    {
+        "question_id": "16.a",
+        "question": "If you are the woman in white skirt, where is the small girl in blue dress relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1076"
+        }
+    },
+    {
+        "question_id": "16.b",
+        "question": "From the perspective of the viewer, where is the small girl in blue dress relative to the woman in white skirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1076"
+        }
+    },
+    {
+        "question_id": "17.a",
+        "question": "If you are the leftmost dog, where is the crib relative to your position?",
+        "option": [
+            "behind",
+            "left"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1257"
+        }
+    },
+    {
+        "question_id": "17.b",
+        "question": "From the perspective of the viewer, where is the leftmost dog relative to the crib?",
+        "option": [
+            "beneath in the top-down view",
+            "left"
+        ],
+        "answer": "beneath in the top-down view",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1257"
+        }
+    },
+    {
+        "question_id": "18.a",
+        "question": "If you are the woman sitting at the table, where is the counter relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1309"
+        }
+    },
+    {
+        "question_id": "18.b",
+        "question": "From the perspective of the viewer, where is the woman at the counter relative to the woman sitting at the table?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1309"
+        }
+    },
+    {
+        "question_id": "19.a",
+        "question": "If you are one of the sheep in the image, where is the large dome relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1380"
+        }
+    },
+    {
+        "question_id": "19.b",
+        "question": "From the perspective of the viewer, where are the sheep relative to the dome?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1380"
+        }
+    },
+    {
+        "question_id": "20",
+        "question": "Where is the camera relative to the toilet bowl?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1600"
+        }
+    },
+    {
+        "question_id": "21.a",
+        "question": "If you are the player Harrison in the image, where is the player DeAza relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1730"
+        }
+    },
+    {
+        "question_id": "21.b",
+        "question": "From the perspective of the viewer, where is the player DeAza relative to player Harrison?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1730"
+        }
+    },
+    {
+        "question_id": "22.a",
+        "question": "If you are the boy in the image, where is the cake relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1956"
+        }
+    },
+    {
+        "question_id": "22.b",
+        "question": "From the perspective of the viewer, where is the boy relative to the cake?",
+        "option": [
+            "in front",
+            "left"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1956"
+        }
+    },
+    {
+        "question_id": "23.a",
+        "question": "If you are the woman in the image, where is the man relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2063"
+        }
+    },
+    {
+        "question_id": "23.b",
+        "question": "From the perspective of the viewer, where is the woman relative to the man?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2063"
+        }
+    },
+    {
+        "question_id": "24.a",
+        "question": "If you are the climber in the image, where is the slope relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2166"
+        }
+    },
+    {
+        "question_id": "24.b",
+        "question": "From the perspective of the viewer, where is the climber relative to the cliff?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2166"
+        }
+    },
+    {
+        "question_id": "25.a",
+        "question": "If you are the man in the kitchen in this image, where is the yellow chair relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3750"
+        }
+    },
+    {
+        "question_id": "25.b",
+        "question": "From the perspective of the viewer, where is the yellow chair relative to the wooden shelf?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3750"
+        }
+    },
+    {
+        "question_id": "26",
+        "question": "If you are standing in front of the right sink and facing the square mirror, where is the round mirror relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4000"
+        }
+    },
+    {
+        "question_id": "27.a",
+        "question": "If you are the person in the image, where is the plate of desserts relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4446"
+        }
+    },
+    {
+        "question_id": "27.b",
+        "question": "From the perspective of the viewer, where is the glass of drink relative to the plate of desserts?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4446"
+        }
+    },
+    {
+        "question_id": "28.a",
+        "question": "If you are the woman in the red dress, where is the woman in the grey skirt relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4790"
+        }
+    },
+    {
+        "question_id": "28.b",
+        "question": "From the perspective of the viewer, where is the woman in the red dress relative to the woman in the grey skirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4790"
+        }
+    },
+    {
+        "question_id": "29.a",
+        "question": "If you are the girl in the dress, where is the girl wearing a watch relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "5354"
+        }
+    },
+    {
+        "question_id": "29.b",
+        "question": "From the perspective of the viewer, where is the girl wearing a watch to the girl in a dress?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "5354"
+        }
+    },
+    {
+        "question_id": "30.a",
+        "question": "If you are the girl skiing in the image, where are the two men relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6173"
+        }
+    },
+    {
+        "question_id": "30.b",
+        "question": "From the perspective of the viewer, where is the girl relative to the two men?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6173"
+        }
+    },
+    {
+        "question_id": "31.a",
+        "question": "If you are the woman peeling the apple, where is the large bowl relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6284"
+        }
+    },
+    {
+        "question_id": "31.b",
+        "question": "From the perspective of the viewer, where is the woman peeling the apple relative to the bowl?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6284"
+        }
+    },
+    {
+        "question_id": "32.a",
+        "question": "If you are the girl with red hair, where is the girl in the black hat relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6504"
+        }
+    },
+    {
+        "question_id": "32.b",
+        "question": "From the perspective of the viewer, where is the girl in the black hat to the girl with red hair?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6504"
+        }
+    },
+    {
+        "question_id": "33.a",
+        "question": "If you are the woman in the image, where is the orange bucket relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6557"
+        }
+    },
+    {
+        "question_id": "33.b",
+        "question": "From the perspective of the viewer, where is the woman relative to the orange bucket?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6557"
+        }
+    },
+    {
+        "question_id": "34.a",
+        "question": "If you are standing on shore and facing the river, where is the yellow buoy relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6570"
+        }
+    },
+    {
+        "question_id": "34.b",
+        "question": "From the perspective of the viewer, where is the blue banner 'cleaning the river together' relative to the yellow buoy?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6570"
+        }
+    },
+    {
+        "question_id": "35",
+        "question": "If you are sitting on the red chair, where is the warning sign relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6609"
+        }
+    },
+    {
+        "question_id": "36.a",
+        "question": "If you are the person in the red shirt who is jumping, where is the person in a cap relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6775"
+        }
+    },
+    {
+        "question_id": "36.b",
+        "question": "From the perspective of the viewer, where is the person in the red shirt who is jumping relative to the man with a cap?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6775"
+        }
+    },
+    {
+        "question_id": "37",
+        "question": "From the perspective of the viewer, where is the printer relative to the leftmost monitor?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6804"
+        }
+    },
+    {
+        "question_id": "38.a",
+        "question": "If you are the girl looking at the camera, where is the girl in the black dress?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "7390"
+        }
+    },
+    {
+        "question_id": "38.b",
+        "question": "From the perspective of the viewer, where is the girl in the black dress relative to the girl looking at the camera?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "7390"
+        }
+    },
+    {
+        "question_id": "39.a",
+        "question": "If you are the man wearing the grey t-shirt, where is the darker dog relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8322"
+        }
+    },
+    {
+        "question_id": "39.b",
+        "question": "From the perspective of the viewer, where is the man wearing the grey t-shirt relative to the darker dog?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8322"
+        }
+    },
+    {
+        "question_id": "40.a",
+        "question": "If you are the batter in the image, where is the catcher relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8601"
+        }
+    },
+    {
+        "question_id": "40.b",
+        "question": "From the perspective of the viewer, where is the batter relative to the catcher?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8601"
+        }
+    },
+    {
+        "question_id": "41.a",
+        "question": "If you are the skier in the red jacket, where is the skier in the yellow jacket relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8808"
+        }
+    },
+    {
+        "question_id": "41.b",
+        "question": "From the perspective of the viewer, where is the skier in the red jacket relative to the other skiers?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8808"
+        }
+    },
+    {
+        "question_id": "42",
+        "question": "If you are the boy directly facing the screen, where is the girl in the white shirt and long pants relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8974"
+        }
+    },
+    {
+        "question_id": "43.a",
+        "question": "If you are the woman wearing blue jacket in the image, where is the car relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8976"
+        }
+    },
+    {
+        "question_id": "43.b",
+        "question": "From the perspective of the viewer, where is the two people next to the car relative to the woman wearing blue jacket?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8976"
+        }
+    },
+    {
+        "question_id": "44",
+        "question": "From the perspective of the viewer, where is the gold phone relative to the pink phone?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "9004"
+        }
+    },
+    {
+        "question_id": "45.a",
+        "question": "If you are the batter in the image, where is the pitcher relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10194"
+        }
+    },
+    {
+        "question_id": "45.b",
+        "question": "From the perspective of the viewer, where is the batter relative to the pitcher?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10194"
+        }
+    },
+    {
+        "question_id": "46.a",
+        "question": "If you are preparing food at the kitchen counter, where is the onion relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10302"
+        }
+    },
+    {
+        "question_id": "46.b",
+        "question": "From the perspective of the viewer, where is the cutting board relative to the toaster?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10302"
+        }
+    },
+    {
+        "question_id": "47.b",
+        "question": "From the perspective of the viewer, where is the pink cup relative to the blue cup?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11176"
+        }
+    },
+    {
+        "question_id": "48.a",
+        "question": "If you are the man with luggage in the image, where is the woman in blue jacket relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11189"
+        }
+    },
+    {
+        "question_id": "48.b",
+        "question": "From the perspective of the viewer, where is the man with luggage relative to the woman in blue jacket?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11189"
+        }
+    },
+    {
+        "question_id": "49.a",
+        "question": "If you are the man throwing the frisbee, where is the person in the green hat relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11977"
+        }
+    },
+    {
+        "question_id": "49.b",
+        "question": "From the perspective of the viewer, where is the man throwing the disc relative to the walking man?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11977"
+        }
+    },
+    {
+        "question_id": "50.a",
+        "question": "If you are the man in the image, where is the girl wearing pink shirt relative to you?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "12142"
+        }
+    },
+    {
+        "question_id": "50.b",
+        "question": "From the perspective of the viewer, where is the girl wearing pink shirt relative to the man?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "12142"
+        }
+    },
+    {
+        "question_id": "51.a",
+        "question": "If you are the pitcher with yellow gloves in the image, where is the man with black top relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "14741"
+        }
+    },
+    {
+        "question_id": "51.b",
+        "question": "From the perspective of the viewer, where is the player with a black top relative to the pitcher with yellow gloves?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "14741"
+        }
+    },
+    {
+        "question_id": "52.a",
+        "question": "If you are the woman on the left with a white shirt, where is the woman in the red dress relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "14920"
+        }
+    },
+    {
+        "question_id": "52.b",
+        "question": "From the perspective of the viewer, where is the womans in the red dress relative to the woman in the striped shirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "14920"
+        }
+    },
+    {
+        "question_id": "53.a",
+        "question": "If you are the man in the white cap, where is the girl with jersey number 6 relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "14994"
+        }
+    },
+    {
+        "question_id": "53.b",
+        "question": "From the perspective of the viewer, where is the girl with jersey number 6 relative to the girl with jersey number 9?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "14994"
+        }
+    },
+    {
+        "question_id": "54.a",
+        "question": "If you are the person wearing sunglasses, where is the person with the cap relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "15102"
+        }
+    },
+    {
+        "question_id": "54.b",
+        "question": "From the perspective of the viewer, where is the person standing relative to the group sitting on the grass?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "15102"
+        }
+    },
+    {
+        "question_id": "55.a",
+        "question": "If you are the man in the image, where is the woman relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "15701"
+        }
+    },
+    {
+        "question_id": "55.b",
+        "question": "From the perspective of the viewer, where is the man relative to the woman?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "15701"
+        }
+    },
+    {
+        "question_id": "56.a",
+        "question": "If you are the woman in the red shirt facing the table, where are the cupcakes relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "15929"
+        }
+    },
+    {
+        "question_id": "56.b",
+        "question": "From the perspective of the viewer, where is the woman in the red shirt relative to the cupcakes?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "15929"
+        }
+    },
+    {
+        "question_id": "57.a",
+        "question": "If you are the batter in the image, where is the catcher relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17141"
+        }
+    },
+    {
+        "question_id": "57.b",
+        "question": "From the perspective of the viewer, where is the batter relative to the catcher?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17141"
+        }
+    },
+    {
+        "question_id": "58.a",
+        "question": "If you are the skater in the image, where is the nearest cone relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17190"
+        }
+    },
+    {
+        "question_id": "58.b",
+        "question": "From the perspective of the viewer, where is the skater relative to the nearest cone?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17190"
+        }
+    },
+    {
+        "question_id": "59",
+        "question": "If you are the girl in pink with sunglasses in the image, where is the fork with spaghetti relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17211"
+        }
+    },
+    {
+        "question_id": "60.a",
+        "question": "If you are the player number 15 in the green jersey kicking the ball, where is the player in the orange jersey (number 2) relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17256"
+        }
+    },
+    {
+        "question_id": "60.b",
+        "question": "From the perspective of the camera, where is the player in the black shorts number 2 relative to the player in the green jersey kicking the ball?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17256"
+        }
+    },
+    {
+        "question_id": "61",
+        "question": "From the perspective of the viewer, where is the egg relative to the coffee cup?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17648"
+        }
+    },
+    {
+        "question_id": "62.a",
+        "question": "If you are the person preparing the salad, where is the yellow mustard relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17693"
+        }
+    },
+    {
+        "question_id": "62.b",
+        "question": "From the perspective of the viewer, where is the container of radishes relative to the salad bowl?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17693"
+        }
+    },
+    {
+        "question_id": "63.a",
+        "question": "If you are the rider with the black horse, where is the white horse relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17784"
+        }
+    },
+    {
+        "question_id": "63.b",
+        "question": "From the perspective of the viewer, where is the black horse relative to the two white horses?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17784"
+        }
+    },
+    {
+        "question_id": "64.a",
+        "question": "If you are the player in the navy jersey with the ball, where is the player in the white jersey relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18165"
+        }
+    },
+    {
+        "question_id": "64.b",
+        "question": "From the perspective of the viewer, where is the player in the navy jersey relative to the player in the white jersey?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18165"
+        }
+    },
+    {
+        "question_id": "65.a",
+        "question": "If you are the child holding the green apple, where is the man in black relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18528"
+        }
+    },
+    {
+        "question_id": "65.b",
+        "question": "From the perspective of the viewer, where is the child with the green apple relative to the man in black?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18528"
+        }
+    },
+    {
+        "question_id": "66.a",
+        "question": "If you are sitting in the chair, where is the computer monitor relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18863"
+        }
+    },
+    {
+        "question_id": "66.b",
+        "question": "From the perspective of the viewer, where is the chair relative to the desk?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18863"
+        }
+    },
+    {
+        "question_id": "67.a",
+        "question": "If you are the green turtle in the image, where is the plate of popcorn relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18947"
+        }
+    },
+    {
+        "question_id": "67.b",
+        "question": "From the perspective of the viewer, where is the green turtle relative to the plate of popcorn?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18947"
+        }
+    },
+    {
+        "question_id": "68.a",
+        "question": "If you are the player in the green uniform, where is the closest player in the yellow uniform relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "19280"
+        }
+    },
+    {
+        "question_id": "68.b",
+        "question": "From the perspective of the viewer, where is the player in the green uniform relative to the closest players with her in yellow?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "19280"
+        }
+    },
+    {
+        "question_id": "69",
+        "question": "If you are the dog in the image, where is the wooden block relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "20607"
+        }
+    },
+    {
+        "question_id": "70.a",
+        "question": "If you are sitting on the dark gray sofa with blue cushion facing TV, where is the light gray sofa relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "20699"
+        }
+    },
+    {
+        "question_id": "70.b",
+        "question": "From the perspective of the viewer, where is the dark gray sofa relative to the light gray sofa?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "20699"
+        }
+    },
+    {
+        "question_id": "71.a",
+        "question": "If you are the person in the green striped sweater, where is the purple kite relative to your position?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "above",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21189"
+        }
+    },
+    {
+        "question_id": "71.b",
+        "question": "From the perspective of the viewer, where is the group of people relative to the purple kite?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "below",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21189"
+        }
+    },
+    {
+        "question_id": "72.a",
+        "question": "If you are the skater in the air, where are the bystanders relative to your position?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "below",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21295"
+        }
+    },
+    {
+        "question_id": "72.b",
+        "question": "From the perspective of the viewer, where is the skater in the air relative to the bystanders?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "above",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21295"
+        }
+    },
+    {
+        "question_id": "73.a",
+        "question": "If you are the man in the image, where is the girl relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21395"
+        }
+    },
+    {
+        "question_id": "73.b",
+        "question": "From the perspective of the viewer, where is the girl relative to the man?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21395"
+        }
+    },
+    {
+        "question_id": "74.a",
+        "question": "If you are the player in the blue shirt and red shoes, where is the player in the white shirt relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21399"
+        }
+    },
+    {
+        "question_id": "74.b",
+        "question": "From the perspective of the viewer, where is the player in the blue shirt and red shoes relative to the player in the white shirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21399"
+        }
+    },
+    {
+        "question_id": "75.a",
+        "question": "If you are the person in the grey jacket, where is the person in the orange jacket relative to your position?",
+        "option": [
+            "behind",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21557"
+        }
+    },
+    {
+        "question_id": "75.b",
+        "question": "From the perspective of the viewer, where is the person in the red helmet relative to the person in the orange jacket?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21557"
+        }
+    },
+    {
+        "question_id": "76.a",
+        "question": "If you are the teddy bear in the image, where is the elephant relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "22248"
+        }
+    },
+    {
+        "question_id": "76.b",
+        "question": "From the perspective of the viewer, where is the teddy bear relative to the elephant?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "22248"
+        }
+    },
+    {
+        "question_id": "77",
+        "question": "From the perspective of the camera, where is the knife relative to the scissors?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "24538"
+        }
+    },
+    {
+        "question_id": "78.a",
+        "question": "If you are the dog in the image, where are the sheep relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "24598"
+        }
+    },
+    {
+        "question_id": "78.b",
+        "question": "From the perspective of the viewer, where is the dog relative to the sheep?",
+        "option": [
+            "behind (farther from you)",
+            "in front (nearer to you)"
+        ],
+        "answer": "in front (nearer to you)",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "24598"
+        }
+    },
+    {
+        "question_id": "79.a",
+        "question": "If you are the woman in pink shirt, where is the man relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25116"
+        }
+    },
+    {
+        "question_id": "79.b",
+        "question": "From the perspective of the viewer, where is the woman in grey top relative to the man?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25116"
+        }
+    },
+    {
+        "question_id": "80",
+        "question": "From the perspective of the viewer, where is the bus relative to the building on the left?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25197"
+        }
+    },
+    {
+        "question_id": "81.a",
+        "question": "If you are the person wearing the light grey T-shirt, where is the lady relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25209"
+        }
+    },
+    {
+        "question_id": "81.b",
+        "question": "From the perspective of the viewer, where is the person wearing the light grey T-shirt relative to the lady in the image?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25209"
+        }
+    },
+    {
+        "question_id": "82.a",
+        "question": "If you are the kid in the red shirt, where is the yellow ball relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25275"
+        }
+    },
+    {
+        "question_id": "82.b",
+        "question": "From the perspective of the viewer, where is the boy in the white shirt with number 23 relative to the boy in the red shirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25275"
+        }
+    },
+    {
+        "question_id": "83.a",
+        "question": "If you are the girl in the pink shirt, where is the black dog being washed relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25321"
+        }
+    },
+    {
+        "question_id": "83.b",
+        "question": "From the perspective of the viewer, where is the dog that is not being washed relative to the people in red?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25321"
+        }
+    },
+    {
+        "question_id": "84.a",
+        "question": "If you are the rider on the motorcycle, where is the truck relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25928"
+        }
+    },
+    {
+        "question_id": "84.b",
+        "question": "From the perspective of the viewer, what is the relative position of the pedestrian to the truck?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25928"
+        }
+    },
+    {
+        "question_id": "85.a",
+        "question": "If you are the rider on the motorcycle, where is the person standing still relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26022"
+        }
+    },
+    {
+        "question_id": "85.b",
+        "question": "From the perspective of the viewer, where is the motorcycle relative to the people standing still?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26022"
+        }
+    },
+    {
+        "question_id": "86.a",
+        "question": "If you are standing facing the mirror, where is the toilet relative to your position?",
+        "option": [
+            "to the left",
+            "to the right"
+        ],
+        "answer": "to the right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26096"
+        }
+    },
+    {
+        "question_id": "86.b",
+        "question": "From the perspective of the viewer, where is the toilet relative to the sink?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26096"
+        }
+    },
+    {
+        "question_id": "87.a",
+        "question": "If you are the person with red gloves in the image, where is the boy in white jacke trelative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26568"
+        }
+    },
+    {
+        "question_id": "87.b",
+        "question": "From the perspective of the viewer, where is the person with red gloves relative to the boy in white jacket?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26568"
+        }
+    },
+    {
+        "question_id": "88.a",
+        "question": "If you are sitting at the left tray, where is the drink relative to your position?",
+        "option": [
+            "on your left",
+            "on your right"
+        ],
+        "answer": "on your left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26637"
+        }
+    },
+    {
+        "question_id": "88.b",
+        "question": "From the perspective of the viewer, where is the red sauce bottle relative to the vess grape juice?",
+        "option": [
+            "on the left",
+            "on the right"
+        ],
+        "answer": "on the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26637"
+        }
+    },
+    {
+        "question_id": "89.a",
+        "question": "If you are the skateboarder who is playing in the image, where is the person in the red shirt relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26887"
+        }
+    },
+    {
+        "question_id": "89.b",
+        "question": "From the perspective of the viewer, where is the skateboarder relative to the person in the red shirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26887"
+        }
+    },
+    {
+        "question_id": "90",
+        "question": "From the perspective of the viewer, where is the banana relative to the mango?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27592"
+        }
+    },
+    {
+        "question_id": "91.a",
+        "question": "If you are the cat in the image, where is the DVD relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27600"
+        }
+    },
+    {
+        "question_id": "91.b",
+        "question": "From the perspective of the viewer, where is the cat relative to the DVD?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27600"
+        }
+    },
+    {
+        "question_id": "92.a",
+        "question": "If you are the person in the red coat, where is the man with the guitar relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "29111"
+        }
+    },
+    {
+        "question_id": "92.b",
+        "question": "From the perspective of the viewer, where is the man with the guitar relative to the woman in the red coat?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "29111"
+        }
+    },
+    {
+        "question_id": "93.a",
+        "question": "If you are the woman in the red shirt, where is the stove relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "30415"
+        }
+    },
+    {
+        "question_id": "93.b",
+        "question": "From the perspective of the viewer, where is the woman in the grey shirt relative to the woman in the red shirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "30415"
+        }
+    },
+    {
+        "question_id": "94.a",
+        "question": "If you are the girl in the image, where is the ball relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "30435"
+        }
+    },
+    {
+        "question_id": "94.b",
+        "question": "From the perspective of the viewer, where is the girl relative to the ball?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "30435"
+        }
+    },
+    {
+        "question_id": "95.a",
+        "question": "If you are the man in the image, where is the woman in the white dress relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "31949"
+        }
+    },
+    {
+        "question_id": "95.b",
+        "question": "From the perspective of the viewer, where is the man with the glass relative to the woman in the white dress?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "31949"
+        }
+    },
+    {
+        "question_id": "96.a",
+        "question": "If you are the person with orange scarf, where is the person wearing purple scarf relative to you?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32062"
+        }
+    },
+    {
+        "question_id": "96.b",
+        "question": "From the perspective of the viewer, where is the person wearing purple scarf relative to the person in the orange scarf?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32062"
+        }
+    },
+    {
+        "question_id": "97.a",
+        "question": "If you are the boy on the rocks, where is the guy in blue shirt relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32241"
+        }
+    },
+    {
+        "question_id": "97.b",
+        "question": "From the perspective of the viewer, where are the man standing on a rock relative to boy in blue shirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32241"
+        }
+    },
+    {
+        "question_id": "98.a",
+        "question": "If you are the woman wearing red top in the image, where is the man wearing brown top relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32895"
+        }
+    },
+    {
+        "question_id": "98.b",
+        "question": "From the perspective of the viewer, where is the woman wearing red top relative to the man wearing brown top?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32895"
+        }
+    },
+    {
+        "question_id": "99.a",
+        "question": "If you are the player 22 in the blue shirt, where is the boy play 33 relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33502"
+        }
+    },
+    {
+        "question_id": "99.b",
+        "question": "From the perspective of the viewer, where is the boy play 33 relative to the man play 22 in the blue shirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33502"
+        }
+    },
+    {
+        "question_id": "100.a",
+        "question": "If you are the batter in the image, where is the catcher relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33865"
+        }
+    },
+    {
+        "question_id": "100.b",
+        "question": "From the perspective of the viewer, where is the batter relative to the catcher?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33865"
+        }
+    },
+    {
+        "question_id": "101.a",
+        "question": "If you are the person in the green jacket, where is the woman in the orange dress relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33929"
+        }
+    },
+    {
+        "question_id": "101.b",
+        "question": "From the perspective of the viewer, where is the woman in the orange dress relative to the person in the green jacket?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33929"
+        }
+    },
+    {
+        "question_id": "102.a",
+        "question": "If you are the skater in the image, where are the spectators relative to your position?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "below",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33977"
+        }
+    },
+    {
+        "question_id": "102.b",
+        "question": "Where is the skater relative to the camera?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "above",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33977"
+        }
+    },
+    {
+        "question_id": "103",
+        "question": "If you are the woman in the image, where is the man relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33980"
+        }
+    },
+    {
+        "question_id": "104.a",
+        "question": "If you are the person holding the dessert, where is the counter relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "34032"
+        }
+    },
+    {
+        "question_id": "104.b",
+        "question": "From the perspective of the viewer, where is the person in the striped shirt relative to the person holding the dessert?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "34032"
+        }
+    },
+    {
+        "question_id": "105.a",
+        "question": "If you are the woman in blue, where is the people sitting on the couch relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "34977"
+        }
+    },
+    {
+        "question_id": "105.b",
+        "question": "From the perspective of the viewer, where is the woman in blue relative to the couple on the couch?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "34977"
+        }
+    },
+    {
+        "question_id": "106.a",
+        "question": "If you are the girl in the blue dress at the table, where is the girl in the black shirt relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "35203"
+        }
+    },
+    {
+        "question_id": "106.b",
+        "question": "From the perspective of the viewer, where is the girl in the blue dress relative to the girl in the black shirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "35203"
+        }
+    },
+    {
+        "question_id": "107.a",
+        "question": "If you are sitting on the couch, where is the coffee table relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "36224"
+        }
+    },
+    {
+        "question_id": "107.b",
+        "question": "Where is the camera relative to the coffee table?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "36224"
+        }
+    },
+    {
+        "question_id": "108.a",
+        "question": "If you are the man pouring the liquid, where is the blender relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "37274"
+        }
+    },
+    {
+        "question_id": "108.b",
+        "question": "From the perspective of the viewer, where is the man pouring the liquid relative to the blender?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "37274"
+        }
+    },
+    {
+        "question_id": "109.a",
+        "question": "If you are the person pushing the stroller, where is the shop sign relative to your position?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "above",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "37471"
+        }
+    },
+    {
+        "question_id": "109.b",
+        "question": "Where is the camera relative to the shop sign?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "below",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "37471"
+        }
+    },
+    {
+        "question_id": "110.a",
+        "question": "If you are the person in the front with the jacket, where is the person in the blue shirt relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38377"
+        }
+    },
+    {
+        "question_id": "110.b",
+        "question": "From the perspective of the viewer, where is the person in the blue shirt relative to the person in the green jacket?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38377"
+        }
+    },
+    {
+        "question_id": "111.a",
+        "question": "If you are the woman on the motorcycle, where is the man relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38459"
+        }
+    },
+    {
+        "question_id": "111.b",
+        "question": "From the perspective of the viewer, where is the man relative to the woman?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38459"
+        }
+    },
+    {
+        "question_id": "112.a",
+        "question": "If you are the person in blue shirt, where is the person in the middle relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38717"
+        }
+    },
+    {
+        "question_id": "112.b",
+        "question": "From the perspective of the viewer, where is the person in white shirt relative to the person in red shirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38717"
+        }
+    },
+    {
+        "question_id": "113.a",
+        "question": "If you are the player in red kicking the ball, where is the player in black top and white shoes relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39461"
+        }
+    },
+    {
+        "question_id": "113.b",
+        "question": "From the perspective of the viewer, where is the player in red kicking the ball relative to the player in black with white shoes?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39461"
+        }
+    },
+    {
+        "question_id": "114.a",
+        "question": "If you are the player in the red jersey, where is the blue player with the number 10 relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39678"
+        }
+    },
+    {
+        "question_id": "114.b",
+        "question": "From the perspective of the viewer, where is the player 10 relative to the ball?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39678"
+        }
+    },
+    {
+        "question_id": "115.a",
+        "question": "If you are the woman in green top, where is the man relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39867"
+        }
+    },
+    {
+        "question_id": "115.b",
+        "question": "Where is the camera relative to the man?",
+        "option": [
+            "in front",
+            "behind"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39867"
+        }
+    },
+    {
+        "question_id": "116.a",
+        "question": "If you are the woman in the image, where is the boy in the striped shirt relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "41144"
+        }
+    },
+    {
+        "question_id": "116.b",
+        "question": "From the perspective of the viewer, where is the man relative to the children?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "41144"
+        }
+    },
+    {
+        "question_id": "117.a",
+        "question": "If you are the woman holding the pizza, where is the man in the white shirt relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "41917"
+        }
+    },
+    {
+        "question_id": "117.b",
+        "question": "From the perspective of the viewer, where is the woman relative to the man in the white shirt?",
+        "option": [
+            "to the left",
+            "to the right"
+        ],
+        "answer": "to the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "41917"
+        }
+    },
+    {
+        "question_id": "118.a",
+        "question": "If you are the person in blue shirt, where is the standing person relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "45735"
+        }
+    },
+    {
+        "question_id": "118.b",
+        "question": "From the perspective of the viewer, where is the person in the white shirt sitting relative to the person standing?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "45735"
+        }
+    },
+    {
+        "question_id": "119.a",
+        "question": "If you are the man wearing an orange shirt at the table, where is the woman in the black dress relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "46498"
+        }
+    },
+    {
+        "question_id": "119.b",
+        "question": "From the perspective of the viewer, where is the woman in the black dress relative to the man in the orange shirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "46498"
+        }
+    },
+    {
+        "question_id": "120.a",
+        "question": "If you are the woman with the camera, where is the small black dog relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "47484"
+        }
+    },
+    {
+        "question_id": "120.b",
+        "question": "Where is the camera relative to the small black dog?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "47484"
+        }
+    },
+    {
+        "question_id": "121.a",
+        "question": "If you are the man in the image, where is the woman in the white dress relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "47895"
+        }
+    },
+    {
+        "question_id": "121.b",
+        "question": "From the perspective of the viewer, where is the man in the suit relative to the woman in the white dress?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "47895"
+        }
+    },
+    {
+        "question_id": "122.a",
+        "question": "If you are the person on the white horse, where is the girl on the brown horse relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "48051"
+        }
+    },
+    {
+        "question_id": "122.b",
+        "question": "From the perspective of the viewer, where is the girl on the brown horse relative to the person on the white horse?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "48051"
+        }
+    },
+    {
+        "question_id": "123",
+        "question": "Where is the camera relative to the yellow container with mangoes?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "48524"
+        }
+    },
+    {
+        "question_id": "124.a",
+        "question": "If you are the person with frisbee, where are the two others relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "50698"
+        }
+    },
+    {
+        "question_id": "124.b",
+        "question": "where is the group of 2 relative to the camera?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "below",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "50698"
+        }
+    },
+    {
+        "question_id": "125.a",
+        "question": "If you are the woman in the image, where is the man relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51019"
+        }
+    },
+    {
+        "question_id": "125.b",
+        "question": "From the perspective of the viewer, where is the woman relative to the man?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51019"
+        }
+    },
+    {
+        "question_id": "126.a",
+        "question": "If you are the player in green reaching for the frisbee, where is your teammate in green relative to you?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51036"
+        }
+    },
+    {
+        "question_id": "126.b",
+        "question": "From the perspective of the viewer, where is the player 9 in red relative to the player in green reaching for the frisbee?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51036"
+        }
+    },
+    {
+        "question_id": "127.a",
+        "question": "If you are the guitarist on stage, where is the drummer relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51069"
+        }
+    },
+    {
+        "question_id": "127.b",
+        "question": "From the perspective of the viewer, where is the drummer relative to the guitarist?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51069"
+        }
+    },
+    {
+        "question_id": "128",
+        "question": "Where is the toblerone relative to the glass?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "above",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51420"
+        }
+    },
+    {
+        "question_id": "129.a",
+        "question": "Where is the camera relative to the wok?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51433"
+        }
+    },
+    {
+        "question_id": "129.b",
+        "question": "From the perspective of the viewer, where is the pot relative to the wok?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51433"
+        }
+    },
+    {
+        "question_id": "130",
+        "question": "From the perspective of the viewer, where is the apple relative to the banana?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51447"
+        }
+    },
+    {
+        "question_id": "131",
+        "question": "If you are the player in the white jersey with the number 5, where is the catcher relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51491"
+        }
+    },
+    {
+        "question_id": "132.a",
+        "question": "If you are the person with yellow hat, where is the bald man relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51538"
+        }
+    },
+    {
+        "question_id": "132.b",
+        "question": "From the perspective of the viewer, where is the woman in the purple dress relative to the man in the yellow hat?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51538"
+        }
+    },
+    {
+        "question_id": "133.a",
+        "question": "If you are the woman at the counter, where is the food preparation area relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51665"
+        }
+    },
+    {
+        "question_id": "133.b",
+        "question": "Where is camera relative to the food preparation area?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "51665"
+        }
+    },
+    {
+        "question_id": "134",
+        "question": "Where is the camera relative to the yellow umbrella?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "below",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "52097"
+        }
+    },
+    {
+        "question_id": "135.a",
+        "question": "If you are the person in a white hat sitting on the horse, where is the other rider relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "53333"
+        }
+    },
+    {
+        "question_id": "135.b",
+        "question": "From the perspective of the viewer, where is the person in a green shirt relative to the rider in white hat?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "53333"
+        }
+    },
+    {
+        "question_id": "136",
+        "question": "Where is the camera relative to the papers on the table?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "53784"
+        }
+    },
+    {
+        "question_id": "137.a",
+        "question": "If you are the batter in the image, where is the catcher relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "53848"
+        }
+    },
+    {
+        "question_id": "137.b",
+        "question": "From the perspective of the viewer, where is the batter relative to the catcher?",
+        "option": [
+            "behind (farther from viewer)",
+            "in front (closer to viewer)"
+        ],
+        "answer": "behind (farther from viewer)",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "53848"
+        }
+    },
+    {
+        "question_id": "138.a",
+        "question": "If you are the girl in the pink shirt, where is the guy in black relative to you?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54084"
+        }
+    },
+    {
+        "question_id": "138.b",
+        "question": "From the perspective of the viewer, where is the girl in the purple shirt relative to the girl in the pink shirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54084"
+        }
+    },
+    {
+        "question_id": "139",
+        "question": "Where is the camera relative to the bed?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54174"
+        }
+    },
+    {
+        "question_id": "140.a",
+        "question": "If you are the woman at the stall, where are the carrots relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54676"
+        }
+    },
+    {
+        "question_id": "140.b",
+        "question": "From the perspective of the viewer, where is the man relative to the woman at the stall?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54676"
+        }
+    },
+    {
+        "question_id": "141.a",
+        "question": "If you are the man in the image, where is the table relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54707"
+        }
+    },
+    {
+        "question_id": "141.b",
+        "question": "Where is the camera relative to the table?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54707"
+        }
+    },
+    {
+        "question_id": "142",
+        "question": "Where are the pastries relative to the camera?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "below",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57206"
+        }
+    },
+    {
+        "question_id": "143.a",
+        "question": "If you are the player in the blue shirt kicking the ball, where is the player in the red shirt relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57263"
+        }
+    },
+    {
+        "question_id": "143.b",
+        "question": "From the perspective of the viewer, where is the player in the blue shirt and kicking the ball relative to the player in the red shirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57263"
+        }
+    },
+    {
+        "question_id": "144",
+        "question": "From the perspective of the viewer, where are the monitors relative to the main desk?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "above",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57549"
+        }
+    },
+    {
+        "question_id": "145",
+        "question": "From the perspective of the viewer, where is the plate of steak relative to the bowl of sauce?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57648"
+        }
+    },
+    {
+        "question_id": "146",
+        "question": "where is the camera relative to the workstation?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57781"
+        }
+    },
+    {
+        "question_id": "147",
+        "question": "From the perspective of the viewer, where is the meat relative to the carrots?",
+        "option": [
+            "behind (farther from viewer)",
+            "in front (nearer to viewer)"
+        ],
+        "answer": "in front (nearer to viewer)",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "58154"
+        }
+    },
+    {
+        "question_id": "148.a",
+        "question": "If you are the man in the blue suit, where is the woman in the pink dress relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "58228"
+        }
+    },
+    {
+        "question_id": "148.b",
+        "question": "From the perspective of the viewer, where is the man in the blue suit relative to the woman in the pink dress?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "58228"
+        }
+    },
+    {
+        "question_id": "149.a",
+        "question": "If you are the woman in the image, where is the telephone relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "58274"
+        }
+    },
+    {
+        "question_id": "149.b",
+        "question": "From the perspective of the viewer, where is the woman relative to the telephone?",
+        "option": [
+            "on the left",
+            "on the right"
+        ],
+        "answer": "on the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "58274"
+        }
+    },
+    {
+        "question_id": "150",
+        "question": "If you are the viewer, where is the drink relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "59246"
+        }
+    },
+    {
+        "question_id": "151.a",
+        "question": "If you are the girl in the image, where is the brown teddy bear relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "59942"
+        }
+    },
+    {
+        "question_id": "151.b",
+        "question": "From the perspective of the viewer, where is the girl relative to the row of teddy bears?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "above",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "59942"
+        }
+    },
+    {
+        "question_id": "152.a",
+        "question": "If you are the man holding the baby, where is the birthday cake relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60398"
+        }
+    },
+    {
+        "question_id": "152.b",
+        "question": "From the perspective of the viewer, where is the man holding the baby relative to the birthday cake?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60398"
+        }
+    },
+    {
+        "question_id": "153.a",
+        "question": "If you are the woman in the image, where is the other person relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60495"
+        }
+    },
+    {
+        "question_id": "153.b",
+        "question": "From the perspective of the viewer, where is the woman relative to the kitchen counter?",
+        "option": [
+            "on the left",
+            "on the right"
+        ],
+        "answer": "on the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60495"
+        }
+    },
+    {
+        "question_id": "154.a",
+        "question": "If you are the person in glasses, where is the man with scarf relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60621"
+        }
+    },
+    {
+        "question_id": "154.b",
+        "question": "From the perspective of the viewer, where is the man with scarf relative to the person in glasses?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60621"
+        }
+    },
+    {
+        "question_id": "155",
+        "question": "Where is the camera relative to the green bottle?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "below",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60869"
+        }
+    },
+    {
+        "question_id": "156.a",
+        "question": "If you are standing at the sink facing the mirror, where is the urinal relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60956"
+        }
+    },
+    {
+        "question_id": "156.b",
+        "question": "Where is the camera relative to the sink?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60956"
+        }
+    },
+    {
+        "question_id": "157",
+        "question": "Where is the sink relative to the camera",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "below",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "61245"
+        }
+    },
+    {
+        "question_id": "158.a",
+        "question": "If you are the girl in the image, where is the boy relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "65313"
+        }
+    },
+    {
+        "question_id": "158.b",
+        "question": "From the perspective of the viewer, where is the girl relative to the boy?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "65313"
+        }
+    },
+    {
+        "question_id": "159",
+        "question": "From the perspective of the viewer, where are the cherry tomatoes relative to the dip?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "65393"
+        }
+    },
+    {
+        "question_id": "160.a",
+        "question": "If you are the girl holding the umbrella in the image, where is the other girl under the umbrella relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "66042"
+        }
+    },
+    {
+        "question_id": "160.b",
+        "question": "From the perspective of the viewer, where are the two girls relative to the yellow taxi?",
+        "option": [
+            "behind (farther from viewer)",
+            "in front (closer to viewer)"
+        ],
+        "answer": "in front (closer to viewer)",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "66042"
+        }
+    },
+    {
+        "question_id": "161.a",
+        "question": "If you are the boy in the image, where is the girl relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "67579"
+        }
+    },
+    {
+        "question_id": "161.b",
+        "question": "From the perspective of the viewer, where is the girl relative to the boy?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "above",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "67579"
+        }
+    },
+    {
+        "question_id": "162",
+        "question": "If you are the person in the blue shirt, where is the person in the black shirt relative to you?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "68010"
+        }
+    },
+    {
+        "question_id": "163",
+        "question": " Where is the camera relative to the strawberries?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "68505"
+        }
+    },
+    {
+        "question_id": "164.a",
+        "question": "If you are the man singing in the image, where is the cake relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69674"
+        }
+    },
+    {
+        "question_id": "164.b",
+        "question": "From the perspective of the viewer, where is the man with the guitar relative to the man singing?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69674"
+        }
+    },
+    {
+        "question_id": "165.a",
+        "question": "If you are the girl in the image, where is the boy relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69769"
+        }
+    },
+    {
+        "question_id": "165.b",
+        "question": "From the perspective of the viewer, where is the boy relative to the girl?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69769"
+        }
+    },
+    {
+        "question_id": "166.a",
+        "question": "If you are the surfer in the river, where is the bridge relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "70031"
+        }
+    },
+    {
+        "question_id": "166.b",
+        "question": "From the perspective of the viewer, where is the bridge relative to the surfer in the river?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "above",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "70031"
+        }
+    },
+    {
+        "question_id": "167.a",
+        "question": "If you are the woman in the red shirt, where is the man wearing a ops-eng shirt relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "70345"
+        }
+    },
+    {
+        "question_id": "167.b",
+        "question": "where is the camera relative to the green bag?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "70345"
+        }
+    },
+    {
+        "question_id": "168.a",
+        "question": "If you are the person wearing the pink apron, where is the person in pink shirt relative to you?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71483"
+        }
+    },
+    {
+        "question_id": "168.b",
+        "question": "From the perspective of the viewer, where is the person in the pink apron relative to the person in pink shirt?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71483"
+        }
+    },
+    {
+        "question_id": "169",
+        "question": "Where is the camera relative to the coffee cup?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71650"
+        }
+    },
+    {
+        "question_id": "170",
+        "question": "From the perspective of the viewer, where is the guitar stand relative to the coffee table?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71692"
+        }
+    },
+    {
+        "question_id": "171.a",
+        "question": "If you are the woman with the blonde hair in the middle, where is the other woman in the picture?",
+        "option": [
+            "directly next to you",
+            "further away"
+        ],
+        "answer": "directly next to you",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71729"
+        }
+    },
+    {
+        "question_id": "171.b",
+        "question": "Is the person wearing the pink shirt nearer or farther than the viewer from the group at the table?",
+        "option": [
+            "farther",
+            "nearer"
+        ],
+        "answer": "nearer",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71729"
+        }
+    },
+    {
+        "question_id": "172.a",
+        "question": "If you are the pink teddy bear in the picture, where is the red bear relative to your position?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "above",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71859"
+        }
+    },
+    {
+        "question_id": "172.b",
+        "question": "From the perspective of the viewer, where is the red bear relative to the pink teddy bear?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "above",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71859"
+        }
+    },
+    {
+        "question_id": "173.a",
+        "question": "If you are the person in the image, where is the hair clipper relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71913"
+        }
+    },
+    {
+        "question_id": "173.b",
+        "question": "From the perspective of the viewer, where is the hair clipper relative to the person?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71913"
+        }
+    },
+    {
+        "question_id": "174.a",
+        "question": "If you are the man sitting at the table, where is the lamp relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71943"
+        }
+    },
+    {
+        "question_id": "174.b",
+        "question": "where is the camera relative to the computer?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71943"
+        }
+    },
+    {
+        "question_id": "175.a",
+        "question": "If you are the person on the left elephant, where is the person on the right elephant relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72078"
+        }
+    },
+    {
+        "question_id": "175.b",
+        "question": "From the perspective of the viewer, where is the person in red cap relative to the person in grey cap?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72078"
+        }
+    },
+    {
+        "question_id": "176.a",
+        "question": "If you are lying in the bed, where is the television relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72231"
+        }
+    },
+    {
+        "question_id": "176.b",
+        "question": "From the perspective of the viewer, where is the television relative to the bed?",
+        "option": [
+            "below",
+            "on top"
+        ],
+        "answer": "on top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72231"
+        }
+    },
+    {
+        "question_id": "177.a",
+        "question": "If you are the player number 15, where is the player number 12 relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72464"
+        }
+    },
+    {
+        "question_id": "177.b",
+        "question": "From the perspective of the viewer, where is the player number 12 relative to the player number 15?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72464"
+        }
+    },
+    {
+        "question_id": "178.a",
+        "question": "If you are the player in the blue shirt with white shoes, where is the player in the green shirt with the number 5 relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72532"
+        }
+    },
+    {
+        "question_id": "178.b",
+        "question": "From the perspective of the viewer, where is the player in the blue shirt with white shoes relative to the player in the green shirt with the number 5?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72532"
+        }
+    },
+    {
+        "question_id": "179",
+        "question": "If you are the wolf on the rock in the image, where is the wolf on the ground relative to your position?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "below",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72578"
+        }
+    },
+    {
+        "question_id": "180.a",
+        "question": "If you are the girl sitting on the blanket, where is the boy standing relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72586"
+        }
+    },
+    {
+        "question_id": "180.b",
+        "question": "From the perspective of the viewer, where is the girl sitting on the blanket relative to the boy standing?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "below",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72586"
+        }
+    },
+    {
+        "question_id": "181.a",
+        "question": "If you are the person in purple shirt, where is the person wearing white shirt relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72619"
+        }
+    },
+    {
+        "question_id": "181.b",
+        "question": "Compared to the location of the guy wearing purple shirt, where is the camera that captured this photo?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72619"
+        }
+    },
+    {
+        "question_id": "182.a",
+        "question": "If you are the boy trying to reach into the bus, where is the person in pink relative to your position?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "above",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72711"
+        }
+    },
+    {
+        "question_id": "182.b",
+        "question": "From the perspective of the viewer, where is the boy relative to the bus?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72711"
+        }
+    },
+    {
+        "question_id": "183.a",
+        "question": "If you are the person making the sandwiches, where are the sandwiches relative to your position?",
+        "option": [
+            "in front",
+            "behind"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72725"
+        }
+    },
+    {
+        "question_id": "183.b",
+        "question": "From the perspective of the viewer, where is the person making the sandwiches relative to the sandwiches?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72725"
+        }
+    },
+    {
+        "question_id": "184.a",
+        "question": "If you are under the blue umbrella and standing facing the waters, where is the yellow umbrella relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73018"
+        }
+    },
+    {
+        "question_id": "184.b",
+        "question": "From the perspective of the viewer, where is the blue umbrella relative to the yellow umbrella?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73018"
+        }
+    },
+    {
+        "question_id": "185.a",
+        "question": "If you are the standing man in the image, where is the sitting woman in yellow relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73036"
+        }
+    },
+    {
+        "question_id": "185.b",
+        "question": "From the perspective of the viewer, where is the standing man relative to the sitting woman in yellow?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73036"
+        }
+    },
+    {
+        "question_id": "186",
+        "question": "Where is the camera relative to the table?",
+        "option": [
+            "below",
+            "on top of"
+        ],
+        "answer": "on top of",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73115"
+        }
+    },
+    {
+        "question_id": "187.a",
+        "question": "If you are the person whose hand is in the image, where is the pizza you are topping relative to you?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73175"
+        }
+    },
+    {
+        "question_id": "187.b",
+        "question": "From the perspective of the viewer, where is the bowl of cheese relative to the pizzas?",
+        "option": [
+            "to the left",
+            "to the right"
+        ],
+        "answer": "to the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73175"
+        }
+    },
+    {
+        "question_id": "188.a",
+        "question": "If you are the man in the image, where is the window relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73284"
+        }
+    },
+    {
+        "question_id": "188.b",
+        "question": "Where is the camera relative to the window?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "above",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73284"
+        }
+    },
+    {
+        "question_id": "189.a",
+        "question": "If you are sitting in the chair facing the monitor, where is the cat that is on the desk relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73294"
+        }
+    },
+    {
+        "question_id": "189.b",
+        "question": "From the perspective of the viewer, where is the cat on the desk relative to the chair?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73294"
+        }
+    },
+    {
+        "question_id": "190.a",
+        "question": "If you are the woman in the pink coat in the image, where is the man in white top relative to your position?",
+        "option": [
+            "on your left",
+            "on your right"
+        ],
+        "answer": "on your right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73762"
+        }
+    },
+    {
+        "question_id": "190.b",
+        "question": "From the perspective of the viewer, where is the man in the white top relative to the woman in the pink coat?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73762"
+        }
+    },
+    {
+        "question_id": "191.a",
+        "question": "If you are the child in the orange shirt, where is the person wearing purple relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "behind",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73992"
+        }
+    },
+    {
+        "question_id": "191.b",
+        "question": "From the perspective of the viewer, where is the child in the orange shirt relative to the child in the purple shirt?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73992"
+        }
+    },
+    {
+        "question_id": "192.a",
+        "question": "If you are the man sitting at the table, where is the bottle of water relative to your position?",
+        "option": [
+            "behind you",
+            "in front of you"
+        ],
+        "answer": "in front of you",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "74056"
+        }
+    },
+    {
+        "question_id": "192.b",
+        "question": "Where is the camera relative to the bottle of water?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "above",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "74056"
+        }
+    },
+    {
+        "question_id": "193.a",
+        "question": "If you are the boy in red shirt in the image, where is the kid in grey shirt relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "333747"
+        }
+    },
+    {
+        "question_id": "193.b",
+        "question": "From the perspective of the viewer, where is the kid in grey shirt relative to the boy in red shirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "333747"
+        }
+    },
+    {
+        "question_id": "194",
+        "question": "If you are the man cutting the cake in the image, where is the woman in black relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "333901"
+        }
+    },
+    {
+        "question_id": "195",
+        "question": "From the perspective of the viewer, where is the man in white shirt relative to the man in blue shirt?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "334316"
+        }
+    },
+    {
+        "question_id": "196.a",
+        "question": "If you are the man jumping in the image, where is the man in grey shirt relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "334401"
+        }
+    },
+    {
+        "question_id": "196.b",
+        "question": "From the perspective of the viewer, where is the man in grey shirt relative to the man jumping?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "334401"
+        }
+    },
+    {
+        "question_id": "197",
+        "question": "If you are the man drinking in the image, where is the lady relative to your position?",
+        "option": [
+            "left",
+            "right"
+        ],
+        "answer": "right",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "334619"
+        }
+    },
+    {
+        "question_id": "198",
+        "question": "Where is the camera relative to the kid?",
+        "option": [
+            "above",
+            "below"
+        ],
+        "answer": "below",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "338111"
+        }
+    },
+    {
+        "question_id": "199",
+        "question": "If you are the man holding the green umbrella in the image, where is the red umbrella relative to your position?",
+        "option": [
+            "behind",
+            "in front"
+        ],
+        "answer": "in front",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "338545"
+        }
+    },
+    {
+        "question_id": "200.a",
+        "question": "Assume that you are the black-haired boy in pink, where is the camera that captured this photo?",
+        "option": [
+            "behind me",
+            "in front of me"
+        ],
+        "answer": "behind me",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "345"
+        }
+    },
+    {
+        "question_id": "200.b",
+        "question": "Compared to the location of the black-haired boy in pink, where is the camera that captured this photo?",
+        "option": [
+            "behind (farther from viewer)",
+            "in front (closer to viewer)"
+        ],
+        "answer": "in front (closer to viewer)",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "345"
+        }
+    }
+]

@@ -1,0 +1,2972 @@
+[
+    {
+        "question_id": "1",
+        "question": "Which person is taller?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "202"
+        }
+    },
+    {
+        "question_id": "2",
+        "question": "Which object on the bed is bigger?",
+        "option": [
+            "the teddy bear",
+            "the blue dress"
+        ],
+        "answer": "the blue dress",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "275"
+        }
+    },
+    {
+        "question_id": "3",
+        "question": "Which computer is the smallest?",
+        "option": [
+            "the leftmost one",
+            "the rightmost one"
+        ],
+        "answer": "the leftmost one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "509"
+        }
+    },
+    {
+        "question_id": "4",
+        "question": "Which is taller?",
+        "option": [
+            "dog",
+            "woman"
+        ],
+        "answer": "woman",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "674"
+        }
+    },
+    {
+        "question_id": "5.1",
+        "question": "Is the fish icon on the ground bigger than the star icon in the picture?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "718"
+        }
+    },
+    {
+        "question_id": "5.2",
+        "question": "Is the star pattern on the ground larger than the moon pattern?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "718"
+        }
+    },
+    {
+        "question_id": "6",
+        "question": "Is the cat on the left bigger than the dog in the picture?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "851"
+        }
+    },
+    {
+        "question_id": "7",
+        "question": "Which person is taller?",
+        "option": [
+            "the man with a hat",
+            "the man without a hat"
+        ],
+        "answer": "the man with a hat",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "890"
+        }
+    },
+    {
+        "question_id": "8",
+        "question": "Is the plate smaller than the cake?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "933"
+        }
+    },
+    {
+        "question_id": "9",
+        "question": "Which object in the photo is smaller?",
+        "option": [
+            "chair",
+            "teddy bear"
+        ],
+        "answer": "teddy bear",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1172"
+        }
+    },
+    {
+        "question_id": "10",
+        "question": "Is the nearer dog bed smaller than the more distant one?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1257"
+        }
+    },
+    {
+        "question_id": "11",
+        "question": "Which sheep is the shortest?",
+        "option": [
+            "the leftmost sheep",
+            "the middle sheep"
+        ],
+        "answer": "the middle sheep",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1380"
+        }
+    },
+    {
+        "question_id": "12",
+        "question": "Which computer is smaller in the picture?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1459"
+        }
+    },
+    {
+        "question_id": "13",
+        "question": "Is the dog smaller than the cat?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1950"
+        }
+    },
+    {
+        "question_id": "14",
+        "question": "Which vase is smaller?",
+        "option": [
+            "blue vase",
+            "white vase"
+        ],
+        "answer": "white vase",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2196"
+        }
+    },
+    {
+        "question_id": "15",
+        "question": "Are the table lamps on the left and right sides of the bed of the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2797"
+        }
+    },
+    {
+        "question_id": "16",
+        "question": "Which goblet has more volume?",
+        "option": [
+            "the left one",
+            "the right one"
+        ],
+        "answer": "the right one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2939"
+        }
+    },
+    {
+        "question_id": "17",
+        "question": "Is the teddy bear taller than the girl?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3024"
+        }
+    },
+    {
+        "question_id": "18",
+        "question": "Do the left and right side elephant ornaments look the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3104"
+        }
+    },
+    {
+        "question_id": "19",
+        "question": "Which computer screen size is bigger?",
+        "option": [
+            "the one at the back",
+            "the one in the front"
+        ],
+        "answer": "the one at the back",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3390"
+        }
+    },
+    {
+        "question_id": "20",
+        "question": "Is the plate bigger than the straw hat?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3407"
+        }
+    },
+    {
+        "question_id": "21",
+        "question": "Which is higher between the red wire mannequin and the orange chair?",
+        "option": [
+            "the orange chair",
+            "the red wire mannequin"
+        ],
+        "answer": "the red wire mannequin",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3750"
+        }
+    },
+    {
+        "question_id": "22",
+        "question": "Is the size of flower smaller than the size of the leaf?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3780"
+        }
+    },
+    {
+        "question_id": "23",
+        "question": "Which doll has more height?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4235"
+        }
+    },
+    {
+        "question_id": "24",
+        "question": "Which object is bigger in the photo?",
+        "option": [
+            "the chair",
+            "the tv"
+        ],
+        "answer": "the chair",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4366"
+        }
+    },
+    {
+        "question_id": "25",
+        "question": "Is the signpost shorter than the man?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "79078"
+        }
+    },
+    {
+        "question_id": "26",
+        "question": "Which object in the photo is bigger?",
+        "option": [
+            "the book",
+            "the clock"
+        ],
+        "answer": "the book",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4422"
+        }
+    },
+    {
+        "question_id": "27",
+        "question": "Which vehicle is higher?",
+        "option": [
+            "the bus",
+            "the car"
+        ],
+        "answer": "the bus",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4505"
+        }
+    },
+    {
+        "question_id": "28",
+        "question": "Are the two toy cars in the picture the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "5138"
+        }
+    },
+    {
+        "question_id": "29",
+        "question": "Is the second giraffe from the right the shortest?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "5239"
+        }
+    },
+    {
+        "question_id": "30",
+        "question": "Which donut is bigger?",
+        "option": [
+            "the one on the left",
+            "the one on the right"
+        ],
+        "answer": "the one on the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "5886"
+        }
+    },
+    {
+        "question_id": "31",
+        "question": "Do the two spice jars have the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "5905"
+        }
+    },
+    {
+        "question_id": "32",
+        "question": "Which man is taller?",
+        "option": [
+            "the man walking at the front",
+            "the man walking behind"
+        ],
+        "answer": "the man walking at the front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6283"
+        }
+    },
+    {
+        "question_id": "33",
+        "question": "Which animal is taller?",
+        "option": [
+            "the brown one",
+            "the grey one"
+        ],
+        "answer": "the grey one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6425"
+        }
+    },
+    {
+        "question_id": "34",
+        "question": "Which object in the photo is bigger?",
+        "option": [
+            "the car",
+            "the cat"
+        ],
+        "answer": "the car",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6568"
+        }
+    },
+    {
+        "question_id": "35",
+        "question": "Which vehicle is longer?",
+        "option": [
+            "the blue one",
+            "the yellow one"
+        ],
+        "answer": "the yellow one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "7339"
+        }
+    },
+    {
+        "question_id": "36",
+        "question": "Is the cat taller than the motorbike?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "7362"
+        }
+    },
+    {
+        "question_id": "37",
+        "question": "Which cup is higher?",
+        "option": [
+            "the left one",
+            "the right one"
+        ],
+        "answer": "the right one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "7959"
+        }
+    },
+    {
+        "question_id": "38",
+        "question": "Which doll pig is bigger in the photo?",
+        "option": [
+            "the bottom one",
+            "the top one"
+        ],
+        "answer": "the top one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8125"
+        }
+    },
+    {
+        "question_id": "39",
+        "question": "Which dog is bigger in the photo?",
+        "option": [
+            "the one on the left",
+            "the one on the right"
+        ],
+        "answer": "the one on the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8322"
+        }
+    },
+    {
+        "question_id": "40",
+        "question": "Are the four motorbikes the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8359"
+        }
+    },
+    {
+        "question_id": "41",
+        "question": "Which cutlery is longer in the photo?",
+        "option": [
+            "the fork",
+            "the knife"
+        ],
+        "answer": "the knife",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8497"
+        }
+    },
+    {
+        "question_id": "42",
+        "question": "Do all three phones in the photo have similar size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "9004"
+        }
+    },
+    {
+        "question_id": "43",
+        "question": "Which object in the photo is smaller?",
+        "option": [
+            "the cat",
+            "the cup"
+        ],
+        "answer": "the cup",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "9046"
+        }
+    },
+    {
+        "question_id": "44",
+        "question": "Which object in the photo is smaller?",
+        "option": [
+            "the cat",
+            "the orange cup"
+        ],
+        "answer": "the cat",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "9073"
+        }
+    },
+    {
+        "question_id": "45",
+        "question": "Which person is taller?",
+        "option": [
+            "the one on the left side",
+            "the one on the right side"
+        ],
+        "answer": "the one on the right side",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "9179"
+        }
+    },
+    {
+        "question_id": "46",
+        "question": "Which window pane has the largest area?",
+        "option": [
+            "the leftmost one",
+            "the center one"
+        ],
+        "answer": "the center one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "9431"
+        }
+    },
+    {
+        "question_id": "47",
+        "question": "Which is taller in the photo?",
+        "option": [
+            "the beer glass",
+            "the beer bottle"
+        ],
+        "answer": "the beer bottle",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "9526"
+        }
+    },
+    {
+        "question_id": "48",
+        "question": "Which of the two knives lying on the table is wider?",
+        "option": [
+            "the left one",
+            "the right one"
+        ],
+        "answer": "the left one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10302"
+        }
+    },
+    {
+        "question_id": "49",
+        "question": "Which animal is taller in the photo?",
+        "option": [
+            "the giraffe",
+            "the rhinoceros"
+        ],
+        "answer": "the giraffe",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10372"
+        }
+    },
+    {
+        "question_id": "50",
+        "question": "Is the dog taller than the horse?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10869"
+        }
+    },
+    {
+        "question_id": "51",
+        "question": "Do the four planes in the picture look the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11451"
+        }
+    },
+    {
+        "question_id": "52",
+        "question": "Is the backpack bigger than the suitcase?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11827"
+        }
+    },
+    {
+        "question_id": "53",
+        "question": "Which object in the photo is taller?",
+        "option": [
+            "the boy",
+            "the skateboard"
+        ],
+        "answer": "the boy",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11829"
+        }
+    },
+    {
+        "question_id": "54",
+        "question": "Is the middle cup the highest of the three objects on the kitchen counter?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "12730"
+        }
+    },
+    {
+        "question_id": "55",
+        "question": "Which giraffe is shorter?",
+        "option": [
+            "the one on the left",
+            "the one on the right"
+        ],
+        "answer": "the one on the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "12802"
+        }
+    },
+    {
+        "question_id": "56.1",
+        "question": "Which is bigger in the photo?",
+        "option": [
+            "yellow flower",
+            "green leaf"
+        ],
+        "answer": "yellow flower",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "13069"
+        }
+    },
+    {
+        "question_id": "56.2",
+        "question": "Is the goblet taller than the bottle?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "13069"
+        }
+    },
+    {
+        "question_id": "57",
+        "question": "Which is bigger?",
+        "option": [
+            "the teapot",
+            "the mirror"
+        ],
+        "answer": "the mirror",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "13116"
+        }
+    },
+    {
+        "question_id": "58",
+        "question": "Is the glass bigger than the plate?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "13368"
+        }
+    },
+    {
+        "question_id": "59",
+        "question": "Which fruit is bigger?",
+        "option": [
+            "lemon",
+            "orange"
+        ],
+        "answer": "orange",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "13381"
+        }
+    },
+    {
+        "question_id": "60",
+        "question": "Are two giraffes the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "13391"
+        }
+    },
+    {
+        "question_id": "61",
+        "question": "Which object in the photo is bigger?",
+        "option": [
+            "the cat",
+            "the suitcase"
+        ],
+        "answer": "the suitcase",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "13693"
+        }
+    },
+    {
+        "question_id": "62",
+        "question": "Which refrigerator is higher?",
+        "option": [
+            "the white one",
+            "the yellow one"
+        ],
+        "answer": "the white one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "14022"
+        }
+    },
+    {
+        "question_id": "63",
+        "question": "Which is bigger?",
+        "option": [
+            "the black case",
+            "the orange laptop"
+        ],
+        "answer": "the black case",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "14612"
+        }
+    },
+    {
+        "question_id": "64",
+        "question": "Is the green suitcase bigger than the grey suitcase?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "14842"
+        }
+    },
+    {
+        "question_id": "65",
+        "question": "Which one is taller in the picture?",
+        "option": [
+            "the person with the helmet",
+            "the person without the helmet"
+        ],
+        "answer": "the person with the helmet",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "15358"
+        }
+    },
+    {
+        "question_id": "66",
+        "question": "Who is fatter in the picture?",
+        "option": [
+            "the person on the left side",
+            "the person on the right side"
+        ],
+        "answer": "the person on the left side",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "15378"
+        }
+    },
+    {
+        "question_id": "67",
+        "question": "Is the bag taller than the suitcase?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "15642"
+        }
+    },
+    {
+        "question_id": "68",
+        "question": "Which computer screen is smaller?",
+        "option": [
+            "the left one",
+            "the right one"
+        ],
+        "answer": "the right one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "16457"
+        }
+    },
+    {
+        "question_id": "69",
+        "question": "On the desk on the left, which computer screen is larger?",
+        "option": [
+            "the screen on the left",
+            "the screen on the right"
+        ],
+        "answer": "the screen on the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "16566"
+        }
+    },
+    {
+        "question_id": "70",
+        "question": "Do the two elephants have the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "16790"
+        }
+    },
+    {
+        "question_id": "71",
+        "question": "Are the two giraffes of the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17063"
+        }
+    },
+    {
+        "question_id": "72",
+        "question": "Which vehicle is wider?",
+        "option": [
+            "the vehicle on the left",
+            "the vehicle on the right"
+        ],
+        "answer": "the vehicle on the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17286"
+        }
+    },
+    {
+        "question_id": "73",
+        "question": "The leftmost mobile phone is the longest.",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17608"
+        }
+    },
+    {
+        "question_id": "74",
+        "question": "Which cup has more volume?",
+        "option": [
+            "the cup for coffee",
+            "the cup for juice"
+        ],
+        "answer": "the cup for juice",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17648"
+        }
+    },
+    {
+        "question_id": "75",
+        "question": "Is the dog smaller than the cat?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17968"
+        }
+    },
+    {
+        "question_id": "76",
+        "question": "Which object in the photo is shorter?",
+        "option": [
+            "the elephant",
+            "the man"
+        ],
+        "answer": "the man",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17976"
+        }
+    },
+    {
+        "question_id": "77",
+        "question": "Which ring on the handle of scissors is smaller?",
+        "option": [
+            "the left ring",
+            "the right ring"
+        ],
+        "answer": "the left ring",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "17980"
+        }
+    },
+    {
+        "question_id": "78",
+        "question": "Is the sandwich shorter than the card next to it?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18906"
+        }
+    },
+    {
+        "question_id": "79",
+        "question": "The blue keyboard is shorter than the black one.",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18954"
+        }
+    },
+    {
+        "question_id": "80",
+        "question": "The book is shorter than the phone.",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18970"
+        }
+    },
+    {
+        "question_id": "81",
+        "question": "The second computer on the left has the smallest screen.",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "20048"
+        }
+    },
+    {
+        "question_id": "82",
+        "question": "Is the green board shorter than the red one?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "20081"
+        }
+    },
+    {
+        "question_id": "83",
+        "question": "Which elephant is taller?",
+        "option": [
+            "the elephant on the left",
+            "the elephant on the right"
+        ],
+        "answer": "the elephant on the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "20274"
+        }
+    },
+    {
+        "question_id": "84",
+        "question": "Does the first vase from the left have the biggest volume?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "20503"
+        }
+    },
+    {
+        "question_id": "85",
+        "question": "Is the second giraffe from the right the tallest?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "20559"
+        }
+    },
+    {
+        "question_id": "86",
+        "question": "Which vehicle is longer?",
+        "option": [
+            "the green one",
+            "the white one"
+        ],
+        "answer": "the green one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "20892"
+        }
+    },
+    {
+        "question_id": "87",
+        "question": "Do both windows have the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21018"
+        }
+    },
+    {
+        "question_id": "88",
+        "question": "Is the pizza bigger than the chopping board?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21114"
+        }
+    },
+    {
+        "question_id": "89",
+        "question": "Which object in the photo is taller?",
+        "option": [
+            "the skateboard",
+            "the woman"
+        ],
+        "answer": "the woman",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21616"
+        }
+    },
+    {
+        "question_id": "90",
+        "question": "Which vehicle is higher?",
+        "option": [
+            "the vehicle on the left",
+            "the vehicle on the right"
+        ],
+        "answer": "the vehicle on the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "22247"
+        }
+    },
+    {
+        "question_id": "91",
+        "question": "Is the red bottle higher than the green bottle?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "22558"
+        }
+    },
+    {
+        "question_id": "92",
+        "question": "Which bottle is taller?",
+        "option": [
+            "the Coke bottle",
+            "the glass bottle"
+        ],
+        "answer": "the Coke bottle",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "23013"
+        }
+    },
+    {
+        "question_id": "93",
+        "question": "Which object is shorter in length?",
+        "option": [
+            "the banana",
+            "the spoon"
+        ],
+        "answer": "the spoon",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "23543"
+        }
+    },
+    {
+        "question_id": "94",
+        "question": "Which giraffe is taller?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "23554"
+        }
+    },
+    {
+        "question_id": "95",
+        "question": "Is the cat bigger than the laptop?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "23559"
+        }
+    },
+    {
+        "question_id": "96",
+        "question": "Which zebra is the biggest?",
+        "option": [
+            "the leftmost one",
+            "the rightmost one"
+        ],
+        "answer": "the rightmost one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "23674"
+        }
+    },
+    {
+        "question_id": "97",
+        "question": "The yellow sauce bottle is as tall as the red one.",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "24526"
+        }
+    },
+    {
+        "question_id": "98",
+        "question": "The man is taller than the car next to him.",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "24675"
+        }
+    },
+    {
+        "question_id": "99",
+        "question": "The man is taller than the elephant.",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "24775"
+        }
+    },
+    {
+        "question_id": "100",
+        "question": "The fire hydrant is taller than the child.",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25136"
+        }
+    },
+    {
+        "question_id": "101",
+        "question": "Which flower is bigger in size?",
+        "option": [
+            "the red flower",
+            "the white flower"
+        ],
+        "answer": "the red flower",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25750"
+        }
+    },
+    {
+        "question_id": "102",
+        "question": "Which object in the photo is taller?",
+        "option": [
+            "the truck",
+            "the peacock"
+        ],
+        "answer": "the truck",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "25927"
+        }
+    },
+    {
+        "question_id": "103",
+        "question": "Is the elephant taller than the person in white?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26287"
+        }
+    },
+    {
+        "question_id": "104",
+        "question": "Which is taller?",
+        "option": [
+            "the man",
+            "the white surfboard"
+        ],
+        "answer": "the white surfboard",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26556"
+        }
+    },
+    {
+        "question_id": "105",
+        "question": "Which electronic product has the biggest screen in the photo?",
+        "option": [
+            "the tablet on the bottom",
+            "the tablet on the top"
+        ],
+        "answer": "the tablet on the top",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26772"
+        }
+    },
+    {
+        "question_id": "106",
+        "question": "Is the pink mug the shortest of the mugs?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "26806"
+        }
+    },
+    {
+        "question_id": "107",
+        "question": "Which utensil is longer?",
+        "option": [
+            "knife",
+            "fork"
+        ],
+        "answer": "knife",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27027"
+        }
+    },
+    {
+        "question_id": "108",
+        "question": "Is the cat sculpture taller than the suitcase?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27359"
+        }
+    },
+    {
+        "question_id": "109",
+        "question": "Which chandelier is bigger?",
+        "option": [
+            "the left chandelier",
+            "the right chandelier"
+        ],
+        "answer": "the left chandelier",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27634"
+        }
+    },
+    {
+        "question_id": "110",
+        "question": "Which teddy bear is the biggest?",
+        "option": [
+            "the frontmost one",
+            "the backmost one"
+        ],
+        "answer": "the backmost one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27741"
+        }
+    },
+    {
+        "question_id": "111",
+        "question": "Is the cat bigger than the TV?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27766"
+        }
+    },
+    {
+        "question_id": "112",
+        "question": "Which computer screen size is bigger?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "28136"
+        }
+    },
+    {
+        "question_id": "113",
+        "question": "Which object in the photo is bigger?",
+        "option": [
+            "the cat",
+            "the sofa"
+        ],
+        "answer": "the sofa",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "28200"
+        }
+    },
+    {
+        "question_id": "114",
+        "question": "Which cattle is taller?",
+        "option": [
+            "the brown one",
+            "the white one"
+        ],
+        "answer": "the brown one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "28500"
+        }
+    },
+    {
+        "question_id": "115",
+        "question": "Which giraffe is taller",
+        "option": [
+            "the left giraffe",
+            "the right giraffe"
+        ],
+        "answer": "the left giraffe",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "28623"
+        }
+    },
+    {
+        "question_id": "116",
+        "question": "Which one is taller in the picture?",
+        "option": [
+            "the doll",
+            "the table lamp"
+        ],
+        "answer": "the table lamp",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "28632"
+        }
+    },
+    {
+        "question_id": "117",
+        "question": "Which object in the photo is bigger?",
+        "option": [
+            "the orange",
+            "the polar bear"
+        ],
+        "answer": "the polar bear",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "28873"
+        }
+    },
+    {
+        "question_id": "118",
+        "question": "Which vase is the highest?",
+        "option": [
+            "the one in the centre",
+            "the one on the right"
+        ],
+        "answer": "the one in the centre",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "29016"
+        }
+    },
+    {
+        "question_id": "119",
+        "question": "Which object in the photo is taller?",
+        "option": [
+            "the boy",
+            "the hydrant"
+        ],
+        "answer": "the boy",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "29052"
+        }
+    },
+    {
+        "question_id": "120",
+        "question": "Which computer screen size is smaller?",
+        "option": [
+            "the left one",
+            "the right one"
+        ],
+        "answer": "the left one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "29311"
+        }
+    },
+    {
+        "question_id": "121",
+        "question": "Which giraffe is taller in the photo?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "29549"
+        }
+    },
+    {
+        "question_id": "122",
+        "question": "Which object in the photo is bigger?",
+        "option": [
+            "the dog",
+            "the slipper"
+        ],
+        "answer": "the dog",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "29822"
+        }
+    },
+    {
+        "question_id": "123",
+        "question": "Which person is taller in the picture?",
+        "option": [
+            "the person on the left side",
+            "the person on the right side"
+        ],
+        "answer": "the person on the left side",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "29887"
+        }
+    },
+    {
+        "question_id": "124",
+        "question": "Which cattle is bigger?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "30323"
+        }
+    },
+    {
+        "question_id": "125",
+        "question": "Is the bread bigger than the two oranges?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "30581"
+        }
+    },
+    {
+        "question_id": "126",
+        "question": "Which water cup is higher?",
+        "option": [
+            "the purple one",
+            "the white one"
+        ],
+        "answer": "the purple one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "30968"
+        }
+    },
+    {
+        "question_id": "127",
+        "question": "Which vase is the highest?",
+        "option": [
+            "first vase from the right",
+            "second vase from the right"
+        ],
+        "answer": "second vase from the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "31571"
+        }
+    },
+    {
+        "question_id": "128",
+        "question": "Which is bigger?",
+        "option": [
+            "umbrella",
+            "manhole cover"
+        ],
+        "answer": "umbrella",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32340"
+        }
+    },
+    {
+        "question_id": "129",
+        "question": "Which object in the photo is smaller?",
+        "option": [
+            "the bird",
+            "the hydrant"
+        ],
+        "answer": "the bird",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32619"
+        }
+    },
+    {
+        "question_id": "130",
+        "question": "Which cup is higher?",
+        "option": [
+            "the silver one",
+            "the white one"
+        ],
+        "answer": "the white one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32942"
+        }
+    },
+    {
+        "question_id": "131",
+        "question": "Which plate in the photo is bigger?",
+        "option": [
+            "the left plate",
+            "the right plate"
+        ],
+        "answer": "the left plate",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33313"
+        }
+    },
+    {
+        "question_id": "132",
+        "question": "Which computer screen is the biggest?",
+        "option": [
+            "the middle one",
+            "the rightmost one"
+        ],
+        "answer": "the middle one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33450"
+        }
+    },
+    {
+        "question_id": "133",
+        "question": "Which object in the photo is smaller?",
+        "option": [
+            "the cat",
+            "the slipper"
+        ],
+        "answer": "the slipper",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33996"
+        }
+    },
+    {
+        "question_id": "134",
+        "question": "Which cat in the photo is longer?",
+        "option": [
+            "the orange one",
+            "the white one"
+        ],
+        "answer": "the white one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "34066"
+        }
+    },
+    {
+        "question_id": "135",
+        "question": "Which utensil is shorter?",
+        "option": [
+            "knife",
+            "fork"
+        ],
+        "answer": "fork",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "34504"
+        }
+    },
+    {
+        "question_id": "136",
+        "question": "Which object in the photo is bigger?",
+        "option": [
+            "the boy",
+            "the teddy bear"
+        ],
+        "answer": "the boy",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "35055"
+        }
+    },
+    {
+        "question_id": "137",
+        "question": "Is the black-faced sheep the biggest of the three animals?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "35073"
+        }
+    },
+    {
+        "question_id": "138",
+        "question": "Are the three black goblets the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "35665"
+        }
+    },
+    {
+        "question_id": "139",
+        "question": "Is the rightmost pumpkin the biggest?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "35675"
+        }
+    },
+    {
+        "question_id": "140",
+        "question": "Which person is shorter?",
+        "option": [
+            "the left one",
+            "the right one"
+        ],
+        "answer": "the right one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "35892"
+        }
+    },
+    {
+        "question_id": "141",
+        "question": "Do the strawberries in the picture look the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "35984"
+        }
+    },
+    {
+        "question_id": "142",
+        "question": "Which animal is taller?",
+        "option": [
+            "the one at the back",
+            "the one in the front"
+        ],
+        "answer": "the one in the front",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "36479"
+        }
+    },
+    {
+        "question_id": "143",
+        "question": "Which is longer?",
+        "option": [
+            "fork",
+            "knife"
+        ],
+        "answer": "knife",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "36558"
+        }
+    },
+    {
+        "question_id": "144",
+        "question": "Which dog is smaller in the photo?",
+        "option": [
+            "the dark brown one",
+            "the orange one"
+        ],
+        "answer": "the orange one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "36641"
+        }
+    },
+    {
+        "question_id": "145",
+        "question": "Do the two cows look the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "36683"
+        }
+    },
+    {
+        "question_id": "146",
+        "question": "Do the two rings on the handles of the scissors look the same size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "37146"
+        }
+    },
+    {
+        "question_id": "147",
+        "question": "Which plate in the photo is bigger?",
+        "option": [
+            "the one under the coffee cup",
+            "the one with the doughnuts"
+        ],
+        "answer": "the one with the doughnuts",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "37664"
+        }
+    },
+    {
+        "question_id": "148",
+        "question": "Which screen is the smallest?",
+        "option": [
+            "the leftmost one",
+            "the rightmost one"
+        ],
+        "answer": "the rightmost one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "37738"
+        }
+    },
+    {
+        "question_id": "149",
+        "question": "For the two slices of orange, which one is smaller?",
+        "option": [
+            "the top slice",
+            "the bottom slice"
+        ],
+        "answer": "the top slice",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "37930"
+        }
+    },
+    {
+        "question_id": "150",
+        "question": "Do the two giraffes have different height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "37948"
+        }
+    },
+    {
+        "question_id": "151",
+        "question": "Is the bird bigger than the rearview mirror?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38089"
+        }
+    },
+    {
+        "question_id": "152",
+        "question": "Do the two zebras have different height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38150"
+        }
+    },
+    {
+        "question_id": "153",
+        "question": "Are the green bristles on the toothbrush the longest?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38260"
+        }
+    },
+    {
+        "question_id": "154",
+        "question": "Is the red bus taller than the black car?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38333"
+        }
+    },
+    {
+        "question_id": "155",
+        "question": "Which object in the photo is smaller?",
+        "option": [
+            "the cat",
+            "the sofa"
+        ],
+        "answer": "the cat",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38351"
+        }
+    },
+    {
+        "question_id": "156",
+        "question": "Which is taller?",
+        "option": [
+            "the bicycle",
+            "the dog"
+        ],
+        "answer": "the bicycle",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38483"
+        }
+    },
+    {
+        "question_id": "157",
+        "question": "Which object in the photo is smaller?",
+        "option": [
+            "the cat",
+            "the shoe"
+        ],
+        "answer": "the shoe",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38522"
+        }
+    },
+    {
+        "question_id": "158",
+        "question": "Do the two dolls look the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38607"
+        }
+    },
+    {
+        "question_id": "159",
+        "question": "Which person looks the fattest?",
+        "option": [
+            "the person on the left",
+            "the person on the right"
+        ],
+        "answer": "the person on the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38717"
+        }
+    },
+    {
+        "question_id": "160",
+        "question": "Do the five cups in the first row look the same height?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38792"
+        }
+    },
+    {
+        "question_id": "161",
+        "question": "Which computer screen size is bigger?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39757"
+        }
+    },
+    {
+        "question_id": "162",
+        "question": "Is the white lunch box bigger than the blue lunch box?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39795"
+        }
+    },
+    {
+        "question_id": "163",
+        "question": "Which horse looks taller?",
+        "option": [
+            "the left horse",
+            "the right horse"
+        ],
+        "answer": "the left horse",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39857"
+        }
+    },
+    {
+        "question_id": "164",
+        "question": "Is the cat bigger than the remote control?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "40378"
+        }
+    },
+    {
+        "question_id": "165",
+        "question": "Is the white table lamp shorter than the yellow vase?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "40584"
+        }
+    },
+    {
+        "question_id": "166",
+        "question": "Which object in the photo is smaller?",
+        "option": [
+            "the ball",
+            "the dog"
+        ],
+        "answer": "the ball",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "40797"
+        }
+    },
+    {
+        "question_id": "167",
+        "question": "Is the man bigger than the cat?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "40841"
+        }
+    },
+    {
+        "question_id": "168",
+        "question": "Which phone is taller in the photo?",
+        "option": [
+            "the left one",
+            "the right one"
+        ],
+        "answer": "the right one",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "41538"
+        }
+    },
+    {
+        "question_id": "169",
+        "question": "Which object in the photo is smaller?",
+        "option": [
+            "the dog",
+            "the wooden bench"
+        ],
+        "answer": "the dog",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "42053"
+        }
+    },
+    {
+        "question_id": "170",
+        "question": "Is the cat bigger than the hand?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "42487"
+        }
+    },
+    {
+        "question_id": "171",
+        "question": "Is the person shorter than the cattle?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "42545"
+        }
+    },
+    {
+        "question_id": "172",
+        "question": "Which object is bigger?",
+        "option": [
+            "the clock",
+            "the TV"
+        ],
+        "answer": "the TV",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "42589"
+        }
+    },
+    {
+        "question_id": "173",
+        "question": "Is the guinea pig bigger than the lorry?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "43631"
+        }
+    },
+    {
+        "question_id": "174",
+        "question": "Which object in the photo is longer?",
+        "option": [
+            "the bench",
+            "the cattle"
+        ],
+        "answer": "the bench",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "44537"
+        }
+    },
+    {
+        "question_id": "175",
+        "question": "Which object in the photo is bigger?",
+        "option": [
+            "the man",
+            "the teddy bear"
+        ],
+        "answer": "the man",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "44731"
+        }
+    },
+    {
+        "question_id": "176",
+        "question": "Is the bench taller than the chair?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "45077"
+        }
+    },
+    {
+        "question_id": "177",
+        "question": "Is the cat bigger than the suitcase?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "45913"
+        }
+    },
+    {
+        "question_id": "178",
+        "question": "Is the man bigger than the toy monkey?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "46661"
+        }
+    },
+    {
+        "question_id": "179",
+        "question": "Which plate in the photo is smaller?",
+        "option": [
+            "the one with the cake",
+            "the one with the pizza"
+        ],
+        "answer": "the one with the cake",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "46955"
+        }
+    },
+    {
+        "question_id": "180",
+        "question": "Which animal is bigger in the photo?",
+        "option": [
+            "the cat",
+            "the dog"
+        ],
+        "answer": "the dog",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "47712"
+        }
+    },
+    {
+        "question_id": "181",
+        "question": "Is the person bigger than the dog?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "47868"
+        }
+    },
+    {
+        "question_id": "182",
+        "question": "Is the TV taller than the cardboard box?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "48028"
+        }
+    },
+    {
+        "question_id": "183",
+        "question": "Is the red lunch box bigger than the yellow lunch box?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "48524"
+        }
+    },
+    {
+        "question_id": "184",
+        "question": "Which ring on the handle of the scissors is bigger?",
+        "option": [
+            "the left ring",
+            "the right ring"
+        ],
+        "answer": "the left ring",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "48755"
+        }
+    },
+    {
+        "question_id": "185",
+        "question": "Which animal is taller?",
+        "option": [
+            "the antelope",
+            "the giraffe"
+        ],
+        "answer": "the giraffe",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "49142"
+        }
+    },
+    {
+        "question_id": "186",
+        "question": "Which one is bigger?",
+        "option": [
+            "the apple",
+            "the bird"
+        ],
+        "answer": "the bird",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "49214"
+        }
+    },
+    {
+        "question_id": "187",
+        "question": "Which giraffe is taller",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "79079"
+        }
+    },
+    {
+        "question_id": "188",
+        "question": "Which person is taller?",
+        "option": [
+            "the one standing at the front",
+            "the one standing at the back"
+        ],
+        "answer": "the one standing at the back",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "56654"
+        }
+    },
+    {
+        "question_id": "189",
+        "question": "Which baby is taller?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the right",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "58097"
+        }
+    },
+    {
+        "question_id": "190",
+        "question": "Which object in the photo is smaller?",
+        "option": [
+            "the bear",
+            "the child"
+        ],
+        "answer": "the child",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60439"
+        }
+    },
+    {
+        "question_id": "191",
+        "question": "Which elephant is taller?",
+        "option": [
+            "the left",
+            "the right"
+        ],
+        "answer": "the left",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "65219"
+        }
+    },
+    {
+        "question_id": "192",
+        "question": "Is the person in black taller than people in grey?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "68010"
+        }
+    },
+    {
+        "question_id": "193",
+        "question": "Which plate is bigger?",
+        "option": [
+            "the one under the slice of cake",
+            "the one under the cup of coffee"
+        ],
+        "answer": "the one under the slice of cake",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71650"
+        }
+    },
+    {
+        "question_id": "194",
+        "question": "Which vehicle is higher",
+        "option": [
+            "the bus",
+            "the car"
+        ],
+        "answer": "the bus",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72635"
+        }
+    },
+    {
+        "question_id": "195",
+        "question": "Is the leftmost sunflower the biggest of the three sunflowers in the picture?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "76379"
+        }
+    },
+    {
+        "question_id": "196",
+        "question": "Which object is raised farther off the ground?",
+        "option": [
+            "the bat",
+            "the glove"
+        ],
+        "answer": "the bat",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "name",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "76859"
+        }
+    }
+]

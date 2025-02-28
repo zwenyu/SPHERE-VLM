@@ -1,0 +1,1214 @@
+[
+    {
+        "question_id": "1",
+        "question": "How many buses are visible?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1"
+        }
+    },
+    {
+        "question_id": "2",
+        "question": "How many people are in the photo?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69"
+        }
+    },
+    {
+        "question_id": "3",
+        "question": "How many trees are visible?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "90"
+        }
+    },
+    {
+        "question_id": "4",
+        "question": "How many displays are there?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "509"
+        }
+    },
+    {
+        "question_id": "5",
+        "question": "How many skateboards are there in the photo?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1367"
+        }
+    },
+    {
+        "question_id": "6",
+        "question": "How many laptops are in the image?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1459"
+        }
+    },
+    {
+        "question_id": "7",
+        "question": "How many people are wearing red?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1671"
+        }
+    },
+    {
+        "question_id": "8",
+        "question": "How many trains are in this photo?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2233"
+        }
+    },
+    {
+        "question_id": "9",
+        "question": "How many tennis balls are in this photo?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3081"
+        }
+    },
+    {
+        "question_id": "10",
+        "question": "How many forks are in this photo?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3407"
+        }
+    },
+    {
+        "question_id": "11",
+        "question": "How many blue buckets are visible?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3581"
+        }
+    },
+    {
+        "question_id": "12",
+        "question": "How many zebras are in this photo?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3805"
+        }
+    },
+    {
+        "question_id": "13",
+        "question": "How many buses are in this photo?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4505"
+        }
+    },
+    {
+        "question_id": "14",
+        "question": "How many umbrellas are in this photo?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4790"
+        }
+    },
+    {
+        "question_id": "15",
+        "question": "How many bikes are there?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "7640"
+        }
+    },
+    {
+        "question_id": "16",
+        "question": "How many bowls are in this photo?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "9232"
+        }
+    },
+    {
+        "question_id": "17",
+        "question": "How many sheep can be seen?",
+        "option": null,
+        "answer": "9",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21200"
+        }
+    },
+    {
+        "question_id": "18",
+        "question": "How many people are in the photo?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27312"
+        }
+    },
+    {
+        "question_id": "19",
+        "question": "How many plates are there?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "67701"
+        }
+    },
+    {
+        "question_id": "20",
+        "question": "How many plates are on the table?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "71650"
+        }
+    },
+    {
+        "question_id": "21",
+        "question": "How many dogs can be seen?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72806"
+        }
+    },
+    {
+        "question_id": "22",
+        "question": "How many cups are there?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "76552"
+        }
+    },
+    {
+        "question_id": "23",
+        "question": "How many laptops are in this photo?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "78847"
+        }
+    },
+    {
+        "question_id": "24",
+        "question": "How many pastries are there?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "83203"
+        }
+    },
+    {
+        "question_id": "25",
+        "question": "How many forks are in this photo?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "85654"
+        }
+    },
+    {
+        "question_id": "26",
+        "question": "How many buses can be seen?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "86038"
+        }
+    },
+    {
+        "question_id": "27",
+        "question": "How many dolls are in the photo?",
+        "option": null,
+        "answer": "6",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "90063"
+        }
+    },
+    {
+        "question_id": "28",
+        "question": "How many men are there in this photo?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "101422"
+        }
+    },
+    {
+        "question_id": "29",
+        "question": "How many bicycles are there?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "109413"
+        }
+    },
+    {
+        "question_id": "30",
+        "question": "How many animals can be seen in this photo?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "116671"
+        }
+    },
+    {
+        "question_id": "31",
+        "question": "How many people are in this photo?",
+        "option": null,
+        "answer": "6",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "123592"
+        }
+    },
+    {
+        "question_id": "32",
+        "question": "How many buses are in this photo?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "129691"
+        }
+    },
+    {
+        "question_id": "33",
+        "question": "How many chickens are in the photo?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "129884"
+        }
+    },
+    {
+        "question_id": "34",
+        "question": "How many people are there?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "152735"
+        }
+    },
+    {
+        "question_id": "35",
+        "question": "How many plates are there?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "156091"
+        }
+    },
+    {
+        "question_id": "36",
+        "question": "How many water tanks are there?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "170047"
+        }
+    },
+    {
+        "question_id": "37",
+        "question": "How many strawberries are in this photo?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "170386"
+        }
+    },
+    {
+        "question_id": "38",
+        "question": "How many keyboards can be seen in this photo?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "175577"
+        }
+    },
+    {
+        "question_id": "39",
+        "question": "How many tennis rackets are in this photo?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "183583"
+        }
+    },
+    {
+        "question_id": "40",
+        "question": "How many signboards are visible?",
+        "option": null,
+        "answer": "7",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "184083"
+        }
+    },
+    {
+        "question_id": "41",
+        "question": "How many people are in this photo?",
+        "option": null,
+        "answer": "6",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "188190"
+        }
+    },
+    {
+        "question_id": "42",
+        "question": "How many people are in this photo?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "189271"
+        }
+    },
+    {
+        "question_id": "43",
+        "question": "How many people are in the photo?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "199684"
+        }
+    },
+    {
+        "question_id": "44",
+        "question": "How many bears are in the photo?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "219131"
+        }
+    },
+    {
+        "question_id": "45",
+        "question": "How many computer screens can be seen?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "233511"
+        }
+    },
+    {
+        "question_id": "46",
+        "question": "How many plant pots can be seen?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "239822"
+        }
+    },
+    {
+        "question_id": "47",
+        "question": "How many red apples are in this photo?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "247334"
+        }
+    },
+    {
+        "question_id": "48",
+        "question": "How many bikes can be seen?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "248915"
+        }
+    },
+    {
+        "question_id": "49",
+        "question": "How many rackets are in the photo?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "259607"
+        }
+    },
+    {
+        "question_id": "50",
+        "question": "How many sheep are visible?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "272427"
+        }
+    },
+    {
+        "question_id": "51",
+        "question": "How many apples are in this photo?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "274355"
+        }
+    },
+    {
+        "question_id": "52",
+        "question": "How many cases are there?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "277920"
+        }
+    },
+    {
+        "question_id": "53",
+        "question": "How many cows are visible in this photo?",
+        "option": null,
+        "answer": "6",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "288572"
+        }
+    },
+    {
+        "question_id": "54",
+        "question": "How many people are in this photo?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "317140"
+        }
+    },
+    {
+        "question_id": "55",
+        "question": "How many white plates are visible?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "317667"
+        }
+    },
+    {
+        "question_id": "56",
+        "question": "How many penguins are in this photo?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "319826"
+        }
+    },
+    {
+        "question_id": "57",
+        "question": "How many people can be seen?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "326194"
+        }
+    },
+    {
+        "question_id": "58",
+        "question": "How many people are in this photo?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "327402"
+        }
+    },
+    {
+        "question_id": "59",
+        "question": "How many children are in the photo?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "332323"
+        }
+    },
+    {
+        "question_id": "60",
+        "question": "How many frisbees are in this photo?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "333576"
+        }
+    },
+    {
+        "question_id": "61",
+        "question": "How many tennis rackets can be seen?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "347337"
+        }
+    },
+    {
+        "question_id": "62",
+        "question": "How many teddy bears are visible?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "347540"
+        }
+    },
+    {
+        "question_id": "63",
+        "question": "How many carrots are in this photo?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "354015"
+        }
+    },
+    {
+        "question_id": "64",
+        "question": "How many pens are there?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "365680"
+        }
+    },
+    {
+        "question_id": "65",
+        "question": "How many animals are in this photo?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "371625"
+        }
+    },
+    {
+        "question_id": "66",
+        "question": "How many people are in the photo?",
+        "option": null,
+        "answer": "8",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "372918"
+        }
+    },
+    {
+        "question_id": "67",
+        "question": "How many wine glasses are there?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "381872"
+        }
+    },
+    {
+        "question_id": "68",
+        "question": "How many cats can be seen?",
+        "option": null,
+        "answer": "6",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "387053"
+        }
+    },
+    {
+        "question_id": "69",
+        "question": "How many dogs can be seen?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "389802"
+        }
+    },
+    {
+        "question_id": "70",
+        "question": "How many people can be seen?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "394386"
+        }
+    },
+    {
+        "question_id": "71",
+        "question": "How many cats are in the photo?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "400946"
+        }
+    },
+    {
+        "question_id": "72",
+        "question": "How many giraffes can be seen?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "407014"
+        }
+    },
+    {
+        "question_id": "73",
+        "question": "How many lamps are there?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "418025"
+        }
+    },
+    {
+        "question_id": "74",
+        "question": "How many people are visible?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "431483"
+        }
+    },
+    {
+        "question_id": "75",
+        "question": "How many skateboards are in this photo?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "432960"
+        }
+    },
+    {
+        "question_id": "76",
+        "question": "How many giraffes are in this photo?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "437730"
+        }
+    },
+    {
+        "question_id": "77",
+        "question": "How many people are in the photo?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "441143"
+        }
+    },
+    {
+        "question_id": "78",
+        "question": "How many surfboards can be seen?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "442700"
+        }
+    },
+    {
+        "question_id": "79",
+        "question": "How many horses are in this photo?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "443487"
+        }
+    },
+    {
+        "question_id": "80",
+        "question": "How many balls are in this photo?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "444819"
+        }
+    },
+    {
+        "question_id": "81",
+        "question": "How many tennis balls are in the photo?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "448281"
+        }
+    },
+    {
+        "question_id": "82",
+        "question": "How many shrimps are on the plate?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "453730"
+        }
+    },
+    {
+        "question_id": "83",
+        "question": "How many people are there?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "454635"
+        }
+    },
+    {
+        "question_id": "84",
+        "question": "How many plates are in this photo?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "486270"
+        }
+    },
+    {
+        "question_id": "85",
+        "question": "How many people are there?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "488899"
+        }
+    },
+    {
+        "question_id": "86",
+        "question": "How many people can be seen?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "490901"
+        }
+    },
+    {
+        "question_id": "87",
+        "question": "How many forks are in this photo?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "498048"
+        }
+    },
+    {
+        "question_id": "88",
+        "question": "How many tennis rackets are there?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "507497"
+        }
+    },
+    {
+        "question_id": "89",
+        "question": "How many wine glasses are there?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "510370"
+        }
+    },
+    {
+        "question_id": "90",
+        "question": "How many candles are on the cake?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "510978"
+        }
+    },
+    {
+        "question_id": "91",
+        "question": "How many oranges are visible?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "518035"
+        }
+    },
+    {
+        "question_id": "92",
+        "question": "How many horses are visible in this photo?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "527117"
+        }
+    },
+    {
+        "question_id": "93",
+        "question": "How many tennis balls are there?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "538866"
+        }
+    },
+    {
+        "question_id": "94",
+        "question": "How many chairs are in this photo?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "543593"
+        }
+    },
+    {
+        "question_id": "95",
+        "question": "How many cases are visible?",
+        "option": null,
+        "answer": "7",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "545810"
+        }
+    },
+    {
+        "question_id": "96",
+        "question": "How many ducks can be seen?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "547151"
+        }
+    },
+    {
+        "question_id": "97",
+        "question": "How many tomatoes are there?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "557489"
+        }
+    },
+    {
+        "question_id": "98",
+        "question": "How many people can be seen?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "561719"
+        }
+    },
+    {
+        "question_id": "99",
+        "question": "How many zebras can be seen?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "573506"
+        }
+    },
+    {
+        "question_id": "100",
+        "question": "How many forks can be seen?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "573673"
+        }
+    },
+    {
+        "question_id": "101",
+        "question": "How many frisbees are in the photo?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "581644"
+        }
+    }
+]

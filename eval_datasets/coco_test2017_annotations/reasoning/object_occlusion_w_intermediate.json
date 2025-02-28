@@ -1,0 +1,3860 @@
+[
+    {
+        "question_id": "1",
+        "question": "Given that for the question: Which of the following objects are larger? The orange block or the cupboard that reads elephant day? The answer is: the cupboard that reads elephant day.\nIf there is another piece of cupboard, where is it more likely to be?",
+        "option": [
+            "under the cupboard that reads elephant day",
+            "under the orange block"
+        ],
+        "answer": "under the cupboard that reads elephant day",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "128"
+        }
+    },
+    {
+        "question_id": "2",
+        "question": "Given that for the question: Is the ketchup bottle transparent? No or yes? The answer is: no.\nGiven that for the question: Which item is smaller? Ketchup bottle or salt shaker? The answer is: salt shaker.\nIf there is another salt shaker on the table, where can it most likely be found?",
+        "option": [
+            "behind the ketchup bottle",
+            "behind the margarita glass"
+        ],
+        "answer": "behind the ketchup bottle",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "183"
+        }
+    },
+    {
+        "question_id": "3",
+        "question": "Given that for the question: Which of the following is farther from the podium? The speaker or the flag? The answer is: the flag.\nIf there is another black chair, where can it be?",
+        "option": [
+            "between the podium and the flag",
+            "between the podium and the speaker"
+        ],
+        "answer": "between the podium and the flag",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "202"
+        }
+    },
+    {
+        "question_id": "4",
+        "question": "Given that for the question: Which object is bigger? The teddy bear or the suitcase on the white chair? The answer is: the suitcase on the white chair.\nWhere can another teddy bear be found?",
+        "option": [
+            "inside the suitcase on the white chair",
+            "under the blue dress"
+        ],
+        "answer": "inside the suitcase on the white chair",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "275"
+        }
+    },
+    {
+        "question_id": "5",
+        "question": "Given that for the question: Which of the following is thicker in width? The tree trunk or the fire hydrant? The answer is: the tree trunk.\nWhere can a child be hiding in the scene?",
+        "option": [
+            "behind the fire hydrant",
+            "behind the tree"
+        ],
+        "answer": "behind the tree",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "549"
+        }
+    },
+    {
+        "question_id": "6",
+        "question": "Given that for the question: Is the distance between the girl in black and the girl in yellow smaller than the size of the beverage cup? Yes or no? The answer is: no.\nWhere may I find another beverage cup in the scene?",
+        "option": [
+            "on the bench between the girl in black and the girl in yellow",
+            "in front of the flower pot"
+        ],
+        "answer": "on the bench between the girl in black and the girl in yellow",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "686"
+        }
+    },
+    {
+        "question_id": "7",
+        "question": "Given that for the question: Is there a path between the rows of motorcycles for people to walk? No or yes? The answer is: yes.\nGiven that for the question: Can a child be shorter than the motorcycles in this scene? Yes or no? The answer is: yes.\nCan a child be hidden between the rows of motorcycles?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "774"
+        }
+    },
+    {
+        "question_id": "8",
+        "question": "Given that for the question: Are the two holes in the pizza at exactly the same distance from the camera? Yes or no? The answer is: no.\nAre the missing parts of the pizza significantly different in size?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "880"
+        }
+    },
+    {
+        "question_id": "9",
+        "question": "Given that for the question: Is any of the dogs in the photo thinner than the bars on the baby crit? No or yes? The answer is: no.\nCan another dog be hiding in the baby crit?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1257"
+        }
+    },
+    {
+        "question_id": "10",
+        "question": "Given that for the question: Is the area covered by the screen of the small laptop sufficient to completely hide any of the laptops on the table? No or yes? The answer is: no.\nCould another laptop, similar to those on the table, be hidden behind the small laptop?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1459"
+        }
+    },
+    {
+        "question_id": "11",
+        "question": "Given that for the question: Does the photo give a complete top-down view of the larger red bowl? Yes or no? The answer is: no.\nCan there be candy in the larger red bowl?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1956"
+        }
+    },
+    {
+        "question_id": "12",
+        "question": "Given that for the question: Which of the following objects is taller? The popcorn box or the pie? The answer is: the popcorn box.\nIf there is a cup, where can it be?",
+        "option": [
+            "behind the pie",
+            "inside the popcorn box"
+        ],
+        "answer": "inside the popcorn box",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1956"
+        }
+    },
+    {
+        "question_id": "13",
+        "question": "Given that for the question: Does the photo provide a full view of the inside of the pail? Yes or no? The answer is: yes.\nIs it possible that another cat is hiding in the pail?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2311"
+        }
+    },
+    {
+        "question_id": "14",
+        "question": "Given that for the question: Which object is larger than the wine glass in the photo? The jam bottle or the wine bottle? The answer is: the wine bottle.\nWhere might another wine glass be found?",
+        "option": [
+            "behind the jam bottle",
+            "behind the wine bottle"
+        ],
+        "answer": "behind the wine bottle",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2939"
+        }
+    },
+    {
+        "question_id": "15",
+        "question": "Given that for the question: Which is larger? The size of the mouse or the distance between the white laptop and black monitor? The answer is: the distance between the white laptop and black monitor.\nWhere might another mouse be found?",
+        "option": [
+            "behind the black monitor",
+            "behind the white laptop"
+        ],
+        "answer": "behind the white laptop",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3390"
+        }
+    },
+    {
+        "question_id": "16",
+        "question": "Given that for the question: Which is larger? The hat or the cake? The answer is: the hat.\nIs it possible that I find another slice of cake under the hat?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3407"
+        }
+    },
+    {
+        "question_id": "17",
+        "question": "Given that for the question: Which item is shorter? The pizza boxes or the glasses? The answer is: the pizza boxes.\nIs it likely that more glasses are hidden behind the pizza boxes?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "5354"
+        }
+    },
+    {
+        "question_id": "18",
+        "question": "Given that for the question: Is the lorry blocking part of the sidewalk from view?  Yes or no? The answer is: yes.\nCould there be a parking meter behind the lorry?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1"
+        }
+    },
+    {
+        "question_id": "19",
+        "question": "Given that for the question: Does the elephant's head block the patch of grass immediately behind where the elephant is standing? No or yes? The answer is: no.\nThere is an object on the grass, in contact with the elephant, hidden from view. Where is it most likely located?",
+        "option": [
+            "behind its head",
+            "behind its legs"
+        ],
+        "answer": "behind its legs",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1371"
+        }
+    },
+    {
+        "question_id": "20",
+        "question": "Given that for the question: Which object is bigger in size? The tomato slice or the burger bun? The answer is: the burger bun.\nIs there a chance of finding another slice of tomato hidden under the burger bun?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2439"
+        }
+    },
+    {
+        "question_id": "21",
+        "question": "Given that for the question: Where are the visible carrots located in the box? Near the top of the box or near the bottom of the box? The answer is: near the top of the box.\nCould there be more carrots hidden below what is visible in the image?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2465"
+        }
+    },
+    {
+        "question_id": "22",
+        "question": "Given that for the question: From the perspective of the player, in which direction is he looking? Forward or backward? The answer is: forward.\nCould the ball be behind the player?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2519"
+        }
+    },
+    {
+        "question_id": "23",
+        "question": "Given that for the question: Which has a larger width? The body of the small bear or the back of the chair? The answer is: the back of the chair.\nCould there be a bear hidden behind the nearest chair?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "2925"
+        }
+    },
+    {
+        "question_id": "24",
+        "question": "Given that for the question: Are the pineapple pieces larger or smaller than the other fruits? Smaller or larger? The answer is: larger.\nCould there be a sixth piece of pineapple under the fruits?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "count",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4311"
+        }
+    },
+    {
+        "question_id": "25",
+        "question": "Given that for the question: Where is the clock positioned in relation to the book? On top of the book or in front of the book? The answer is: on top of the book.\nIs part of the book cover obscured by the clock?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4422"
+        }
+    },
+    {
+        "question_id": "26",
+        "question": "Given that for the question: Can you see through the tie? Yes or no? The answer is: no.\nDoes the tie cover the buttons on the shirt?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "5696"
+        }
+    },
+    {
+        "question_id": "27",
+        "question": "Given that for the question: Can the entirety of the back of the truck be seen in the image? No or yes? The answer is: no.\nCould there be another spare tire hidden behind the sign on the truck?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6044"
+        }
+    },
+    {
+        "question_id": "28",
+        "question": "Given that for the question: Are the tracks on the left side of the train straight or curved? Straight or curved? The answer is: curved.\nIs it possible for there to be another train hidden on the left side of the one in the image?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "70385"
+        }
+    },
+    {
+        "question_id": "29",
+        "question": "Given that for the question: Are you able to see the entire inside of the oven? Yes or no? The answer is: no.\nCan you tell if there is another pizza in the oven?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6844"
+        }
+    },
+    {
+        "question_id": "30",
+        "question": "Given that for the question: Which bucket is the woman peeling the carrot into? The red bucket or the blue bucket? The answer is: the red bucket.\nWhere are the peeled carrot skins most likely to be found?",
+        "option": [
+            "in the blue bucket",
+            "in the red bucket"
+        ],
+        "answer": "in the red bucket",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "6557"
+        }
+    },
+    {
+        "question_id": "31",
+        "question": "Given that for the question: Which bear is larger? The one on the right or the one on the left? The answer is: the one on the left.\nCould another bear of the same size as the right bear be behind the left bear?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "100648"
+        }
+    },
+    {
+        "question_id": "32",
+        "question": "Given that for the question: Is the dog you can see sitting up or lying down? Sitting up or lying down? The answer is: sitting up.\nCould there be another dog on the bench?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3900"
+        }
+    },
+    {
+        "question_id": "33",
+        "question": "Given that for the question: Are the mini cupcakes arranged evenly around the plate? No or yes? The answer is: yes.\nCould there be six mini cupcakes hidden from view on the second level of the cake holder?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "count",
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "9191"
+        }
+    },
+    {
+        "question_id": "34",
+        "question": "Given that for the question: Can you see the bottom of both sinks? No or yes? The answer is: no.\nIs there a possibility that a bar of soap is in one of the sinks?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "4000"
+        }
+    },
+    {
+        "question_id": "35",
+        "question": "Given that for the question: Can you see any part of the table directly behind the burger? Yes or no? The answer is: no.\nIs it possible for there to be a fork behind the burger?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10485"
+        }
+    },
+    {
+        "question_id": "36",
+        "question": "Given that for the question: Can the entire grassy area behind the adult sheep be seen? Yes or no? The answer is: no.\nCould there be more baby sheep behind the adult sheep?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10500"
+        }
+    },
+    {
+        "question_id": "37",
+        "question": "Given that for the question: Are there any legs visible that might indicate a person walking behind the horse? Yes or no? The answer is: yes.\nIs there a person leading the horse?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "15698"
+        }
+    },
+    {
+        "question_id": "38",
+        "question": "Given that for the question: Is there enough room behind the purple vase to place another object? No or yes? The answer is: yes.\nCould there be a cupcake behind the purple vase?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "18382"
+        }
+    },
+    {
+        "question_id": "39",
+        "question": "Given that for the question: Is the bowl significantly deeper than the height of a single apple? Yes or no? The answer is: yes.\nCould there be more apples hidden beneath the visible ones?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "5148"
+        }
+    },
+    {
+        "question_id": "40",
+        "question": "Given that for the question: Are the sausages bigger than the buns? No or yes? The answer is: no.\nCould some of the sausages be hidden behind the buns?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "19676"
+        }
+    },
+    {
+        "question_id": "41",
+        "question": "Given that for the question: Is there an arm around the woman's neck? Yes or no? The answer is: yes.\nIs there a person lying on the left of the woman?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21027"
+        }
+    },
+    {
+        "question_id": "42",
+        "question": "Given that for the question: Is it possible to see through the netting on the fence Yes or no? The answer is: yes.\nCould there be a baby giraffe behind the fence on the left side of the image?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21101"
+        }
+    },
+    {
+        "question_id": "43",
+        "question": "Given that for the question: Is the number of buckets in each row likely different? No or yes? The answer is: no.\nDo you expect to find at least three buckets of oranges behind the one with the sign?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "count",
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21840"
+        }
+    },
+    {
+        "question_id": "44",
+        "question": "Given that for the question: Does the player look like he is preparing to throw? Yes or no? The answer is: yes.\nIs the player holding a ball in his gloves?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "23665"
+        }
+    },
+    {
+        "question_id": "45",
+        "question": "Given that for the question: Does the number of visible legs suggest the presence of a zebra blocked from view by the two zebras at the front of the herd? Yes or no? The answer is: no.\nCould there be a zebra blocked from view by the two zebras at the front of the herd?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "count",
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "29528"
+        }
+    },
+    {
+        "question_id": "46",
+        "question": "Given that for the question: Could someone be holding the leash attached to the dog\u2019s harness? No or yes? The answer is: yes.\nCould there be a person near the dog?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "29899"
+        }
+    },
+    {
+        "question_id": "47",
+        "question": "Given that for the question: Is there an equal number of visible sunflower stalks and sunflower heads? No or yes? The answer is: no.\nIs it possible that no sunflower heads are concealed from sight besides the three visible sunflower heads?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "count",
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "33705"
+        }
+    },
+    {
+        "question_id": "48",
+        "question": "Given that for the question: Are the bags and suitcases placed against the wall? Yes or no? The answer is: yes.\nWould you find another row of bags and suitcases behind the ones in view?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "405011"
+        }
+    },
+    {
+        "question_id": "49",
+        "question": "Given that for the question: Can you see the entire pizza stone? Yes or no? The answer is: no.\nIs it possible that at least half a pizza is on the pizza stone in the top left?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "34679"
+        }
+    },
+    {
+        "question_id": "50",
+        "question": "Given that for the question: Which object is farther from the viewer? Sign or fire hydrant? The answer is: fire hydrant.\nIs it possible for the fire hydrant to be completely blocked by the sign?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "34767"
+        }
+    },
+    {
+        "question_id": "51",
+        "question": "Given that for the question: Is the color of the visible portion of the pole consistent from top to bottom? No or yes? The answer is: yes.\nIs there a high chance of the part of the pole hidden behind the snowboarder being green?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "34943"
+        }
+    },
+    {
+        "question_id": "52",
+        "question": "Given that for the question: What objects are on the ground near the cooler? Ice and fish or ice only? The answer is: ice and fish.\nCould fish be found inside the cooler?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "35086"
+        }
+    },
+    {
+        "question_id": "53",
+        "question": "Given that for the question: Can you fully see the inside of the tent? No or yes? The answer is: no.\nCould there be people in the yellow tent?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "410325"
+        }
+    },
+    {
+        "question_id": "54",
+        "question": "Given that for the question: Is the sink currently full? Yes or no? The answer is: yes.\nWhere else might you find another packet of chips?",
+        "option": [
+            "behind the bottles on the countertop",
+            "in the sink"
+        ],
+        "answer": "behind the bottles on the countertop",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "23013"
+        }
+    },
+    {
+        "question_id": "55",
+        "question": "Given that for the question: Is there space beneath the bears for more bears? No or yes? The answer is: no.\nCould there be more bears under the ones you can see?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "5714"
+        }
+    },
+    {
+        "question_id": "56",
+        "question": "Given that for the question: Is tomato slice wider than the bottle of salt? No or yes? The answer is: yes.\nIf a tomato slice is dropped on the table, where are you more likely to find it?",
+        "option": [
+            "behind the bottle of salt",
+            "behind the mug of coffee"
+        ],
+        "answer": "behind the mug of coffee",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "7959"
+        }
+    },
+    {
+        "question_id": "57",
+        "question": "Given that for the question: Are there more than one pair of shoes visible under the black umbrella? No or yes? The answer is: no.\nMight there be two persons standing beneath the black umbrella?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "count",
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "36194"
+        }
+    },
+    {
+        "question_id": "58",
+        "question": "Given that for the question: Can the whole space between the motorcycles be seen? No or yes? The answer is: no.\nIs there a chance that another cat is nestled between the motorcycles?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "36246"
+        }
+    },
+    {
+        "question_id": "59",
+        "question": "Given that for the question: Do the sheep appear larger or smaller than the woman's head in the photo? Larger or smaller? The answer is: smaller.\nFrom the perspective of the viewer, could any sheep be hidden from view by the woman?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "36937"
+        }
+    },
+    {
+        "question_id": "60",
+        "question": "Given that for the question: Is there a part of the area at the base of the step that is obscured from view? No or yes? The answer is: yes.\nIs it possible that another cup is hidden at the base of the step where the cat is sleeping?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8798"
+        }
+    },
+    {
+        "question_id": "61",
+        "question": "Given that for the question: Is there a person behind the man in gray? Yes or no? The answer is: yes.\nWhere are you more likely to find a third dog?",
+        "option": [
+            "behind the man in gray",
+            "behind the man in green"
+        ],
+        "answer": "behind the man in green",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "8322"
+        }
+    },
+    {
+        "question_id": "62",
+        "question": "Given that for the question: Is the area behind the man visible? No or yes? The answer is: no.\nCould there be another bear behind the man?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38182"
+        }
+    },
+    {
+        "question_id": "63",
+        "question": "Given that for the question: Is the green frisbee narrower than the dog tag? Yes or no? The answer is: no.\nCould another dog tag be under the green frisbee?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "37659"
+        }
+    },
+    {
+        "question_id": "64",
+        "question": "Given that for the question: Is the baseball visible in the air? No or yes? The answer is: yes.\nIs the baseball hidden behind the catcher\u2019s glove?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38312"
+        }
+    },
+    {
+        "question_id": "65",
+        "question": "Given that for the question: Is the broccoli placed a distance away from the edge of the plate? Yes or no? The answer is: no.\nCould a second tomato be hidden on the plate, behind the broccoli?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38519"
+        }
+    },
+    {
+        "question_id": "66",
+        "question": "Given that for the question: Which is taller? The shoes or the body of the cat? The answer is: the body of the cat.\nIf there is a second pair of shoes in the picture, could it be hidden directly behind the cat?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38522"
+        }
+    },
+    {
+        "question_id": "67",
+        "question": "Given that for the question: Are the wine glasses the same size? Yes or no? The answer is: yes.\nDo the two pieces of paper under the wine glasses have the same width?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "count",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "38792"
+        }
+    },
+    {
+        "question_id": "68",
+        "question": "Given that for the question: Is the vase transparent or opaque? Transparent or opaque? The answer is: transparent.\nCould a similar flower ornament be hidden behind the visible one?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39658"
+        }
+    },
+    {
+        "question_id": "69",
+        "question": "Given that for the question: Which is bigger, the piece of cardboard or the bottom of the fridge? The cardboard or the fridge? The answer is: the cardboard.\nDo you think it's possible to find another piece of the same cardboard under the fridge?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39946"
+        }
+    },
+    {
+        "question_id": "70",
+        "question": "Given that for the question: How deep is the tray compared to the height of a donut? 3 times the height or 1.5 times the height? The answer is: 1.5 times the height.\nCould there be another layer of donuts hidden beneath the visible layer on the trays?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "39957"
+        }
+    },
+    {
+        "question_id": "71",
+        "question": "Given that for the question: Are there any vases fully hidden from view behind the first row of vases? Yes or no? The answer is: yes.\nBesides the four black vases in the front row, could there be more black vases at the scene?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "40253"
+        }
+    },
+    {
+        "question_id": "72",
+        "question": "Given that for the question: Can you see what is beneath the top layer of lemons? No or yes? The answer is: no.\nCould there be oranges hidden under the lemons?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "40453"
+        }
+    },
+    {
+        "question_id": "73",
+        "question": "Given that for the question: Is the area behind the beer bottles completely visible? Yes or no? The answer is: yes.\nWhere are you more likely to find another pair of fork and spoon?",
+        "option": [
+            "behind the beer bottles",
+            "behind the laptop"
+        ],
+        "answer": "behind the beer bottles",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "40501"
+        }
+    },
+    {
+        "question_id": "74",
+        "question": "Given that for the question: Where is the laptop placed? Near the edge of the desk or near the desk divider? The answer is: near the edge of the desk.\nWhere are you more likely to find another mug?",
+        "option": [
+            "behind the laptop",
+            "behind the potted plant"
+        ],
+        "answer": "behind the laptop",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10876"
+        }
+    },
+    {
+        "question_id": "75",
+        "question": "Given that for the question: How many legs are there behind the frontmost horse More than four legs or at most four legs? The answer is: at most four legs.\nAre there multiple horses standing immediately behind the frontmost horse?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "count",
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "41047"
+        }
+    },
+    {
+        "question_id": "76",
+        "question": "Given that for the question: Is the inside of the hangar visible from the image? Yes or no? The answer is: no.\nCould there be more planes in the hangar?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "41327"
+        }
+    },
+    {
+        "question_id": "77",
+        "question": "Given that for the question: Are the cats by the window? No or yes? The answer is: yes.\nCould there be a third cat hiding behind the cat on the left?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "11073"
+        }
+    },
+    {
+        "question_id": "78",
+        "question": "Given that for the question: Is the entire lower level of the pizza stand visible in the image? Yes or no? The answer is: no.\nIs it possible for there to be more than four condiment bottles on the lower level of the pizza stand?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "12917"
+        }
+    },
+    {
+        "question_id": "79",
+        "question": "Given that for the question: Does the side of the cake have any decorations? No or yes? The answer is: no.\nConsidering the design of the cake, is it likely that the far side of the cake is decorated with a toy car, hidden from view?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "228067"
+        }
+    },
+    {
+        "question_id": "80",
+        "question": "Given that for the question: Are the oven's contents visible to you? Yes or no? The answer is: no.\nMight there be food in the oven?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "42761"
+        }
+    },
+    {
+        "question_id": "81",
+        "question": "Given that for the question: Is there enough space behind the person reading for another person to sit? No or yes? The answer is: yes.\nCould another person be hidden behind the man with the book?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "43084"
+        }
+    },
+    {
+        "question_id": "82",
+        "question": "Given that for the question: Which is shorter? The waves or the kids? The answer is: the kids.\nCould a third child be hidden behind the waves on the left?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54035"
+        }
+    },
+    {
+        "question_id": "83",
+        "question": "Given that for the question: How high does the floodwater reach on the visible car? Up to the wheels or up to the roof? The answer is: up to the wheels.\nCould there be other cars hidden in the floodwaters near the visible car?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57825"
+        }
+    },
+    {
+        "question_id": "84",
+        "question": "Given that for the question: Is the bottom of the container visible? Yes or no? The answer is: no.\nCould there be blueberries hidden beneath the visible carrot sticks?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "58729"
+        }
+    },
+    {
+        "question_id": "85",
+        "question": "Given that for the question: Are the visible oranges close to the bottom of the basket? Yes or no? The answer is: no.\nCould there be more fruits hidden underneath the oranges in the basket?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "59159"
+        }
+    },
+    {
+        "question_id": "86",
+        "question": "Given that for the question: How much space does the pizza box take on a level of the fridge? More than 1/2 or less than 1/2? The answer is: more than 1/2.\nCould there be another similar box of pizza in the fridge?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "59447"
+        }
+    },
+    {
+        "question_id": "87",
+        "question": "Given that for the question: Is the cake decoration arranged asymmetrically? No or yes? The answer is: no.\nFrom what you can see of the design of the cake, could additional lime slices be on the back of the cake?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "59583"
+        }
+    },
+    {
+        "question_id": "88",
+        "question": "Given that for the question: Which object is narrower? The wine glass or the wine bottle? The answer is: the wine bottle.\nCould a glass of wine be hidden behind the wine bottles?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "59863"
+        }
+    },
+    {
+        "question_id": "89",
+        "question": "Given that for the question: How are the bears arranged\u2014are they in a straight line or in a semicircle? Semicircle or straight line? The answer is: semicircle.\nCould there be any bears that are completely concealed from view?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "60199"
+        }
+    },
+    {
+        "question_id": "90",
+        "question": "Given that for the question: How high is the body of the bottle compared to the can? Same height or twice the height? The answer is: twice the height.\nIs it possible that a can is hidden behind the bottle?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "229410"
+        }
+    },
+    {
+        "question_id": "91",
+        "question": "Given that for the question: Which is wider? Entrance of the building or body of the giraffe? The answer is: entrance of the building.\nIs it possible that there are more giraffes in the room behind the doors?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "230063"
+        }
+    },
+    {
+        "question_id": "92",
+        "question": "Given that for the question: How many types of vegetable are there in each partition of the tray? More than one type or only one type? The answer is: only one type.\nAre there more than four types of vegetables in the tray?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "count",
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "65393"
+        }
+    },
+    {
+        "question_id": "93",
+        "question": "Given that for the question: Can you see the bottom of the inside of the luggage? Yes or no? The answer is: no.\nCould there be other objects in the luggage besides the cat?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "65545"
+        }
+    },
+    {
+        "question_id": "94",
+        "question": "Given that for the question: Which is taller? The birds or the sides of the boat? The answer is: the birds.\nCould there be birds standing inside the boat? ",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "234193"
+        }
+    },
+    {
+        "question_id": "95",
+        "question": "Given that for the question: Is there enough open sea behind the lighthouse for a distant sailboat to be fully obscured from view? No or yes? The answer is: yes.\nCould there be a sailboat behind the lighthouse?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "65740"
+        }
+    },
+    {
+        "question_id": "96",
+        "question": "Given that for the question: Can you see through the broccoli to what\u2019s beneath? Yes or no? The answer is: no.\nCould there be nuts under the brocolli?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "67649"
+        }
+    },
+    {
+        "question_id": "97",
+        "question": "Given that for the question: Is the inside of the cup visible? No or yes? The answer is: no.\nIs it possible to tell if there\u2019s coffee in the cup?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "234823"
+        }
+    },
+    {
+        "question_id": "98",
+        "question": "Given that for the question: How much of the blanket is used to cover the baby? More than half or less than half? The answer is: less than half.\nCould another baby be hidden under the blanket?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "69187"
+        }
+    },
+    {
+        "question_id": "99",
+        "question": "Given that for the question: From the viewer's perspective, is there another train track on the right side of the train? Yes or no? The answer is: no.\nFrom the viewer's perspective, is it possible that another train is present on the right side of the train visible in the picture?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "250851"
+        }
+    },
+    {
+        "question_id": "100",
+        "question": "Given that for the question: How much space have the clothes taken up in the suitcase under the black divider? Half the space or the entire space? The answer is: the entire space.\nCould another dog of the same size be hidden under the black divider in the luggage?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "72184"
+        }
+    },
+    {
+        "question_id": "101",
+        "question": "Given that for the question: Are the contents of the cups visible? Yes or no? The answer is: no.\nCan you tell if the cups are filled or empty?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73279"
+        }
+    },
+    {
+        "question_id": "102",
+        "question": "Given that for the question: Which is wider? Wooden beam or teddy bear? The answer is: wooden beam.\nCould a teddy bear be hidden underneath the wooden beam?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73562"
+        }
+    },
+    {
+        "question_id": "103",
+        "question": "Given that for the question: Can you see if there is enough room behind the yellow wall to fit another plane? Yes or no? The answer is: no.\nDo you know if there is another plane on the right of the visible plane?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "74014"
+        }
+    },
+    {
+        "question_id": "104",
+        "question": "Given that for the question: Are there any visible strings or flying lines extending from behind the largest kite? Yes or no? The answer is: no.\nIs a smaller kite flying immediately behind the largest kite in the image?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "74161"
+        }
+    },
+    {
+        "question_id": "105",
+        "question": "Given that for the question: Is the glass on the window pane transparent? No or yes? The answer is: yes.\nAre there two cats at the window?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "168391"
+        }
+    },
+    {
+        "question_id": "106",
+        "question": "Given that for the question: Which is taller? Candle with its holder or the stack of plates closer to the viewer? The answer is: candle with its holder.\nCould there be another upright candle hidden behind the two stacks of plates?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "74954"
+        }
+    },
+    {
+        "question_id": "107",
+        "question": "Given that for the question: Which object is shorter than the black bottle? The laptop or the tablet? The answer is: the tablet.\nIf there is another black bottle at the scene, where would it most likely be hidden?",
+        "option": [
+            "behind the laptop on the table",
+            "behind the tablet on the shelf"
+        ],
+        "answer": "behind the laptop on the table",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "75115"
+        }
+    },
+    {
+        "question_id": "108",
+        "question": "Given that for the question: Can you see what is inside the boat? Yes or no? The answer is: no.\nCan you tell if the boat is filled with sand?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73572"
+        }
+    },
+    {
+        "question_id": "109",
+        "question": "Given that for the question: Can you see the head of a small bear behind the big bear? No or yes? The answer is: yes.\nIs there a small bear behind the big bear?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "168232"
+        }
+    },
+    {
+        "question_id": "110",
+        "question": "Given that for the question: Can the left side of the sink be seen? No or yes? The answer is: no.\nIf the sink is symmetrical, could additional cups be found on the left side of the sink?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "76552"
+        }
+    },
+    {
+        "question_id": "111",
+        "question": "Given that for the question: Can you see the top of another train behind the visible one? No or yes? The answer is: no.\nCould there be another similar train behind the visible one in the image?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "168281"
+        }
+    },
+    {
+        "question_id": "112",
+        "question": "Given that for the question: What is the man taller than? The fire hydrant or the ornamental tree in front of him? The answer is: the fire hydrant.\nCan a man be hidden behind the ornamental tree on the sidewalk?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "dist",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "168929"
+        }
+    },
+    {
+        "question_id": "113",
+        "question": "Given that for the question: How high does the grass reach? To the neck of the giraffes or to the legs of the giraffes? The answer is: to the legs of the giraffes.\nCould there be more than three giraffes standing in the grass?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "count",
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "169061"
+        }
+    },
+    {
+        "question_id": "114",
+        "question": "Given that for the question: Which object is elevated higher off the ground? Clock or chandelier? The answer is: chandelier.\nIs it possible for there to be another clock hidden behind the chandelier closer to the viewer?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "170156"
+        }
+    },
+    {
+        "question_id": "115",
+        "question": "Given that for the question: Where are the apples placed on the plate? Near the close edge of the plate from the viewer or near the far edge of the plate from the viewer? The answer is: near the far edge of the plate from the viewer.\nCould there be another orange on the plate, behind the apples?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "173312"
+        }
+    },
+    {
+        "question_id": "116",
+        "question": "Given that for the question: How tall is the visible stalk of flower in the top-right jug compared to the tallest jug in the image? The flower is taller or the flower is shorter? The answer is: the flower is shorter.\nCould there be flowers in the tallest jug in the image?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "283149"
+        }
+    },
+    {
+        "question_id": "117",
+        "question": "Given that for the question: Can you see through the lid of the white casserole dish? No or yes? The answer is: yes.\nCould food be found in the white casserole dish?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "180440"
+        }
+    },
+    {
+        "question_id": "118",
+        "question": "Given that for the question: If the dogs were to lie down, would they still be taller than the tailgate? Yes or no? The answer is: no.\nCould there be a third dog in the rear section of the vehicle?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "183056"
+        }
+    },
+    {
+        "question_id": "119",
+        "question": "Given that for the question: How much of the basket is obscured from view? More than half or less than half? The answer is: more than half.\nIs it possible for the basket to contain more than one bunch of bananas?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "183322"
+        }
+    },
+    {
+        "question_id": "120",
+        "question": "Given that for the question: Is the sign covering all of the bear's clothes? Yes or no? The answer is: no.\nCould another sign be hidden behind the bear?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "183612"
+        }
+    },
+    {
+        "question_id": "121",
+        "question": "Given that for the question: Are the chairs taller or shorter than the counter? Taller or shorter? The answer is: shorter.\nIs it possible for there to be more chairs behind the counter?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "283075"
+        }
+    },
+    {
+        "question_id": "122",
+        "question": "Given that for the question: Does the wave reach above the visible surfer\u2019s head? No or yes? The answer is: yes.\nIs it possible for a second surfer to be hidden behind the waves?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "182919"
+        }
+    },
+    {
+        "question_id": "123",
+        "question": "Given that for the question: Is part of the area behind the horse left out from the picture? Yes or no? The answer is: yes.\nIf there is a second child at the scene, where are they most likely located?",
+        "option": [
+            "behind the child",
+            "behind the horse"
+        ],
+        "answer": "behind the horse",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "185333"
+        }
+    },
+    {
+        "question_id": "124",
+        "question": "Given that for the question: Where can a straw be found in the image? Near the red sauce bottle on the right or near the green bottle on the left? The answer is: near the red sauce bottle on the right.\nWhere is the can of soda located in the image?",
+        "option": [
+            "behind the green bottle on the left",
+            "behind the red sauce bottle on the right"
+        ],
+        "answer": "behind the red sauce bottle on the right",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "185870"
+        }
+    },
+    {
+        "question_id": "125",
+        "question": "Given that for the question: Is the front door of the bus made of transparent materials? Yes or no? The answer is: yes.\nAre there any people waiting in line to board the bus at its front door?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "186698"
+        }
+    },
+    {
+        "question_id": "126",
+        "question": "Given that for the question: Can you see the ground past the farther end of the table? No or yes? The answer is: no.\nCould there be another fire hydrant near the farther end of the table?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "186271"
+        }
+    },
+    {
+        "question_id": "127",
+        "question": "Given that for the question: Is any part of the road blocked from view by the traffic sign? No or yes? The answer is: no.\nCould there be another person riding a motorcycle, blocked from view by the traffic sign?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "189002"
+        }
+    },
+    {
+        "question_id": "128",
+        "question": "Given that for the question: Is the mug taller than the green apple? Yes or no? The answer is: yes.\nWhere are you more likely to find another mug?",
+        "option": [
+            "behind the green apple",
+            "behind the toaster"
+        ],
+        "answer": "behind the toaster",
+        "metadata": {
+            "skill": [
+                "pos",
+                "dist",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "189441"
+        }
+    },
+    {
+        "question_id": "129",
+        "question": "Given that for the question: Can you see what's inside the luggage? No or yes? The answer is: no.\nIs there a possibility of finding a stack of clothes in the luggage?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "190067"
+        }
+    },
+    {
+        "question_id": "130",
+        "question": "Given that for the question: How much of the inside of the cot is visible? Only a small portion or most of it? The answer is: only a small portion.\nIs it possible to determine if there is a baby inside the cot?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "191234"
+        }
+    },
+    {
+        "question_id": "131",
+        "question": "Given that for the question: Is the space blocked by the vehicles large enough to fit a fire hydrant? No or yes? The answer is: yes.\nIs it possible for there to be another fire hydrant behind the vehicles?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "191337"
+        }
+    },
+    {
+        "question_id": "132",
+        "question": "Given that for the question: How much of the ground is the snow covering? All visible parts of the ground or only the ground near the visible fire hydrant? The answer is: all visible parts of the ground.\nMight there be another fire hydrant in the snow?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "193354"
+        }
+    },
+    {
+        "question_id": "133",
+        "question": "Given that for the question: Are all the vegetables of the same kind placed together? Yes or no? The answer is: yes.\nWhere are the carrots?",
+        "option": [
+            "behind the cauliflowers",
+            "behind the mushrooms"
+        ],
+        "answer": "behind the cauliflowers",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "195336"
+        }
+    },
+    {
+        "question_id": "134",
+        "question": "Given that for the question: Are any stool legs visible on the floor? No or yes? The answer is: no.\nIs it possible that there is another blue stool hidden right behind the dog?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "196819"
+        }
+    },
+    {
+        "question_id": "135",
+        "question": "Given that for the question: Is the horse taller or shorter than the vegetation? Taller  or shorter? The answer is: taller .\nCould there be additional horses, similar in size to the visible one, standing in the vegetation?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "count",
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "201089"
+        }
+    },
+    {
+        "question_id": "136",
+        "question": "Given that for the question: Does the bigger bear block a patch of grassland from view? Yes or no? The answer is: yes.\nIs it possible for there to be a fallen tree branch between the two bears?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "201747"
+        }
+    },
+    {
+        "question_id": "137",
+        "question": "Given that for the question: Is there enough space behind the oranges on the top left corner of the image to fit a banana? No or yes? The answer is: yes.\nCould there be a banana hidden behind the oranges on the top left corner of the image?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "202705"
+        }
+    },
+    {
+        "question_id": "138",
+        "question": "Given that for the question: What is the red plastic bag tied on? Grab bar or flush pipe? The answer is: flush pipe.\nCan you find two toilet urinals in the picture?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "count"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "202294"
+        }
+    },
+    {
+        "question_id": "139",
+        "question": "Given that for the question: How many cones are there in the shortest stack of cones in the photo? 4 cones or 8 cones? The answer is: 4 cones.\nCould there be a stack of 10 cones hidden behind the shortest stack of cones in the photo?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "count",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "567799"
+        }
+    },
+    {
+        "question_id": "140",
+        "question": "Given that for the question: Can you see the inside of the toilet? Yes or no? The answer is: no.\nCould there be water in the toilet?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "161334"
+        }
+    },
+    {
+        "question_id": "141",
+        "question": "Given that for the question: Is the inside of the building fully visible? Yes or no? The answer is: no.\nCould there be more giraffes in the building?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "161576"
+        }
+    },
+    {
+        "question_id": "142",
+        "question": "Given that for the question: Which object has greater height? Orange or metal bucket? The answer is: metal bucket.\nCould there be oranges under the ice?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "161684"
+        }
+    },
+    {
+        "question_id": "143",
+        "question": "Given that for the question: Where is the jar of jam relative to the cake? In front or behind? The answer is: behind.\nIs it likely for there to be jam in the cake?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "162063"
+        }
+    },
+    {
+        "question_id": "144",
+        "question": "Given that for the question: How much space does a cupcake take on the second layer of the cupcake stand? More than 1/4 or less than 1/4? The answer is: less than 1/4.\nCould there be four cupcakes on the second layer of the cupcake stand?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "count",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "162238"
+        }
+    },
+    {
+        "question_id": "145",
+        "question": "Given that for the question: Is the cup transparent? No or yes? The answer is: no.\nDo you know if there is water in the cup?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "166976"
+        }
+    },
+    {
+        "question_id": "146",
+        "question": "Given that for the question: Are you able to see the entire area behind the fence? Yes or no? The answer is: no.\nCould there be more cows in the paddock?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "164136"
+        }
+    },
+    {
+        "question_id": "147",
+        "question": "Given that for the question: Which is taller? The sauce bottles or the cup? The answer is: the sauce bottles.\nCould there be a sauce bottle, similar to the ones on the right side of the photo, hidden behind the cup?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "164291"
+        }
+    },
+    {
+        "question_id": "148",
+        "question": "Given that for the question: Do the wrapped objects look similar in shape to the oranges? Yes or no? The answer is: yes.\nAre those oranges in the red wrappers?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "shape",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "164605"
+        }
+    },
+    {
+        "question_id": "149",
+        "question": "Given that for the question: Do you have a top down view of the surrounding areas of the lighthouse? Yes or no? The answer is: no.\nIs there a possibility of finding benches near the lighthouse?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "164664"
+        }
+    },
+    {
+        "question_id": "150",
+        "question": "Given that for the question: Can you see the inside of the carrier? Yes or no? The answer is: no.\nDo you know if there is a third dog in the carrier?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "165145"
+        }
+    },
+    {
+        "question_id": "151",
+        "question": "Given that for the question: Can you see through the leaves of the tree? Yes or no? The answer is: yes.\nCould a sheep be concealed behind the tree in the middle of the three clearly visible sheep?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "255709"
+        }
+    },
+    {
+        "question_id": "152",
+        "question": "Given that for the question: Which objects appear wider? The square cushions or the flowers? The answer is: the flowers.\nAre the flowers blocking a square cushion?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "243547"
+        }
+    },
+    {
+        "question_id": "153",
+        "question": "Given that for the question: Can you see the floor behind the dog's head? Yes or no? The answer is: no.\nCould there be apples hidden behind the dog?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "244524"
+        }
+    },
+    {
+        "question_id": "154",
+        "question": "Given that for the question: What color is the animal hidden among the pigeons? Gray or brown? The answer is: brown.\nIs there a cow hidden among the pigeons?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "244620"
+        }
+    },
+    {
+        "question_id": "155",
+        "question": "Given that for the question: Are the laptops near the edge of the coffee table?  Yes or no? The answer is: no.\nCould there be another can of red bull behind one of the laptops?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "255753"
+        }
+    },
+    {
+        "question_id": "156",
+        "question": "Given that for the question: What is the ring-shaped object in the image? A bagel or a doughnut? The answer is: a doughnut.\nAre you likely to find a bagel in the wrapper?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "shape",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "255694"
+        }
+    },
+    {
+        "question_id": "157",
+        "question": "Given that for the question: Where is the bus positioned on the road? Next to the sidewalk or in the middle? The answer is: next to the sidewalk.\nIs it possible to find another car behind the bus?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "255945"
+        }
+    },
+    {
+        "question_id": "158",
+        "question": "Given that for the question: Which is bigger? The zebra or the tree? The answer is: the tree.\nMight there be another pair of zebras behind the trees?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "256443"
+        }
+    },
+    {
+        "question_id": "159",
+        "question": "Given that for the question: Is the burger touching the bottom of the box? No or yes? The answer is: no.\nAre there more fries below the burger?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "257203"
+        }
+    },
+    {
+        "question_id": "160",
+        "question": "Given that for the question: Which is taller, the plastic cup or the cake? Cake or plastic cup? The answer is: cake.\nIs it possible for there to be a cup of water behind the cake?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "257515"
+        }
+    },
+    {
+        "question_id": "161",
+        "question": "Given that for the question: Are there any visible wires connecting the controllers near the seated person? Yes or no? The answer is: no.\nDoes the person sitting down have any controllers in her hands?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "266721"
+        }
+    },
+    {
+        "question_id": "162",
+        "question": "Given that for the question: Can you see the windows of the train behind? No or yes? The answer is: yes.\nAre there mini bicycle stickers on the windows of the train behind?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "268732"
+        }
+    },
+    {
+        "question_id": "163",
+        "question": "Given that for the question: Can all sides of the lighthouse be seen from this angle? Yes or no? The answer is: no.\nIs it possible that there are more seagulls behind the lighthouse?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "268417"
+        }
+    },
+    {
+        "question_id": "164",
+        "question": "Given that for the question: Can you see beneath the surface of the water? Yes or no? The answer is: no.\nIs it possible that another bear is hiding in the water?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "268843"
+        }
+    },
+    {
+        "question_id": "165",
+        "question": "Given that for the question: Is the torso of the bear fully covered by the book? No or yes? The answer is: yes.\nIs it possible that the bear is wearing clothes?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "270235"
+        }
+    },
+    {
+        "question_id": "166",
+        "question": "Given that for the question: Where are the visible buns located in the pot on the right side of the photo? Near the top or near the bottom? The answer is: near the top.\nCould there be more buns hidden inside the pot on the right side of the photo, besides those currently visible?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "272682"
+        }
+    },
+    {
+        "question_id": "167",
+        "question": "Given that for the question: Is the signboard large enough to fully obscure a cyclist behind it? No or yes? The answer is: yes.\nIs it possible for a cyclist to be hidden behind the signboard?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "275467"
+        }
+    },
+    {
+        "question_id": "168",
+        "question": "Given that for the question: Is the visible vase positioned a distance away from the wall? No or yes? The answer is: no.\nWhere is the other vase hidden at the scene?",
+        "option": [
+            "behind the ladies",
+            "behind the visible vase"
+        ],
+        "answer": "behind the ladies",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "273043"
+        }
+    },
+    {
+        "question_id": "169",
+        "question": "Given that for the question: Is there text on the visible parking meter? No or yes? The answer is: yes.\nIs there likely to be text on the occluded part of the parking meter?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "273289"
+        }
+    },
+    {
+        "question_id": "170",
+        "question": "Given that for the question: From this angle, would you be able to see someone lying down in the backseat? No or yes? The answer is: no.\nIs it possible that there is a person inside the car?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "273927"
+        }
+    },
+    {
+        "question_id": "171",
+        "question": "Given that for the question: Is there likely a tea cup at each seat? Yes or no? The answer is: yes.\nCould there be a tea cup hidden behind the flowers?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "448"
+        }
+    },
+    {
+        "question_id": "172",
+        "question": "Given that for the question: Are more than one helmet visible in the image? Yes or no? The answer is: yes.\nIs there a passenger on the motorcycle?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "count",
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "970"
+        }
+    },
+    {
+        "question_id": "173",
+        "question": "Given that for the question: Can you see the bottom of the bowl? Yes or no? The answer is: no.\nCan you determine if there is milk in the bowl?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "363799"
+        }
+    },
+    {
+        "question_id": "174",
+        "question": "Given that for the question: Can you determine if the distance between the truck with the 'tickets' sign and the white car behind it is greater than the length of the red truck? Yes or no? The answer is: no.\nCan you determine if there is another red truck behind the truck with the 'tickets' sign?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "203293"
+        }
+    },
+    {
+        "question_id": "175",
+        "question": "Given that for the question: Which is larger? The cushion on the left side of the sofa or the cat? The answer is: the cushion on the left side of the sofa.\nIs it possible for a cat to be hiding under the cushion on the left side of the sofa?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "367812"
+        }
+    },
+    {
+        "question_id": "176",
+        "question": "Given that for the question: Which is wider? The front cover of the book in the middle or the bear? The answer is: the bear.\nWhich plushie could be hiding a book behind it?",
+        "option": [
+            "the bear on the left",
+            "the pig on the right"
+        ],
+        "answer": "the bear on the left",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "369218"
+        }
+    },
+    {
+        "question_id": "177",
+        "question": "Given that for the question: Can you see the entire inside of the sink? Yes or no? The answer is: no.\nCould there be water in the sink where the girl is seated?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "370336"
+        }
+    },
+    {
+        "question_id": "178",
+        "question": "Given that for the question: Is there any space on the floor that is not visible? No or yes? The answer is: yes.\nIf there is a third cat in the image, where is it more likely to be?",
+        "option": [
+            "behind the visible cats",
+            "on the floor"
+        ],
+        "answer": "on the floor",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "851"
+        }
+    },
+    {
+        "question_id": "179",
+        "question": "Given that for the question: What is the length of the turkey relative to the length of the oven? Less than 1/2 or more than 1/2? The answer is: more than 1/2.\nCould there be another turkey in the oven?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "373241"
+        }
+    },
+    {
+        "question_id": "180",
+        "question": "Given that for the question: Can you see through the cat to what\u2019s beneath? Yes or no? The answer is: no.\nCould there be more clothes under the cat?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "249316"
+        }
+    },
+    {
+        "question_id": "181",
+        "question": "Given that for the question: Where is the brown sauce bottle relative to the position of the ketchup bottle? Immediately behind or immediately in front? The answer is: immediately behind.\nWhere could a second set of salt and pepper shakers be hidden on the table?",
+        "option": [
+            "immediately behind the drink can",
+            "immediately behind the ketchup bottle"
+        ],
+        "answer": "immediately behind the drink can",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "374952"
+        }
+    },
+    {
+        "question_id": "182",
+        "question": "Given that for the question: Which object is hanging at a lower height? The white sign or the bananas? The answer is: the bananas.\nIs it likely to find four bunches of bananas hanging in similar patterns behind the white sign?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "375319"
+        }
+    },
+    {
+        "question_id": "183",
+        "question": "Given that for the question: Is the white tray touching the table? No or yes? The answer is: no.\nIs there a pair of scissors underneath the white tray?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "375154"
+        }
+    },
+    {
+        "question_id": "184",
+        "question": "Given that for the question: Do the boxes look opened? No or yes? The answer is: no.\nWould you be able to find any pizza in the pizza boxes?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "376074"
+        }
+    },
+    {
+        "question_id": "185",
+        "question": "Given that for the question: Can you see through the glass bottle? Yes or no? The answer is: yes.\nCan you tell if there are two apples behind the glass bottle?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "359754"
+        }
+    },
+    {
+        "question_id": "186",
+        "question": "Given that for the question: Do you see the wheels of another plane behind the one in front? No or yes? The answer is: no.\nIs there another plane behind the one in front, also facing the camera?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "360235"
+        }
+    },
+    {
+        "question_id": "187",
+        "question": "Given that for the question: Do you see any wheels behind the white carriage? Yes or no? The answer is: no.\nCould there be another carriage immediately behind the white carriage?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "249576"
+        }
+    },
+    {
+        "question_id": "188",
+        "question": "Given that for the question: Does the banana the girl is holding appear to have been eaten? Yes or no? The answer is: yes.\nCould the girl be putting a piece of banana into her mouth?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "249709"
+        }
+    },
+    {
+        "question_id": "189",
+        "question": "Given that for the question: Can you see the inside of the cup? Yes or no? The answer is: no.\nIs it possible to tell if the cup in the person's hand is empty?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "430719"
+        }
+    },
+    {
+        "question_id": "190",
+        "question": "Given that for the question: Are beach chairs present beneath each umbrella in the scene? Yes or no? The answer is: no.\nIs it possible to determine if there are beach chairs underneath the nearest umbrella?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "pos",
+                "vis"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "435119"
+        }
+    },
+    {
+        "question_id": "191",
+        "question": "Given that for the question: Is the chair positioned against the wall? Yes or no? The answer is: no.\nCould there be another bear on the floor behind the chair where the child is sitting?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3024"
+        }
+    },
+    {
+        "question_id": "192",
+        "question": "Given that for the question: How much of the bathtub does the curtain cover? Less than 1/2 or more than 1/2? The answer is: more than 1/2.\nIs it possible that someone is behind the curtain in the bathtub?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "220513"
+        }
+    },
+    {
+        "question_id": "193",
+        "question": "Given that for the question: Do the bears in the second rows look like they are leaning against the wall? No or yes? The answer is: yes.\nCould there be more than two rows of bears on each level of the display shelf?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "count",
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "221728"
+        }
+    },
+    {
+        "question_id": "194",
+        "question": "Given that for the question: Can the contents of the tray on the top level of the oven be seen from this angle? No or yes? The answer is: no.\nIs it likely that there are pizzas on the top level of the oven?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "224840"
+        }
+    },
+    {
+        "question_id": "195",
+        "question": "Given that for the question: Which suitcase is significantly narrower in width? The topmost suitcase or the middle suitcase? The answer is: the topmost suitcase.\nIs it possible that a smaller suitcase is inside one of the two larger suitcases?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "473007"
+        }
+    },
+    {
+        "question_id": "196",
+        "question": "Given that for the question: Which is shorter? The toothbrushes or the cups? The answer is: the cups.\nCould there be toothbrushes in the cup at the front?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "459775"
+        }
+    },
+    {
+        "question_id": "197",
+        "question": "Given that for the question: Which car is farther away from the camera? The left one or the right one? The answer is: the left one.\nCould there be a car hidden behind the car on the right?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "463343"
+        }
+    },
+    {
+        "question_id": "198",
+        "question": "Given that for the question: Where is the vase positioned on the table? In the middle or near the edge? The answer is: near the edge.\nCould there be more bowls of candy hidden behind the flower vase?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "yes",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "463873"
+        }
+    },
+    {
+        "question_id": "199",
+        "question": "Given that for the question: Is the bus next to the pavement? No or yes? The answer is: yes.\nCould there be a car between the bus and the white car?",
+        "option": [
+            "no",
+            "yes"
+        ],
+        "answer": "no",
+        "metadata": {
+            "skill": [
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "bool",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "465939"
+        }
+    },
+    {
+        "question_id": "200",
+        "question": "Given that for the question: Can you see the shadows of two dogs behind the visible dog? No or yes? The answer is: no.\nWhere could another dog be in this scene?",
+        "option": [
+            "behind the horse",
+            "behind the visible dog"
+        ],
+        "answer": "behind the horse",
+        "metadata": {
+            "skill": [
+                "count",
+                "dist",
+                "pos",
+                "size"
+            ],
+            "viewpoint": "allo",
+            "format": "pos",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "225639"
+        }
+    }
+]

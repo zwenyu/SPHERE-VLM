@@ -1,0 +1,1898 @@
+[
+    {
+        "question_id": "1.1",
+        "question": "How many buses are closer than the railing?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1"
+        }
+    },
+    {
+        "question_id": "2.1",
+        "question": "How many vehicles are closer than the fence?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "662"
+        }
+    },
+    {
+        "question_id": "3.1",
+        "question": "How many crows are on the railing farther from the viewer?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "1385"
+        }
+    },
+    {
+        "question_id": "4.1",
+        "question": "From the perspective of the camera, how many zebras are closer than the duck?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "3805"
+        }
+    },
+    {
+        "question_id": "5.1",
+        "question": "How many bikes are closer than the man wearing an orange shirt?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "7640"
+        }
+    },
+    {
+        "question_id": "6.1",
+        "question": "From the perspective of the viewer, how many zebras are farther than the giraffe?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "10840"
+        }
+    },
+    {
+        "question_id": "7.1",
+        "question": "How many sheep are farther than the dog?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21200"
+        }
+    },
+    {
+        "question_id": "7.2",
+        "question": "How many sheep are closer than the dog?",
+        "option": null,
+        "answer": "9",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "21200"
+        }
+    },
+    {
+        "question_id": "8.1",
+        "question": "How many people are farther away from the camera than the bench?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "27312"
+        }
+    },
+    {
+        "question_id": "9.1",
+        "question": "How many people are closer than the wall?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "32154"
+        }
+    },
+    {
+        "question_id": "10.1",
+        "question": "How many people wearing green are farther than the person holding the frisbee?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "50698"
+        }
+    },
+    {
+        "question_id": "10.2",
+        "question": "How many people wearing green are closer than the person holding the frisbee?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "50698"
+        }
+    },
+    {
+        "question_id": "11.1",
+        "question": "How many surfboards are farther than the ocean?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54524"
+        }
+    },
+    {
+        "question_id": "11.2",
+        "question": "How many surfboards are closer than the ocean?",
+        "option": null,
+        "answer": "7",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "54524"
+        }
+    },
+    {
+        "question_id": "12.1",
+        "question": "How many people are farther than the goalpost?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57735"
+        }
+    },
+    {
+        "question_id": "12.2",
+        "question": "How many people are closer than the goalpost?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "57735"
+        }
+    },
+    {
+        "question_id": "13.1",
+        "question": "How many children are farther away from the viewer than the pizza?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73345"
+        }
+    },
+    {
+        "question_id": "13.2",
+        "question": "How many children are closer to the viewer than the pizza?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "73345"
+        }
+    },
+    {
+        "question_id": "14.1",
+        "question": "How many sheep are farther than the train?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "74858"
+        }
+    },
+    {
+        "question_id": "14.2",
+        "question": "How many sheep are closer than the train?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "74858"
+        }
+    },
+    {
+        "question_id": "15.1",
+        "question": "How many motorbikes are farther than the green benches?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "92234"
+        }
+    },
+    {
+        "question_id": "15.2",
+        "question": "How many motorbikes are closer than the green benches?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "92234"
+        }
+    },
+    {
+        "question_id": "16.1",
+        "question": "How many people are farther than the man in the white shirt?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "95896"
+        }
+    },
+    {
+        "question_id": "16.2",
+        "question": "How many people are closer than the man wearing a white shirt?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "95896"
+        }
+    },
+    {
+        "question_id": "17.1",
+        "question": "How many airplanes are farther than the airplane labelled \"3\"?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "102689"
+        }
+    },
+    {
+        "question_id": "17.2",
+        "question": "How many airplanes are closer than the airplane labelled \"3\"?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "102689"
+        }
+    },
+    {
+        "question_id": "18.1",
+        "question": "How many bicycles are farther than the car?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "139832"
+        }
+    },
+    {
+        "question_id": "18.2",
+        "question": "How many bicycles are closer than the car?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "139832"
+        }
+    },
+    {
+        "question_id": "19.1",
+        "question": "How many people are farther than the black sofa?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "152735"
+        }
+    },
+    {
+        "question_id": "20.1",
+        "question": "How many television screens are farther than the cup on the table?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "153988"
+        }
+    },
+    {
+        "question_id": "20.2",
+        "question": "How many television screens are closer than the cup on the table?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "153988"
+        }
+    },
+    {
+        "question_id": "21.1",
+        "question": "How many plates are farther than the bottle?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "156091"
+        }
+    },
+    {
+        "question_id": "22.1",
+        "question": "How many vases are farther than the yellow vase?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "167100"
+        }
+    },
+    {
+        "question_id": "22.2",
+        "question": "How many vases are closer than the yellow vase?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "167100"
+        }
+    },
+    {
+        "question_id": "23.1",
+        "question": "How many water tanks are closer than the television?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "170047"
+        }
+    },
+    {
+        "question_id": "24.1",
+        "question": "How many strawberries are closer than the green mug?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "170386"
+        }
+    },
+    {
+        "question_id": "24.2",
+        "question": "How many strawberries are closer than the fork?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "170386"
+        }
+    },
+    {
+        "question_id": "25.1",
+        "question": "How many horses are farther than the fence?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "172864"
+        }
+    },
+    {
+        "question_id": "26.1",
+        "question": "How many keyboards are closer than the cat?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "175577"
+        }
+    },
+    {
+        "question_id": "27.1",
+        "question": "How many signboards are closer than the tree?",
+        "option": null,
+        "answer": "7",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "184083"
+        }
+    },
+    {
+        "question_id": "28.1",
+        "question": "From the perspective of the viewer, how many glasses are farther than the knives?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "197664"
+        }
+    },
+    {
+        "question_id": "28.2",
+        "question": "From the perspective of the observer, how many glasses are closer than the knives?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "197664"
+        }
+    },
+    {
+        "question_id": "29.1",
+        "question": "From the point-of-view of the woman on the left, how many people are closer than the surfboard?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "199684"
+        }
+    },
+    {
+        "question_id": "30.1",
+        "question": "How many sheep are farther than the tree?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "202047"
+        }
+    },
+    {
+        "question_id": "30.2",
+        "question": "How many sheep are closer than the tree?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "202047"
+        }
+    },
+    {
+        "question_id": "31.1",
+        "question": "How many giraffes are farther than the body of water?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "211128"
+        }
+    },
+    {
+        "question_id": "31.2",
+        "question": "How many giraffes are closer than the body of water?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "211128"
+        }
+    },
+    {
+        "question_id": "32.1",
+        "question": "How many people are nearer to the observer than the sheet of paper tapped onto the shelf?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "216394"
+        }
+    },
+    {
+        "question_id": "33.1",
+        "question": "How many buses are farther than the white van?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "217037"
+        }
+    },
+    {
+        "question_id": "33.2",
+        "question": "How many buses are closer than the white van?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "217037"
+        }
+    },
+    {
+        "question_id": "34.1",
+        "question": "How many horses are farther than the red cap?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "217564"
+        }
+    },
+    {
+        "question_id": "34.2",
+        "question": "How many horses are closer than the red cap?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "217564"
+        }
+    },
+    {
+        "question_id": "35.1",
+        "question": "How many birds are closer than the zebra?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "224574"
+        }
+    },
+    {
+        "question_id": "36.1",
+        "question": "How many computer screens are closer than the keyboard?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "233511"
+        }
+    },
+    {
+        "question_id": "37.1",
+        "question": "How many surfboards are farther than the person wearing green?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "242725"
+        }
+    },
+    {
+        "question_id": "37.2",
+        "question": "How many surfboards are closer than the person wearing green?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "242725"
+        }
+    },
+    {
+        "question_id": "38.1",
+        "question": "How many bikes are closer than the building?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "248915"
+        }
+    },
+    {
+        "question_id": "39.1",
+        "question": "How many bottles are closer than the drawer?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "251354"
+        }
+    },
+    {
+        "question_id": "40.1",
+        "question": "How many donuts are farther than the cup of coffee?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "257559"
+        }
+    },
+    {
+        "question_id": "40.2",
+        "question": "How many donuts are closer than the cup of coffee?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "257559"
+        }
+    },
+    {
+        "question_id": "41.1",
+        "question": "How many brown animals are farther than the fence?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "276031"
+        }
+    },
+    {
+        "question_id": "41.2",
+        "question": "How many brown animals are closer than the fence?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "276031"
+        }
+    },
+    {
+        "question_id": "42.1",
+        "question": "How many elephants are farther than the tree?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "282683"
+        }
+    },
+    {
+        "question_id": "42.2",
+        "question": "How many elephants are closer than the tree?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "282683"
+        }
+    },
+    {
+        "question_id": "43.1",
+        "question": "How many dogs are farther than the standing fan?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "294433"
+        }
+    },
+    {
+        "question_id": "44.1",
+        "question": "How many vehicles are farther than the yellow bus?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "295846"
+        }
+    },
+    {
+        "question_id": "44.2",
+        "question": "How many vehicles are closer than the yellow bus?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "295846"
+        }
+    },
+    {
+        "question_id": "45.1",
+        "question": "How many laptops are farther than the headphones?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "311775"
+        }
+    },
+    {
+        "question_id": "45.2",
+        "question": "How many laptops are closer than the headphones?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "311775"
+        }
+    },
+    {
+        "question_id": "46.1",
+        "question": "How many people are closer than the ball?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "317140"
+        }
+    },
+    {
+        "question_id": "47.1",
+        "question": "How many penguins are farther than the red flag?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "319826"
+        }
+    },
+    {
+        "question_id": "48.1",
+        "question": "How many sheep are farther than the dog?",
+        "option": null,
+        "answer": "6",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "320153"
+        }
+    },
+    {
+        "question_id": "48.2",
+        "question": "How many sheep are closer than the dog?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "320153"
+        }
+    },
+    {
+        "question_id": "49.1",
+        "question": "How many people are closer than the bench?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "327402"
+        }
+    },
+    {
+        "question_id": "50.1",
+        "question": "How many children are farther than the slide?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "332323"
+        }
+    },
+    {
+        "question_id": "50.2",
+        "question": "How many children are closer than the slide?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "332323"
+        }
+    },
+    {
+        "question_id": "51.1",
+        "question": "How many bagels are farther than the pizza?",
+        "option": null,
+        "answer": "6",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "342069"
+        }
+    },
+    {
+        "question_id": "51.2",
+        "question": "How many bagels are closer than the pizza?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "342069"
+        }
+    },
+    {
+        "question_id": "52.1",
+        "question": "How many teddy bears are closer than the child?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "347540"
+        }
+    },
+    {
+        "question_id": "52.2",
+        "question": "How many teddy bears are further away than the child?",
+        "option": null,
+        "answer": "5",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "347540"
+        }
+    },
+    {
+        "question_id": "53.1",
+        "question": "How many giraffes are farther than the elephant?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "351730"
+        }
+    },
+    {
+        "question_id": "53.2",
+        "question": "How many giraffes are closer than the elephant?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "351730"
+        }
+    },
+    {
+        "question_id": "54.1",
+        "question": "How many frisbees are closer than the red cone?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "355148"
+        }
+    },
+    {
+        "question_id": "55.1",
+        "question": "How many animals are farther than the zebra?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "371625"
+        }
+    },
+    {
+        "question_id": "55.2",
+        "question": "How many animals are closer than the zebra?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "371625"
+        }
+    },
+    {
+        "question_id": "56.1",
+        "question": "How many people are closer than the goalpost?",
+        "option": null,
+        "answer": "7",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "372918"
+        }
+    },
+    {
+        "question_id": "56.2",
+        "question": "How many people are farther away than the goalpost?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "372918"
+        }
+    },
+    {
+        "question_id": "57.1",
+        "question": "In the photo, how many tables are farther than the couch?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "377381"
+        }
+    },
+    {
+        "question_id": "57.2",
+        "question": "In the photo, how many tables are nearer than the couch?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "377381"
+        }
+    },
+    {
+        "question_id": "58.1",
+        "question": "How many wine glasses are closer than the man?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "381872"
+        }
+    },
+    {
+        "question_id": "59.1",
+        "question": "How many zebras are closer than the building?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "393133"
+        }
+    },
+    {
+        "question_id": "60.1",
+        "question": "How many zebras are farther than the fence?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "397001"
+        }
+    },
+    {
+        "question_id": "60.2",
+        "question": "How many zebras are closer than the fence?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "397001"
+        }
+    },
+    {
+        "question_id": "61.1",
+        "question": "How many picnic tables are farther than the man wearing white?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "408443"
+        }
+    },
+    {
+        "question_id": "61.2",
+        "question": "How many picnic tables are closer than the man wearing white?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "408443"
+        }
+    },
+    {
+        "question_id": "62.1",
+        "question": "How many lamps are closer than the bookshelf?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "418025"
+        }
+    },
+    {
+        "question_id": "63.1",
+        "question": "How many donuts are closer than the spoon?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "425372"
+        }
+    },
+    {
+        "question_id": "64.1",
+        "question": "How many pieces of cutlery are farther than the teaspoon on the saucer?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "425919"
+        }
+    },
+    {
+        "question_id": "64.2",
+        "question": "How many pieces of cutlery are closer than the teaspoon on the saucer?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "425919"
+        }
+    },
+    {
+        "question_id": "65.1",
+        "question": "How many skateboards are closer to the viewer than the man carrying a brown backpack?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "432960"
+        }
+    },
+    {
+        "question_id": "66.1",
+        "question": "How many people are closer than the person wearing a red shirt?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "441143"
+        }
+    },
+    {
+        "question_id": "67.1",
+        "question": "How many pillows are farther from the camera than the coffee table?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "441997"
+        }
+    },
+    {
+        "question_id": "67.2",
+        "question": "How many pillows at similar distance from the camera than the coffee table?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "441997"
+        }
+    },
+    {
+        "question_id": "68.1",
+        "question": "How many surfboards are to the right of the yellow surfboard?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "442700"
+        }
+    },
+    {
+        "question_id": "69.1",
+        "question": "How many tennis balls are farther than the racket?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "445896"
+        }
+    },
+    {
+        "question_id": "69.2",
+        "question": "How many tennis balls are closer than the racket?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "445896"
+        }
+    },
+    {
+        "question_id": "70.1",
+        "question": "How many tennis balls are farther than the net?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "448281"
+        }
+    },
+    {
+        "question_id": "71.1",
+        "question": "How many elephants are farther than the tree log?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "451254"
+        }
+    },
+    {
+        "question_id": "71.2",
+        "question": "How many elephants are closer than the tree log?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "451254"
+        }
+    },
+    {
+        "question_id": "72.1",
+        "question": "How many cows are farther than the giraffe?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "454010"
+        }
+    },
+    {
+        "question_id": "73.1",
+        "question": "How many people are at similar distance from the viewer as the ball?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "454635"
+        }
+    },
+    {
+        "question_id": "73.2",
+        "question": "How many people are farther than the ball?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "454635"
+        }
+    },
+    {
+        "question_id": "74.1",
+        "question": "How many giraffes are farther than the fence?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "473361"
+        }
+    },
+    {
+        "question_id": "74.2",
+        "question": "How many giraffes are closer than the fence?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "473361"
+        }
+    },
+    {
+        "question_id": "75.1",
+        "question": "How many horses are farther than the stop sign?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "481074"
+        }
+    },
+    {
+        "question_id": "76.1",
+        "question": "How many donuts are farther than the sunglasses?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "483456"
+        }
+    },
+    {
+        "question_id": "76.2",
+        "question": "How many donuts are closer than the sunglasses?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "483456"
+        }
+    },
+    {
+        "question_id": "77.1",
+        "question": "How many zebras are farther than the bird?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "485772"
+        }
+    },
+    {
+        "question_id": "78.1",
+        "question": "How many people are closer than the lamp?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "488899"
+        }
+    },
+    {
+        "question_id": "79.1",
+        "question": "How many motorbikes are closer than the mountains?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "490030"
+        }
+    },
+    {
+        "question_id": "79.2",
+        "question": "How many motorbikes are farther than the mountains?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "490030"
+        }
+    },
+    {
+        "question_id": "80.1",
+        "question": "How many people are closer than the cake?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "490901"
+        }
+    },
+    {
+        "question_id": "81.1",
+        "question": "How many giraffes are farther than the fence?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "491995"
+        }
+    },
+    {
+        "question_id": "81.2",
+        "question": "How many giraffes are closer than the fence?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "491995"
+        }
+    },
+    {
+        "question_id": "82.1",
+        "question": "How many yellow napkins are farther from the viewer than the pizza?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "495550"
+        }
+    },
+    {
+        "question_id": "82.2",
+        "question": "How many yellow napkins are closer to the viewer than the pizza?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "495550"
+        }
+    },
+    {
+        "question_id": "83.1",
+        "question": "How many forks are closer than the cake?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "498048"
+        }
+    },
+    {
+        "question_id": "84.1",
+        "question": "How many zebras are farther than the rhinoceros?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "505298"
+        }
+    },
+    {
+        "question_id": "84.2",
+        "question": "How many zebras are closer than the rhinoceros?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "505298"
+        }
+    },
+    {
+        "question_id": "85.1",
+        "question": "How many people are farther from the observer than the baseball batter?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "508641"
+        }
+    },
+    {
+        "question_id": "85.2",
+        "question": "How many people are closer to the observer than the baseball batter?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "508641"
+        }
+    },
+    {
+        "question_id": "86.1",
+        "question": "How many candles are closer than the lamp?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "510978"
+        }
+    },
+    {
+        "question_id": "86.2",
+        "question": "How many candles are farther than the woman?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "510978"
+        }
+    },
+    {
+        "question_id": "87.1",
+        "question": "How many umbrellas are farther than the hydrant?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "518494"
+        }
+    },
+    {
+        "question_id": "87.2",
+        "question": "How many umbrellas are closer than the hydrant?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "518494"
+        }
+    },
+    {
+        "question_id": "88.1",
+        "question": "How many giraffes are farther than the pole?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "523330"
+        }
+    },
+    {
+        "question_id": "88.2",
+        "question": "How many giraffes are closer than the pole?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "523330"
+        }
+    },
+    {
+        "question_id": "89.1",
+        "question": "How many horses are closer than the woman?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "527117"
+        }
+    },
+    {
+        "question_id": "90.1",
+        "question": "How many tennis balls are closer than the blue racket?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "528835"
+        }
+    },
+    {
+        "question_id": "91.1",
+        "question": "How many people are closer than the coastline?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "529124"
+        }
+    },
+    {
+        "question_id": "91.2",
+        "question": "How many people are farther than the coastline?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "529124"
+        }
+    },
+    {
+        "question_id": "92.1",
+        "question": "How many tennis balls are farther than the net?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "538866"
+        }
+    },
+    {
+        "question_id": "92.2",
+        "question": "How many tennis balls are closer than the net?",
+        "option": null,
+        "answer": "1",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "538866"
+        }
+    },
+    {
+        "question_id": "93.1",
+        "question": "How many cases are closer than the green basket?",
+        "option": null,
+        "answer": "4",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "545810"
+        }
+    },
+    {
+        "question_id": "94.1",
+        "question": "From the perspective of the person, how many horses are farther from him than the fence?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "554612"
+        }
+    },
+    {
+        "question_id": "94.2",
+        "question": "From the perspective of the person, how many horses are closer to him than the fence?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "554612"
+        }
+    },
+    {
+        "question_id": "94.3",
+        "question": "How many horses are farther than the person?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "554612"
+        }
+    },
+    {
+        "question_id": "94.4",
+        "question": "How many horses are closer than the person?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "554612"
+        }
+    },
+    {
+        "question_id": "95.1",
+        "question": "How many people are farther than the white railings at the edge of the field?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "559610"
+        }
+    },
+    {
+        "question_id": "95.2",
+        "question": "How many people are closer than the white railings at the edge of the field?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "559610"
+        }
+    },
+    {
+        "question_id": "96.1",
+        "question": "How many zebras are farther than the mountain?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "562028"
+        }
+    },
+    {
+        "question_id": "96.2",
+        "question": "How many zebras are closer than the mountain?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "562028"
+        }
+    },
+    {
+        "question_id": "97.1",
+        "question": "How many giraffes are farther than the gate?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "568699"
+        }
+    },
+    {
+        "question_id": "97.2",
+        "question": "How many giraffes are closer than the gate?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "568699"
+        }
+    },
+    {
+        "question_id": "98.1",
+        "question": "How many giraffes are farther than the fence?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "569573"
+        }
+    },
+    {
+        "question_id": "98.2",
+        "question": "How many giraffes are closer than the fence?",
+        "option": null,
+        "answer": "2",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "569573"
+        }
+    },
+    {
+        "question_id": "99.1",
+        "question": "From the perspective of the giraffe, how many zebras are closer to it than the building?",
+        "option": null,
+        "answer": "3",
+        "metadata": {
+            "viewpoint": "ego",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "573506"
+        }
+    },
+    {
+        "question_id": "100.1",
+        "question": "How many forks are farther than the plate?",
+        "option": null,
+        "answer": "0",
+        "metadata": {
+            "viewpoint": "allo",
+            "format": "num",
+            "source_dataset": "coco_test2017",
+            "source_img_id": "573673"
+        }
+    }
+]
