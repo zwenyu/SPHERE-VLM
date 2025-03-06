@@ -63,7 +63,7 @@ Overall results will be saved in `eval_datasets/coco_test2017_annotations/result
 
 ## Repository overview
 ```
-SPHERE/
+SPHERE-VLM/
 │
 ├── eval_datasets/
 │   └── __init__.py
