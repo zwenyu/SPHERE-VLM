@@ -1,5 +1,8 @@
 # SPHERE: Unveiling Spatial Blind Spots in Vision-Language Models Through Hierarchical Evaluation
 
+📖 [arxiv](https://arxiv.org/pdf/2412.12693) / [Huggingface](https://huggingface.co/papers/2412.12693) / [Huggingface Dataset](https://huggingface.co/datasets/wei2912/SPHERE-VLM)
+______________________________________________________________________
+
 [SPHERE (Spatial Perception and Hierarchical Evaluation of REasoning)](https://arxiv.org/pdf/2412.12693) is a benchmark for assessing spatial reasoning in vision-language models. It introduces a hierarchical evaluation framework with a human-annotated dataset, testing models on tasks ranging from basic spatial understanding to complex multi-skill reasoning. SPHERE poses significant challenges for both state-of-the-art open-source and proprietary models, revealing critical gaps in spatial cognition.
 
 <p align="center">
