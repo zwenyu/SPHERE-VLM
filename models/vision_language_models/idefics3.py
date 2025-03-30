@@ -2,7 +2,7 @@
 Idefics3: https://huggingface.co/HuggingFaceM4/Idefics3-8B-Llama3
 """
 
-from transformers import AutoProcessor, AutoModelForPreTraining
+from transformers import AutoProcessor, AutoModelForVision2Seq
 import torch
 from models.model_interface import VisionLanguageModel
 
@@ -19,7 +19,7 @@ class Idefics3(VisionLanguageModel):
         self.processor = AutoProcessor.from_pretrained(
             model_path
         )
-        self.model = AutoModelForPreTraining.from_pretrained(
+        self.model = AutoModelForVision2Seq.from_pretrained(
             model_path,
             torch_dtype=torch.float16,
             low_cpu_mem_usage=True

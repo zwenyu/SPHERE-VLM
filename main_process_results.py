@@ -2,7 +2,6 @@ import os, json
 import argparse
 import numpy as np
 from eval_datasets.coco_dataset import COCODataset
-from tasks.check_annotations import AnnotationsChecker
 
 def main(args):
 
