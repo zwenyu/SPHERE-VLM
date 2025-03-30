@@ -13,6 +13,9 @@ scripts=(
     "./run_qwen_vl.sh"
     "./run_qwen2_vl_7b.sh"
     "./run_qwen2_vl_72b.sh"
+    "./run_qwen2_5_vl_7b.sh"
+    "./run_qwen2_5_vl_72b.sh"
+    "./run_janus_pro.sh"
     "./run_llama3_2_vision_11b.sh"
     "./run_llama3_2_vision_90b.sh"
     './run_spatialrgpt.sh'
