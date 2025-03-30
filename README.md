@@ -36,6 +36,7 @@ conda install --file requirements.txt
 pip install transformers_stream_generator==0.0.5
 pip install flash-attn --no-build-isolation
 pip install qwen-vl-utils==0.0.8
+pip install git+https://github.com/huggingface/transformers
 ```
 
 To run close-source models by API, set the appropriate API keys and install packages:
@@ -50,10 +51,19 @@ The following models are commented out in `models/__init__.py` as additional ins
 Download the the model repositories and place them in `models/utils`.
 - SpaceMantis: https://huggingface.co/remyxai/SpaceMantis
 - SpatialRGPT: https://github.com/AnjieCheng/SpatialRGPT
+- Janus-Pro: https://github.com/deepseek-ai/Janus
 
 ```bash
+cd models
+mkdir utils
+cd utils
+
 git clone https://huggingface.co/remyxai/SpaceMantis
 git clone https://github.com/AnjieCheng/SpatialRGPT
+git clone https://github.com/deepseek-ai/Janus.git
+
+cd Janus
+pip install -e .
 ```
 
 Note: SpatialRGPT requires an environment setup which may not be compatible with other models. Suggestion is to set up a separate environment following instructions in the SpatialRGPT GitHub repository to evaluate SpatialRGPT.
@@ -91,7 +101,7 @@ SPHERE-VLM/
 |
 ├── main.py
 ├── main_combine_intermediate.py
-├── main_process_results.py	
+├── main_process_results.py
 ├── README.md
 └── requirements.txt
 ```

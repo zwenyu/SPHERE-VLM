@@ -1,7 +1,7 @@
 #!/bin/bash
 
-cd /home/zhang_wenyu/Project/SPHERE
-export PYTHONPATH=/home/zhang_wenyu/Project/SPHERE/models/utils/SpatialRGPT:$PYTHONPATH
+cd /home/zhang_wenyu/Project/SPHERE-VLM
+export PYTHONPATH=/home/zhang_wenyu/Project/SPHERE-VLM/models/utils/SpatialRGPT:$PYTHONPATH
 
 models=(
     "gemini-2.0-flash-exp"

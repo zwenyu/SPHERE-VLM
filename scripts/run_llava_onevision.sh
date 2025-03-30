@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/zhang_wenyu/Project/SPHERE
+cd /home/zhang_wenyu/Project/SPHERE-VLM
 
 model_name=llava_onevision
 single_skill_json=(size_only distance_only position_only counting_only-paired-distance_and_counting counting_only-paired-position_and_counting)

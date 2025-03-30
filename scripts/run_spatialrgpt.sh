@@ -1,7 +1,7 @@
 #!/bin/bash
 
-cd /home/zhang_wenyu/Project/SPHERE
-export PYTHONPATH=/home/zhang_wenyu/Project/SPHERE/models/utils/SpatialRGPT:$PYTHONPATH
+cd /home/zhang_wenyu/Project/SPHERE-VLM
+export PYTHONPATH=/home/zhang_wenyu/Project/SPHERE-VLM/models/utils/SpatialRGPT:$PYTHONPATH
 
 model_name=spatialrgpt_rgb
 single_skill_json=(size_only distance_only position_only counting_only-paired-distance_and_counting counting_only-paired-position_and_counting)

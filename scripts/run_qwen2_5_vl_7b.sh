@@ -2,8 +2,9 @@
 
 cd /home/zhang_wenyu/Project/SPHERE-VLM
 
-model_name=qwen2_vl_7b
+model_name=qwen2_5_vl_7b
 single_skill_json=(size_only distance_only position_only counting_only-paired-distance_and_counting counting_only-paired-position_and_counting)
+single_skill_json=(size_only)
 combine_2_skill_json=(distance_and_size distance_and_counting position_and_counting)
 reasoning_json=(object_manipulation object_occlusion object_manipulation_w_intermediate object_occlusion_w_intermediate)
 
@@ -12,12 +13,12 @@ for file in ${single_skill_json[@]}; do
     CUDA_VISIBLE_DEVICES=0,1 python main.py --model_name ${model_name} --annotations_json single_skill/${file} --save_predictions
 done
 
-for file in ${combine_2_skill_json[@]}; do
-    echo ${file}
-    CUDA_VISIBLE_DEVICES=0,1 python main.py --model_name ${model_name} --annotations_json combine_2_skill/${file} --save_predictions
-done
+# for file in ${combine_2_skill_json[@]}; do
+#     echo ${file}
+#     CUDA_VISIBLE_DEVICES=1 python main.py --model_name ${model_name} --annotations_json combine_2_skill/${file} --save_predictions
+# done
 
-for file in ${reasoning_json[@]}; do
-    echo ${file}
-    CUDA_VISIBLE_DEVICES=0,1 python main.py --model_name ${model_name} --annotations_json reasoning/${file} --save_predictions
-done
+# for file in ${reasoning_json[@]}; do
+#     echo ${file}
+#     CUDA_VISIBLE_DEVICES=1 python main.py --model_name ${model_name} --annotations_json reasoning/${file} --save_predictions
+# done
