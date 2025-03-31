@@ -3,7 +3,12 @@
 📖 [arxiv](https://arxiv.org/pdf/2412.12693) / [Huggingface](https://huggingface.co/papers/2412.12693) / [Huggingface Dataset](https://huggingface.co/datasets/wei2912/SPHERE-VLM)
 ______________________________________________________________________
 
-[SPHERE (Spatial Perception and Hierarchical Evaluation of REasoning)](https://arxiv.org/pdf/2412.12693) is a benchmark for assessing spatial reasoning in vision-language models. It introduces a hierarchical evaluation framework with a human-annotated dataset, testing models on tasks ranging from basic spatial understanding to complex multi-skill reasoning. SPHERE poses significant challenges for both state-of-the-art open-source and proprietary models, revealing critical gaps in spatial cognition.
+[SPHERE (Spatial Perception and Hierarchical Evaluation of REasoning)](https://arxiv.org/pdf/2412.12693) is a benchmark for assessing spatial reasoning in vision-language models. It introduces a hierarchical evaluation framework with a human-annotated dataset, testing models on tasks ranging from basic spatial understanding to complex multi-skill reasoning. SPHERE poses significant challenges for both state-of-the-art open-source and proprietary models, revealing critical gaps in spatial cognition, including:
+- 📏 Size Constancy: Difficulty in recognizing that an object’s size remains unchanged despite variations in distance or perspective.
+- 🧭 Egocentric vs. Allocentric Perspectives: Struggles in interpreting spatial relationships from different viewpoints.
+- 🧩 Spatial Logic & Physical Reasoning: Limitations in inferring an object's existence, position, and state based on occlusions, viewpoint changes, and interactions with the environment.
+
+Evaluated models: Phi-3.5-Vision, LLaVA-NeXT, LLaVA-OneVision, Qwen2-VL, InstructBLIP, Idefics2, InternVL2.5, Qwen-VL, Llama-3.2-Vision, Gemini 2.0 Flash, GPT-4o, SpatialBot, SpaceMantis, SpatialRGPT.
 
 <p align="center">
   <img src="demo_images/SPHERE_results_summary.png" alt="SPHERE results summary" width="500"/>
@@ -14,7 +19,7 @@ ______________________________________________________________________
 </p>
 
 
-## Installation
+## 🛠️ Installation
 
 ### Data
 Download COCO test set:
@@ -58,7 +63,7 @@ git clone https://github.com/AnjieCheng/SpatialRGPT
 
 Note: SpatialRGPT requires an environment setup which may not be compatible with other models. Suggestion is to set up a separate environment following instructions in the SpatialRGPT GitHub repository to evaluate SpatialRGPT.
 
-## Evaluation
+## 📊 Evaluation
 
 Model evaluation scripts are in `scripts`. Execute `scripts/all_expts.sh` to run all models, and `scripts/all_supplement.sh` to perform additional analysis such as allocentric vs. allocentric viewpoints and intermediate vs. final reasoning questions.
 
@@ -96,7 +101,7 @@ SPHERE-VLM/
 └── requirements.txt
 ```
 
-## Citation
+## 📝 Citation
 
 ```bibtex
 @article{zhang2025sphere,
