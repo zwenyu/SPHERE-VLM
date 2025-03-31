@@ -9,7 +9,7 @@ from .vision_language_models.qwen2_vl import Qwen2VL
 from .vision_language_models.qwen2_5_vl import Qwen2_5_VL
 from .vision_language_models.intern_vl2_5 import InternVL2_5
 from .vision_language_models.llama3_2_vision import Llama3_2_Vision
-from .vision_language_models.janus_pro import JanusPro
+# from .vision_language_models.janus_pro import JanusPro
 # from .vision_language_models.spatialrgpt_rgb import SpatialRGPT_RGB
 # from .vision_language_models.space_mantis import SpaceMantis
 from .vision_language_models.spatial_bot_rgb import SpatialBot_RGB
@@ -48,8 +48,8 @@ def get_model_by_name(model_name, device="cuda", load=True):
         return Llama3_2_Vision(device=device, version="11B", load=load)
     elif model_name == "llama3_2_vision_90b":
         return Llama3_2_Vision(device=device, version="90B", load=load)
-    elif model_name == "janus_pro":
-        return JanusPro(device=device, load=load)
+    # elif model_name == "janus_pro":
+    #     return JanusPro(device=device, load=load)
     # elif model_name == "spatialrgpt_rgb":
     #     return SpatialRGPT_RGB(device=device, load=load)
     # elif model_name == "space_mantis":
