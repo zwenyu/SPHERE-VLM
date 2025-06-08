@@ -1,6 +1,6 @@
 # SPHERE: Unveiling Spatial Blind Spots in Vision-Language Models Through Hierarchical Evaluation
 
-📖 [arxiv](https://arxiv.org/pdf/2412.12693) / 🤗 [Huggingface](https://huggingface.co/papers/2412.12693) / 🤗 [Huggingface Dataset](https://huggingface.co/datasets/wei2912/SPHERE-VLM)
+🌐 [Website](https://sphere-vlm.github.io/) / 📖 [arXiv](https://arxiv.org/pdf/2412.12693) / 🤗 [Huggingface](https://huggingface.co/papers/2412.12693) / 🤗 [Huggingface Dataset](https://huggingface.co/datasets/wei2912/SPHERE-VLM)
 
 ## 🔥 News
 * **`2025.05.15`** SPHERE has been accepted to ACL Main!
