@@ -60,7 +60,7 @@ def get_model_by_name(model_name, device="cuda", load=True):
         return SpatialBot(device=device, load=load)
     elif model_name[:6] == "gemini":
         return GeminiAPI(version=model_name, load=load)
-    elif model_name[:3] == "gpt":
+    elif model_name[:3] == "gpt" or model_name[:2] == "o4":
         return OpenAIAPI(version=model_name, load=load)
     else:
         raise ValueError(f"Unknown model name: {model_name}")

@@ -2,6 +2,7 @@
 Google Gemini
 
 gemini-2.0-flash-exp: 10 RPM, 1500 RPD
+gemini-2.5-flash-preview-04-17: 10 RPM, 500 RPD
 """
 
 import os

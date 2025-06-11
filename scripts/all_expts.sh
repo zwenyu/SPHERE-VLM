@@ -2,7 +2,7 @@
 
 scripts=(
     "./run_baseline.sh"
-    "./gemini_flash.sh"
+    "./run_gemini2_flash.sh"
     "./run_gpt4o.sh"
     "./run_idefics2.sh"
     "./run_instruct_blip.sh"

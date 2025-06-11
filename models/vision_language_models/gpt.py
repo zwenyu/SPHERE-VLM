@@ -3,8 +3,7 @@ OpenAI GPT
 
 gpt-4o-mini: 500 RPM, 10,000 RPD
 gpt-4o: 500 RPM
-o1-mini: 500 RPM
-o1-preview: 500 RPM
+o4-mini: 500 RPM
 """
 
 import os
