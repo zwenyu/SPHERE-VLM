@@ -3,6 +3,7 @@
 🌐 [Website](https://sphere-vlm.github.io/) / 📖 [arXiv](https://arxiv.org/pdf/2412.12693) / 🤗 [Huggingface](https://huggingface.co/papers/2412.12693) / 🤗 [Huggingface Dataset](https://huggingface.co/datasets/wei2912/SPHERE-VLM)
 
 ## 🔥 News
+* **`2025.06.20`** Added evaluation for Gemini 2.5 Flash, o4-mini.
 * **`2025.05.15`** SPHERE has been accepted to ACL Main!
 * **`2025.02.28`** Initial release of SPHERE benchmark and dataset.
 ______________________________________________________________________
@@ -12,7 +13,7 @@ ______________________________________________________________________
 - 🧭 Egocentric vs. Allocentric Perspectives: Struggles in interpreting spatial relationships from different viewpoints.
 - 🧩 Spatial Logic & Physical Reasoning: Limitations in inferring an object's existence, position, and state based on occlusions, viewpoint changes, and interactions with the environment.
 
-Evaluated models: Phi-3.5-Vision, LLaVA-NeXT, LLaVA-OneVision, Qwen2-VL, InstructBLIP, Idefics2, InternVL2.5, Qwen-VL, Llama-3.2-Vision, Gemini 2.0 Flash, GPT-4o, SpatialBot, SpaceMantis, SpatialRGPT.
+Evaluated models: Phi-3.5-Vision, LLaVA-NeXT, LLaVA-OneVision, Qwen2-VL, Qwen2.5-VL, InstructBLIP, Idefics2, InternVL2.5, Qwen-VL, Llama-3.2-Vision, Janus-Pro, Gemini 2.0 Flash, Gemini 2.5 Flash, GPT-4o, o4-mini, SpatialBot, SpaceMantis, SpatialRGPT.
 
 <p align="center">
   <img src="demo_images/SPHERE_results_summary.png" alt="SPHERE results summary" width="500"/>
