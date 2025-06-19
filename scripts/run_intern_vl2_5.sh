@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/zhang_wenyu/Projects/SPHERE
+cd /home/zhang_wenyu/Projects/SPHERE-VLM
 
 model_name=intern_vl2_5
 single_skill_json=(size_only distance_only position_only counting_only-paired-distance_and_counting counting_only-paired-position_and_counting)

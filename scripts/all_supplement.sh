@@ -1,7 +1,7 @@
 #!/bin/bash
 
-cd /home/zhang_wenyu/Project/SPHERE
-export PYTHONPATH=/home/zhang_wenyu/Project/SPHERE/models/utils/SpatialRGPT:$PYTHONPATH
+cd /home/zhang_wenyu/Project/SPHERE-VLM
+export PYTHONPATH=/home/zhang_wenyu/Project/SPHERE-VLM/models/utils/SpatialRGPT:$PYTHONPATH
 
 models=(
     "gemini-2.0-flash-exp"
@@ -15,6 +15,9 @@ models=(
     "qwen_vl"
     "qwen2_vl_7b"
     "qwen2_vl_72b"
+    "qwen2_5_vl_7b"
+    "qwen2_5_vl_72b"
+    "janus_pro"
     "llama3_2_vision_11b"
     "llama3_2_vision_90b"
     "spatialrgpt_rgb"
