@@ -123,6 +123,6 @@ SPHERE-VLM/
     author = {Zhang, Wenyu and Ng, Wei En and Ma, Lixin and Wang, Yuwen and Zhao, Junqi and Koenecke, Allison and Li, Boyang and Wang, Lu},
     year = {2025},
     title = {{SPHERE: Unveiling Spatial Blind Spots in Vision-Language Models Through Hierarchical Evaluation}},
-    journal = {arXiv},
+    journal = {ACL},
 }
 ```
